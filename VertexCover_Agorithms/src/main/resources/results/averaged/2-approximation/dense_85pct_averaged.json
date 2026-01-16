@@ -1,0 +1,17 @@
+{
+  "testName": "dense_85pct",
+  "algorithm": "2-approximation",
+  "vertexCount": 21,
+  "edgeCount": 161,
+  "iterations": 5,
+  "avgCoverSize": 17.0,
+  "minCoverSize": 17.0,
+  "maxCoverSize": 17.0,
+  "avgTimeMs": 0.4476712,
+  "minTimeMs": 0.200883,
+  "maxTimeMs": 0.627401,
+  "stdDevTimeMs": 0.1796330223632615,
+  "avgMemoryBytes": 98006.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T19:17:21.008644868Z"
+}

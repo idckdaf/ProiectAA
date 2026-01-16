@@ -1,0 +1,77 @@
+[
+  {
+    "testName": "scale_free_20pct",
+    "algorithm": "hvala",
+    "iteration": 1,
+    "vertexCount": 21,
+    "edgeCount": 37,
+    "coverSize": 10,
+    "coverVertices": [
+      1,
+      2,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      17
+    ],
+    "timeMs": 0.051583,
+    "prepTimeMs": 0.018801,
+    "memoryBytes": 9402,
+    "valid": true,
+    "timestamp": "2026-01-16T20:17:05.307764437Z"
+  },
+  {
+    "testName": "scale_free_20pct",
+    "algorithm": "hvala",
+    "iteration": 2,
+    "vertexCount": 21,
+    "edgeCount": 37,
+    "coverSize": 10,
+    "coverVertices": [
+      1,
+      2,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      17
+    ],
+    "timeMs": 0.057573,
+    "prepTimeMs": 0.018511,
+    "memoryBytes": 9402,
+    "valid": true,
+    "timestamp": "2026-01-16T20:17:05.307818617Z"
+  },
+  {
+    "testName": "scale_free_20pct",
+    "algorithm": "hvala",
+    "iteration": 3,
+    "vertexCount": 21,
+    "edgeCount": 37,
+    "coverSize": 10,
+    "coverVertices": [
+      1,
+      2,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      17
+    ],
+    "timeMs": 0.05487,
+    "prepTimeMs": 0.006894,
+    "memoryBytes": 9402,
+    "valid": true,
+    "timestamp": "2026-01-16T20:17:05.307833302Z"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "testName": "regular_deg2",
+  "algorithm": "hvala",
+  "vertexCount": 19,
+  "edgeCount": 18,
+  "iterations": 3,
+  "avgCoverSize": 9.0,
+  "minCoverSize": 9.0,
+  "maxCoverSize": 9.0,
+  "avgTimeMs": 0.06854766666666666,
+  "minTimeMs": 0.056977,
+  "maxTimeMs": 0.082773,
+  "stdDevTimeMs": 0.010697159913837982,
+  "avgPrepTimeMs": 0.015047,
+  "avgMemoryBytes": 9066.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T20:16:53.766417371Z"
+}

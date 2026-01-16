@@ -1,0 +1,18 @@
+{
+  "testName": "tree_20pct",
+  "algorithm": "backtracking",
+  "vertexCount": 20,
+  "edgeCount": 18,
+  "iterations": 3,
+  "avgCoverSize": 8.0,
+  "minCoverSize": 8.0,
+  "maxCoverSize": 8.0,
+  "avgTimeMs": 0.10533566666666666,
+  "minTimeMs": 0.066783,
+  "maxTimeMs": 0.175461,
+  "stdDevTimeMs": 0.04966790970256573,
+  "avgPrepTimeMs": 0.032710333333333334,
+  "avgMemoryBytes": 12776.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T20:33:45.600248566Z"
+}

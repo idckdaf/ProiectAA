@@ -1,0 +1,97 @@
+[
+  {
+    "testName": "test3_larger",
+    "algorithm": "backtracking",
+    "iteration": 1,
+    "vertexCount": 10,
+    "edgeCount": 15,
+    "coverSize": 5,
+    "coverVertices": [
+      1,
+      2,
+      4,
+      5,
+      8
+    ],
+    "timeMs": 0.067975,
+    "memoryBytes": 10494,
+    "valid": true,
+    "timestamp": "2026-01-16T17:42:59.373337012Z"
+  },
+  {
+    "testName": "test3_larger",
+    "algorithm": "backtracking",
+    "iteration": 2,
+    "vertexCount": 10,
+    "edgeCount": 15,
+    "coverSize": 5,
+    "coverVertices": [
+      1,
+      2,
+      4,
+      5,
+      8
+    ],
+    "timeMs": 0.19758,
+    "memoryBytes": 10494,
+    "valid": true,
+    "timestamp": "2026-01-16T17:42:59.373380845Z"
+  },
+  {
+    "testName": "test3_larger",
+    "algorithm": "backtracking",
+    "iteration": 3,
+    "vertexCount": 10,
+    "edgeCount": 15,
+    "coverSize": 5,
+    "coverVertices": [
+      1,
+      2,
+      4,
+      5,
+      8
+    ],
+    "timeMs": 0.12167,
+    "memoryBytes": 10494,
+    "valid": true,
+    "timestamp": "2026-01-16T17:42:59.373398466Z"
+  },
+  {
+    "testName": "test3_larger",
+    "algorithm": "backtracking",
+    "iteration": 4,
+    "vertexCount": 10,
+    "edgeCount": 15,
+    "coverSize": 5,
+    "coverVertices": [
+      1,
+      2,
+      4,
+      5,
+      8
+    ],
+    "timeMs": 0.079114,
+    "memoryBytes": 10494,
+    "valid": true,
+    "timestamp": "2026-01-16T17:42:59.373412434Z"
+  },
+  {
+    "testName": "test3_larger",
+    "algorithm": "backtracking",
+    "iteration": 5,
+    "vertexCount": 10,
+    "edgeCount": 15,
+    "coverSize": 5,
+    "coverVertices": [
+      1,
+      2,
+      4,
+      5,
+      8
+    ],
+    "timeMs": 0.206233,
+    "memoryBytes": 10494,
+    "valid": true,
+    "timestamp": "2026-01-16T17:42:59.373424817Z"
+  }
+]

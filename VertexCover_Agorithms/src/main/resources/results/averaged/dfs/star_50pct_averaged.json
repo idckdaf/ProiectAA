@@ -1,0 +1,18 @@
+{
+  "testName": "star_50pct",
+  "algorithm": "dfs",
+  "vertexCount": 18,
+  "edgeCount": 76,
+  "iterations": 3,
+  "avgCoverSize": 16.0,
+  "minCoverSize": 16.0,
+  "maxCoverSize": 16.0,
+  "avgTimeMs": 0.04018233333333333,
+  "minTimeMs": 0.019781,
+  "maxTimeMs": 0.08054,
+  "stdDevTimeMs": 0.028537758033096355,
+  "avgPrepTimeMs": 3.1433333333333335E-4,
+  "avgMemoryBytes": 9314.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T20:14:50.630669865Z"
+}

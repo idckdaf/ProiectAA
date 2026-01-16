@@ -1,0 +1,102 @@
+[
+  {
+    "testName": "bipartite_20pct",
+    "algorithm": "2-approximation",
+    "iteration": 1,
+    "vertexCount": 17,
+    "edgeCount": 12,
+    "coverSize": 6,
+    "coverVertices": [
+      9,
+      11,
+      12,
+      13,
+      15,
+      16
+    ],
+    "timeMs": 0.338402,
+    "memoryBytes": 32774,
+    "valid": true,
+    "timestamp": "2026-01-16T19:16:30.665907808Z"
+  },
+  {
+    "testName": "bipartite_20pct",
+    "algorithm": "2-approximation",
+    "iteration": 2,
+    "vertexCount": 17,
+    "edgeCount": 12,
+    "coverSize": 6,
+    "coverVertices": [
+      9,
+      11,
+      12,
+      13,
+      15,
+      16
+    ],
+    "timeMs": 0.575149,
+    "memoryBytes": 32774,
+    "valid": true,
+    "timestamp": "2026-01-16T19:16:30.666051957Z"
+  },
+  {
+    "testName": "bipartite_20pct",
+    "algorithm": "2-approximation",
+    "iteration": 3,
+    "vertexCount": 17,
+    "edgeCount": 12,
+    "coverSize": 6,
+    "coverVertices": [
+      9,
+      11,
+      12,
+      13,
+      15,
+      16
+    ],
+    "timeMs": 0.208122,
+    "memoryBytes": 32774,
+    "valid": true,
+    "timestamp": "2026-01-16T19:16:30.666069205Z"
+  },
+  {
+    "testName": "bipartite_20pct",
+    "algorithm": "2-approximation",
+    "iteration": 4,
+    "vertexCount": 17,
+    "edgeCount": 12,
+    "coverSize": 6,
+    "coverVertices": [
+      9,
+      11,
+      12,
+      13,
+      15,
+      16
+    ],
+    "timeMs": 0.31998,
+    "memoryBytes": 32774,
+    "valid": true,
+    "timestamp": "2026-01-16T19:16:30.666081571Z"
+  },
+  {
+    "testName": "bipartite_20pct",
+    "algorithm": "2-approximation",
+    "iteration": 5,
+    "vertexCount": 17,
+    "edgeCount": 12,
+    "coverSize": 6,
+    "coverVertices": [
+      9,
+      11,
+      12,
+      13,
+      15,
+      16
+    ],
+    "timeMs": 0.520434,
+    "memoryBytes": 32774,
+    "valid": true,
+    "timestamp": "2026-01-16T19:16:30.666093755Z"
+  }
+]

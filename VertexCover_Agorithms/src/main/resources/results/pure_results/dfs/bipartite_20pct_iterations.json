@@ -1,0 +1,74 @@
+[
+  {
+    "testName": "bipartite_20pct",
+    "algorithm": "dfs",
+    "iteration": 1,
+    "vertexCount": 17,
+    "edgeCount": 12,
+    "coverSize": 9,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      6,
+      8,
+      11,
+      12,
+      13,
+      16
+    ],
+    "timeMs": 0.03637,
+    "prepTimeMs": 0.00141,
+    "memoryBytes": 9074,
+    "valid": true,
+    "timestamp": "2026-01-16T20:12:46.431422712Z"
+  },
+  {
+    "testName": "bipartite_20pct",
+    "algorithm": "dfs",
+    "iteration": 2,
+    "vertexCount": 17,
+    "edgeCount": 12,
+    "coverSize": 9,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      6,
+      8,
+      11,
+      12,
+      13,
+      16
+    ],
+    "timeMs": 0.027914,
+    "prepTimeMs": 0.001272,
+    "memoryBytes": 9074,
+    "valid": true,
+    "timestamp": "2026-01-16T20:12:46.431698466Z"
+  },
+  {
+    "testName": "bipartite_20pct",
+    "algorithm": "dfs",
+    "iteration": 3,
+    "vertexCount": 17,
+    "edgeCount": 12,
+    "coverSize": 9,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      6,
+      8,
+      11,
+      12,
+      13,
+      16
+    ],
+    "timeMs": 0.028745,
+    "prepTimeMs": 3.47E-4,
+    "memoryBytes": 9074,
+    "valid": true,
+    "timestamp": "2026-01-16T20:12:46.431726733Z"
+  }
+]

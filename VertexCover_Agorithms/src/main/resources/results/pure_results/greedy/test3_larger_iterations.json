@@ -1,0 +1,97 @@
+[
+  {
+    "testName": "test3_larger",
+    "algorithm": "greedy",
+    "iteration": 1,
+    "vertexCount": 10,
+    "edgeCount": 15,
+    "coverSize": 6,
+    "coverVertices": [
+      0,
+      2,
+      3,
+      5,
+      6,
+      8
+    ],
+    "timeMs": 0.152097,
+    "valid": true,
+    "timestamp": "2026-01-16T15:32:17.179340737Z"
+  },
+  {
+    "testName": "test3_larger",
+    "algorithm": "greedy",
+    "iteration": 2,
+    "vertexCount": 10,
+    "edgeCount": 15,
+    "coverSize": 6,
+    "coverVertices": [
+      0,
+      2,
+      3,
+      5,
+      6,
+      8
+    ],
+    "timeMs": 0.177115,
+    "valid": true,
+    "timestamp": "2026-01-16T15:32:17.191728233Z"
+  },
+  {
+    "testName": "test3_larger",
+    "algorithm": "greedy",
+    "iteration": 3,
+    "vertexCount": 10,
+    "edgeCount": 15,
+    "coverSize": 6,
+    "coverVertices": [
+      0,
+      2,
+      3,
+      5,
+      6,
+      8
+    ],
+    "timeMs": 0.110577,
+    "valid": true,
+    "timestamp": "2026-01-16T15:32:17.203764664Z"
+  },
+  {
+    "testName": "test3_larger",
+    "algorithm": "greedy",
+    "iteration": 4,
+    "vertexCount": 10,
+    "edgeCount": 15,
+    "coverSize": 6,
+    "coverVertices": [
+      0,
+      2,
+      3,
+      5,
+      6,
+      8
+    ],
+    "timeMs": 0.12288,
+    "valid": true,
+    "timestamp": "2026-01-16T15:32:17.214608560Z"
+  },
+  {
+    "testName": "test3_larger",
+    "algorithm": "greedy",
+    "iteration": 5,
+    "vertexCount": 10,
+    "edgeCount": 15,
+    "coverSize": 6,
+    "coverVertices": [
+      0,
+      2,
+      3,
+      5,
+      6,
+      8
+    ],
+    "timeMs": 0.134447,
+    "valid": true,
+    "timestamp": "2026-01-16T15:32:17.226042533Z"
+  }
+]

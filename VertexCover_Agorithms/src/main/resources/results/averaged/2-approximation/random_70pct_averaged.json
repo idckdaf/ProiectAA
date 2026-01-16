@@ -1,0 +1,17 @@
+{
+  "testName": "random_70pct",
+  "algorithm": "2-approximation",
+  "vertexCount": 18,
+  "edgeCount": 95,
+  "iterations": 5,
+  "avgCoverSize": 14.0,
+  "minCoverSize": 14.0,
+  "maxCoverSize": 14.0,
+  "avgTimeMs": 0.2475326,
+  "minTimeMs": 0.093793,
+  "maxTimeMs": 0.449501,
+  "stdDevTimeMs": 0.14300824365413345,
+  "avgMemoryBytes": 68686.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T19:18:21.500204771Z"
+}

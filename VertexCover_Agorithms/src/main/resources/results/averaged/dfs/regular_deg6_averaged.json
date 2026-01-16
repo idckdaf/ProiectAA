@@ -1,0 +1,18 @@
+{
+  "testName": "regular_deg6",
+  "algorithm": "dfs",
+  "vertexCount": 21,
+  "edgeCount": 60,
+  "iterations": 3,
+  "avgCoverSize": 17.0,
+  "minCoverSize": 17.0,
+  "maxCoverSize": 17.0,
+  "avgTimeMs": 0.022987666666666667,
+  "minTimeMs": 0.019215,
+  "maxTimeMs": 0.026957,
+  "stdDevTimeMs": 0.0031637160990764567,
+  "avgPrepTimeMs": 1.4733333333333333E-4,
+  "avgMemoryBytes": 9602.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T20:14:24.392270014Z"
+}

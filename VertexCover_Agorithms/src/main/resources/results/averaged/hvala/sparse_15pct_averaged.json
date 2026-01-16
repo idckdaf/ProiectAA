@@ -1,0 +1,18 @@
+{
+  "testName": "sparse_15pct",
+  "algorithm": "hvala",
+  "vertexCount": 20,
+  "edgeCount": 25,
+  "iterations": 3,
+  "avgCoverSize": 8.0,
+  "minCoverSize": 8.0,
+  "maxCoverSize": 8.0,
+  "avgTimeMs": 0.05457399999999999,
+  "minTimeMs": 0.046475,
+  "maxTimeMs": 0.061269,
+  "stdDevTimeMs": 0.006120676487665937,
+  "avgPrepTimeMs": 0.012940666666666668,
+  "avgMemoryBytes": 9186.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T20:17:16.834769626Z"
+}

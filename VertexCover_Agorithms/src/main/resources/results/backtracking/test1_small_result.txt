@@ -1,0 +1,15 @@
+Test: test1_small
+========================================
+
+Graph Info:
+  Vertices: 6
+  Edges: 7
+
+Result:
+  Cover Size: 3
+  Cover Vertices: [1, 2, 4]
+  Valid Cover: true
+
+Performance:
+  Iterations: 5
+  Average Time: 0.2792 ms

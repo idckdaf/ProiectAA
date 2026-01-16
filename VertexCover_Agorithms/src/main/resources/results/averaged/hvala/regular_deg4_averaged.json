@@ -1,0 +1,18 @@
+{
+  "testName": "regular_deg4",
+  "algorithm": "hvala",
+  "vertexCount": 19,
+  "edgeCount": 36,
+  "iterations": 3,
+  "avgCoverSize": 12.0,
+  "minCoverSize": 12.0,
+  "maxCoverSize": 12.0,
+  "avgTimeMs": 0.08622599999999998,
+  "minTimeMs": 0.056635,
+  "maxTimeMs": 0.112095,
+  "stdDevTimeMs": 0.022793900690023784,
+  "avgPrepTimeMs": 0.022683,
+  "avgMemoryBytes": 9306.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T20:16:57.607482882Z"
+}

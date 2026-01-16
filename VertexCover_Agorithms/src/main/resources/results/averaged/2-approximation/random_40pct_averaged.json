@@ -1,0 +1,17 @@
+{
+  "testName": "random_40pct",
+  "algorithm": "2-approximation",
+  "vertexCount": 19,
+  "edgeCount": 61,
+  "iterations": 5,
+  "avgCoverSize": 12.0,
+  "minCoverSize": 12.0,
+  "maxCoverSize": 12.0,
+  "avgTimeMs": 0.11649880000000001,
+  "minTimeMs": 0.083969,
+  "maxTimeMs": 0.224806,
+  "stdDevTimeMs": 0.0545198758047008,
+  "avgMemoryBytes": 56078.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T19:18:11.462166074Z"
+}

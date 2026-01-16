@@ -1,0 +1,18 @@
+{
+  "testName": "cycle_20pct",
+  "algorithm": "dfs",
+  "vertexCount": 19,
+  "edgeCount": 45,
+  "iterations": 3,
+  "avgCoverSize": 15.0,
+  "minCoverSize": 15.0,
+  "maxCoverSize": 15.0,
+  "avgTimeMs": 0.029556333333333334,
+  "minTimeMs": 0.025214,
+  "maxTimeMs": 0.035806,
+  "stdDevTimeMs": 0.004529610456638505,
+  "avgPrepTimeMs": 9.033333333333334E-4,
+  "avgMemoryBytes": 9410.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T20:13:12.872877548Z"
+}

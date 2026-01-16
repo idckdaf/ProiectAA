@@ -1,0 +1,18 @@
+{
+  "testName": "planar_80pct",
+  "algorithm": "dfs",
+  "vertexCount": 16,
+  "edgeCount": 31,
+  "iterations": 3,
+  "avgCoverSize": 14.0,
+  "minCoverSize": 14.0,
+  "maxCoverSize": 14.0,
+  "avgTimeMs": 0.016539666666666664,
+  "minTimeMs": 0.016002,
+  "maxTimeMs": 0.017224,
+  "stdDevTimeMs": 5.095451130392895E-4,
+  "avgPrepTimeMs": 1.3666666666666666E-4,
+  "avgMemoryBytes": 9112.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T20:13:50.611148937Z"
+}

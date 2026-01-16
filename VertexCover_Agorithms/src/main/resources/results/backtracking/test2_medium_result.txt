@@ -1,0 +1,15 @@
+Test: test2_medium
+========================================
+
+Graph Info:
+  Vertices: 8
+  Edges: 12
+
+Result:
+  Cover Size: 4
+  Cover Vertices: [0, 2, 4, 6]
+  Valid Cover: true
+
+Performance:
+  Iterations: 5
+  Average Time: 0.1935 ms

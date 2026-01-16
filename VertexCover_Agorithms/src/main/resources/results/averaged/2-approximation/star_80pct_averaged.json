@@ -1,0 +1,17 @@
+{
+  "testName": "star_80pct",
+  "algorithm": "2-approximation",
+  "vertexCount": 18,
+  "edgeCount": 112,
+  "iterations": 5,
+  "avgCoverSize": 14.0,
+  "minCoverSize": 14.0,
+  "maxCoverSize": 14.0,
+  "avgTimeMs": 0.1879334,
+  "minTimeMs": 0.126365,
+  "maxTimeMs": 0.243792,
+  "stdDevTimeMs": 0.037559261279210485,
+  "avgMemoryBytes": 75118.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T19:19:21.383130633Z"
+}

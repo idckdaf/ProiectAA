@@ -1,0 +1,112 @@
+[
+  {
+    "testName": "tree_20pct",
+    "algorithm": "2-approximation",
+    "iteration": 1,
+    "vertexCount": 20,
+    "edgeCount": 18,
+    "coverSize": 8,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      8,
+      9,
+      14,
+      16
+    ],
+    "timeMs": 0.196199,
+    "memoryBytes": 39526,
+    "valid": true,
+    "timestamp": "2026-01-16T19:19:26.396041739Z"
+  },
+  {
+    "testName": "tree_20pct",
+    "algorithm": "2-approximation",
+    "iteration": 2,
+    "vertexCount": 20,
+    "edgeCount": 18,
+    "coverSize": 8,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      8,
+      9,
+      14,
+      16
+    ],
+    "timeMs": 0.132273,
+    "memoryBytes": 39526,
+    "valid": true,
+    "timestamp": "2026-01-16T19:19:26.396084839Z"
+  },
+  {
+    "testName": "tree_20pct",
+    "algorithm": "2-approximation",
+    "iteration": 3,
+    "vertexCount": 20,
+    "edgeCount": 18,
+    "coverSize": 8,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      8,
+      9,
+      14,
+      16
+    ],
+    "timeMs": 0.0823,
+    "memoryBytes": 39526,
+    "valid": true,
+    "timestamp": "2026-01-16T19:19:26.396098326Z"
+  },
+  {
+    "testName": "tree_20pct",
+    "algorithm": "2-approximation",
+    "iteration": 4,
+    "vertexCount": 20,
+    "edgeCount": 18,
+    "coverSize": 8,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      8,
+      9,
+      14,
+      16
+    ],
+    "timeMs": 0.160511,
+    "memoryBytes": 39526,
+    "valid": true,
+    "timestamp": "2026-01-16T19:19:26.396108158Z"
+  },
+  {
+    "testName": "tree_20pct",
+    "algorithm": "2-approximation",
+    "iteration": 5,
+    "vertexCount": 20,
+    "edgeCount": 18,
+    "coverSize": 8,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      8,
+      9,
+      14,
+      16
+    ],
+    "timeMs": 0.129931,
+    "memoryBytes": 39526,
+    "valid": true,
+    "timestamp": "2026-01-16T19:19:26.396116279Z"
+  }
+]

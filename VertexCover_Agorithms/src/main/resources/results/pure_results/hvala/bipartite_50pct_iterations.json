@@ -1,0 +1,74 @@
+[
+  {
+    "testName": "bipartite_50pct",
+    "algorithm": "hvala",
+    "iteration": 1,
+    "vertexCount": 19,
+    "edgeCount": 40,
+    "coverSize": 9,
+    "coverVertices": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "timeMs": 0.277941,
+    "prepTimeMs": 0.115326,
+    "memoryBytes": 9264,
+    "valid": true,
+    "timestamp": "2026-01-16T20:15:24.452419555Z"
+  },
+  {
+    "testName": "bipartite_50pct",
+    "algorithm": "hvala",
+    "iteration": 2,
+    "vertexCount": 19,
+    "edgeCount": 40,
+    "coverSize": 9,
+    "coverVertices": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "timeMs": 0.269288,
+    "prepTimeMs": 0.074654,
+    "memoryBytes": 9264,
+    "valid": true,
+    "timestamp": "2026-01-16T20:15:24.452457609Z"
+  },
+  {
+    "testName": "bipartite_50pct",
+    "algorithm": "hvala",
+    "iteration": 3,
+    "vertexCount": 19,
+    "edgeCount": 40,
+    "coverSize": 9,
+    "coverVertices": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "timeMs": 0.181824,
+    "prepTimeMs": 0.017581,
+    "memoryBytes": 9264,
+    "valid": true,
+    "timestamp": "2026-01-16T20:15:24.452604027Z"
+  }
+]

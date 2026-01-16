@@ -1,0 +1,74 @@
+[
+  {
+    "testName": "regular_deg2",
+    "algorithm": "hvala",
+    "iteration": 1,
+    "vertexCount": 19,
+    "edgeCount": 18,
+    "coverSize": 9,
+    "coverVertices": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      14
+    ],
+    "timeMs": 0.082773,
+    "prepTimeMs": 0.021268,
+    "memoryBytes": 9066,
+    "valid": true,
+    "timestamp": "2026-01-16T20:16:53.765862586Z"
+  },
+  {
+    "testName": "regular_deg2",
+    "algorithm": "hvala",
+    "iteration": 2,
+    "vertexCount": 19,
+    "edgeCount": 18,
+    "coverSize": 9,
+    "coverVertices": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      14
+    ],
+    "timeMs": 0.065893,
+    "prepTimeMs": 0.019292,
+    "memoryBytes": 9066,
+    "valid": true,
+    "timestamp": "2026-01-16T20:16:53.765903407Z"
+  },
+  {
+    "testName": "regular_deg2",
+    "algorithm": "hvala",
+    "iteration": 3,
+    "vertexCount": 19,
+    "edgeCount": 18,
+    "coverSize": 9,
+    "coverVertices": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      14
+    ],
+    "timeMs": 0.056977,
+    "prepTimeMs": 0.004581,
+    "memoryBytes": 9066,
+    "valid": true,
+    "timestamp": "2026-01-16T20:16:53.765913924Z"
+  }
+]

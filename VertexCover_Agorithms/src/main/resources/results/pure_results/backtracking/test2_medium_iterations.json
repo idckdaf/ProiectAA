@@ -1,0 +1,92 @@
+[
+  {
+    "testName": "test2_medium",
+    "algorithm": "backtracking",
+    "iteration": 1,
+    "vertexCount": 8,
+    "edgeCount": 12,
+    "coverSize": 4,
+    "coverVertices": [
+      0,
+      2,
+      4,
+      6
+    ],
+    "timeMs": 0.239786,
+    "memoryBytes": 9812,
+    "valid": true,
+    "timestamp": "2026-01-16T17:42:54.310055732Z"
+  },
+  {
+    "testName": "test2_medium",
+    "algorithm": "backtracking",
+    "iteration": 2,
+    "vertexCount": 8,
+    "edgeCount": 12,
+    "coverSize": 4,
+    "coverVertices": [
+      0,
+      2,
+      4,
+      6
+    ],
+    "timeMs": 0.060013,
+    "memoryBytes": 9812,
+    "valid": true,
+    "timestamp": "2026-01-16T17:42:54.310105805Z"
+  },
+  {
+    "testName": "test2_medium",
+    "algorithm": "backtracking",
+    "iteration": 3,
+    "vertexCount": 8,
+    "edgeCount": 12,
+    "coverSize": 4,
+    "coverVertices": [
+      0,
+      2,
+      4,
+      6
+    ],
+    "timeMs": 0.090132,
+    "memoryBytes": 9812,
+    "valid": true,
+    "timestamp": "2026-01-16T17:42:54.310124244Z"
+  },
+  {
+    "testName": "test2_medium",
+    "algorithm": "backtracking",
+    "iteration": 4,
+    "vertexCount": 8,
+    "edgeCount": 12,
+    "coverSize": 4,
+    "coverVertices": [
+      0,
+      2,
+      4,
+      6
+    ],
+    "timeMs": 0.206284,
+    "memoryBytes": 9812,
+    "valid": true,
+    "timestamp": "2026-01-16T17:42:54.310143133Z"
+  },
+  {
+    "testName": "test2_medium",
+    "algorithm": "backtracking",
+    "iteration": 5,
+    "vertexCount": 8,
+    "edgeCount": 12,
+    "coverSize": 4,
+    "coverVertices": [
+      0,
+      2,
+      4,
+      6
+    ],
+    "timeMs": 0.190703,
+    "memoryBytes": 9812,
+    "valid": true,
+    "timestamp": "2026-01-16T17:42:54.310157827Z"
+  }
+]

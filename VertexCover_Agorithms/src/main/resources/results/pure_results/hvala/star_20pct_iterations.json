@@ -1,0 +1,77 @@
+[
+  {
+    "testName": "star_20pct",
+    "algorithm": "hvala",
+    "iteration": 1,
+    "vertexCount": 20,
+    "edgeCount": 48,
+    "coverSize": 10,
+    "coverVertices": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      9,
+      12,
+      13,
+      14,
+      17
+    ],
+    "timeMs": 0.156983,
+    "prepTimeMs": 0.015165,
+    "memoryBytes": 9424,
+    "valid": true,
+    "timestamp": "2026-01-16T20:17:24.490958493Z"
+  },
+  {
+    "testName": "star_20pct",
+    "algorithm": "hvala",
+    "iteration": 2,
+    "vertexCount": 20,
+    "edgeCount": 48,
+    "coverSize": 10,
+    "coverVertices": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      9,
+      12,
+      13,
+      14,
+      17
+    ],
+    "timeMs": 0.045789,
+    "prepTimeMs": 0.0723,
+    "memoryBytes": 9424,
+    "valid": true,
+    "timestamp": "2026-01-16T20:17:24.491019555Z"
+  },
+  {
+    "testName": "star_20pct",
+    "algorithm": "hvala",
+    "iteration": 3,
+    "vertexCount": 20,
+    "edgeCount": 48,
+    "coverSize": 10,
+    "coverVertices": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      9,
+      12,
+      13,
+      14,
+      17
+    ],
+    "timeMs": 0.154949,
+    "prepTimeMs": 0.008924,
+    "memoryBytes": 9424,
+    "valid": true,
+    "timestamp": "2026-01-16T20:17:24.491036886Z"
+  }
+]

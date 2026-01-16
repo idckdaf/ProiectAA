@@ -1,0 +1,22 @@
+BACKTRACKING RESULTS
+============================================================
+Iterations per test: 5
+
+Test: test1_small
+  Vertices: 6, Edges: 7
+  Cover Size: 3
+  Avg Time: 0.2792 ms
+  Valid: true
+
+Test: test2_medium
+  Vertices: 8, Edges: 12
+  Cover Size: 4
+  Avg Time: 0.1935 ms
+  Valid: true
+
+Test: test3_larger
+  Vertices: 10, Edges: 15
+  Cover Size: 5
+  Avg Time: 0.0956 ms
+  Valid: true
+

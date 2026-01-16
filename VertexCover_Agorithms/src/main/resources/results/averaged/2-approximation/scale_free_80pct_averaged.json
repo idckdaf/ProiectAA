@@ -1,0 +1,17 @@
+{
+  "testName": "scale_free_80pct",
+  "algorithm": "2-approximation",
+  "vertexCount": 17,
+  "edgeCount": 54,
+  "iterations": 5,
+  "avgCoverSize": 9.0,
+  "minCoverSize": 9.0,
+  "maxCoverSize": 9.0,
+  "avgTimeMs": 0.08766139999999999,
+  "minTimeMs": 0.06862,
+  "maxTimeMs": 0.094531,
+  "stdDevTimeMs": 0.009587006928129341,
+  "avgMemoryBytes": 49110.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T19:18:56.388729883Z"
+}

@@ -1,0 +1,18 @@
+{
+  "testName": "dense_95pct",
+  "algorithm": "dfs",
+  "vertexCount": 17,
+  "edgeCount": 114,
+  "iterations": 3,
+  "avgCoverSize": 15.0,
+  "minCoverSize": 15.0,
+  "maxCoverSize": 15.0,
+  "avgTimeMs": 0.03968633333333333,
+  "minTimeMs": 0.026118,
+  "maxTimeMs": 0.053893,
+  "stdDevTimeMs": 0.011348076440035507,
+  "avgPrepTimeMs": 0.001003,
+  "avgMemoryBytes": 9208.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T20:13:27.976559273Z"
+}

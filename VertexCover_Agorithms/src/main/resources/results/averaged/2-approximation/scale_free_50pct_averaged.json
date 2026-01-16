@@ -1,0 +1,17 @@
+{
+  "testName": "scale_free_50pct",
+  "algorithm": "2-approximation",
+  "vertexCount": 17,
+  "edgeCount": 29,
+  "iterations": 5,
+  "avgCoverSize": 7.0,
+  "minCoverSize": 7.0,
+  "maxCoverSize": 7.0,
+  "avgTimeMs": 0.07500500000000002,
+  "minTimeMs": 0.060074,
+  "maxTimeMs": 0.095688,
+  "stdDevTimeMs": 0.013077019109873623,
+  "avgMemoryBytes": 38198.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T19:18:51.416205094Z"
+}

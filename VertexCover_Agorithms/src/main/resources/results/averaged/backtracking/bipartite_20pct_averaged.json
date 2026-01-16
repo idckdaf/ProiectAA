@@ -1,0 +1,18 @@
+{
+  "testName": "bipartite_20pct",
+  "algorithm": "backtracking",
+  "vertexCount": 17,
+  "edgeCount": 12,
+  "iterations": 3,
+  "avgCoverSize": 6.0,
+  "minCoverSize": 6.0,
+  "maxCoverSize": 6.0,
+  "avgTimeMs": 0.20454433333333333,
+  "minTimeMs": 0.086892,
+  "maxTimeMs": 0.392403,
+  "stdDevTimeMs": 0.13424092696922038,
+  "avgPrepTimeMs": 0.10784299999999998,
+  "avgMemoryBytes": 12088.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T20:31:34.518089655Z"
+}

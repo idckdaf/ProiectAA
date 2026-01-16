@@ -1,0 +1,77 @@
+[
+  {
+    "testName": "tree_20pct",
+    "algorithm": "dfs",
+    "iteration": 1,
+    "vertexCount": 20,
+    "edgeCount": 18,
+    "coverSize": 10,
+    "coverVertices": [
+      1,
+      3,
+      4,
+      6,
+      8,
+      9,
+      11,
+      14,
+      16,
+      19
+    ],
+    "timeMs": 0.029034,
+    "prepTimeMs": 2.73E-4,
+    "memoryBytes": 9362,
+    "valid": true,
+    "timestamp": "2026-01-16T20:14:58.177182178Z"
+  },
+  {
+    "testName": "tree_20pct",
+    "algorithm": "dfs",
+    "iteration": 2,
+    "vertexCount": 20,
+    "edgeCount": 18,
+    "coverSize": 10,
+    "coverVertices": [
+      1,
+      3,
+      4,
+      6,
+      8,
+      9,
+      11,
+      14,
+      16,
+      19
+    ],
+    "timeMs": 0.025143,
+    "prepTimeMs": 3.93E-4,
+    "memoryBytes": 9362,
+    "valid": true,
+    "timestamp": "2026-01-16T20:14:58.177227167Z"
+  },
+  {
+    "testName": "tree_20pct",
+    "algorithm": "dfs",
+    "iteration": 3,
+    "vertexCount": 20,
+    "edgeCount": 18,
+    "coverSize": 10,
+    "coverVertices": [
+      1,
+      3,
+      4,
+      6,
+      8,
+      9,
+      11,
+      14,
+      16,
+      19
+    ],
+    "timeMs": 0.024026,
+    "prepTimeMs": 1.7E-4,
+    "memoryBytes": 9362,
+    "valid": true,
+    "timestamp": "2026-01-16T20:14:58.177241507Z"
+  }
+]

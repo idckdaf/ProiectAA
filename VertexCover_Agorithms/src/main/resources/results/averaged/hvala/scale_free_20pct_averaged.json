@@ -1,0 +1,18 @@
+{
+  "testName": "scale_free_20pct",
+  "algorithm": "hvala",
+  "vertexCount": 21,
+  "edgeCount": 37,
+  "iterations": 3,
+  "avgCoverSize": 10.0,
+  "minCoverSize": 10.0,
+  "maxCoverSize": 10.0,
+  "avgTimeMs": 0.05467533333333333,
+  "minTimeMs": 0.051583,
+  "maxTimeMs": 0.057573,
+  "stdDevTimeMs": 0.0024492783064042002,
+  "avgPrepTimeMs": 0.014735333333333331,
+  "avgMemoryBytes": 9402.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T20:17:05.308273937Z"
+}

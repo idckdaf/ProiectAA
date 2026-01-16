@@ -1,0 +1,18 @@
+{
+  "testName": "bipartite_50pct",
+  "algorithm": "hvala",
+  "vertexCount": 19,
+  "edgeCount": 40,
+  "iterations": 3,
+  "avgCoverSize": 9.0,
+  "minCoverSize": 9.0,
+  "maxCoverSize": 9.0,
+  "avgTimeMs": 0.24301766666666666,
+  "minTimeMs": 0.181824,
+  "maxTimeMs": 0.277941,
+  "stdDevTimeMs": 0.04341441567293313,
+  "avgPrepTimeMs": 0.069187,
+  "avgMemoryBytes": 9264.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T20:15:24.453113218Z"
+}

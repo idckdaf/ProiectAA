@@ -1,0 +1,18 @@
+{
+  "testName": "random_10pct",
+  "algorithm": "dfs",
+  "vertexCount": 20,
+  "edgeCount": 19,
+  "iterations": 3,
+  "avgCoverSize": 10.0,
+  "minCoverSize": 10.0,
+  "maxCoverSize": 10.0,
+  "avgTimeMs": 0.020292333333333332,
+  "minTimeMs": 0.018411,
+  "maxTimeMs": 0.021427,
+  "stdDevTimeMs": 0.001339700795783231,
+  "avgPrepTimeMs": 1.8066666666666665E-4,
+  "avgMemoryBytes": 9362.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T20:13:54.380868263Z"
+}

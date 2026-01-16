@@ -1,0 +1,74 @@
+[
+  {
+    "testName": "regular_deg2",
+    "algorithm": "backtracking",
+    "iteration": 1,
+    "vertexCount": 19,
+    "edgeCount": 18,
+    "coverSize": 9,
+    "coverVertices": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      14
+    ],
+    "timeMs": 0.0611,
+    "prepTimeMs": 0.029598,
+    "memoryBytes": 12762,
+    "valid": true,
+    "timestamp": "2026-01-16T20:33:04.433096022Z"
+  },
+  {
+    "testName": "regular_deg2",
+    "algorithm": "backtracking",
+    "iteration": 2,
+    "vertexCount": 19,
+    "edgeCount": 18,
+    "coverSize": 9,
+    "coverVertices": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      14
+    ],
+    "timeMs": 0.047384,
+    "prepTimeMs": 0.029975,
+    "memoryBytes": 12762,
+    "valid": true,
+    "timestamp": "2026-01-16T20:33:04.433141987Z"
+  },
+  {
+    "testName": "regular_deg2",
+    "algorithm": "backtracking",
+    "iteration": 3,
+    "vertexCount": 19,
+    "edgeCount": 18,
+    "coverSize": 9,
+    "coverVertices": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      14
+    ],
+    "timeMs": 0.049529,
+    "prepTimeMs": 0.011453,
+    "memoryBytes": 12762,
+    "valid": true,
+    "timestamp": "2026-01-16T20:33:04.433152214Z"
+  }
+]

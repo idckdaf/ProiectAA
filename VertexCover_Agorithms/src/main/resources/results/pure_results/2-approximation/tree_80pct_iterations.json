@@ -1,0 +1,112 @@
+[
+  {
+    "testName": "tree_80pct",
+    "algorithm": "2-approximation",
+    "iteration": 1,
+    "vertexCount": 19,
+    "edgeCount": 17,
+    "coverSize": 8,
+    "coverVertices": [
+      1,
+      2,
+      4,
+      6,
+      8,
+      9,
+      13,
+      17
+    ],
+    "timeMs": 0.071766,
+    "memoryBytes": 38518,
+    "valid": true,
+    "timestamp": "2026-01-16T19:19:36.410604316Z"
+  },
+  {
+    "testName": "tree_80pct",
+    "algorithm": "2-approximation",
+    "iteration": 2,
+    "vertexCount": 19,
+    "edgeCount": 17,
+    "coverSize": 8,
+    "coverVertices": [
+      1,
+      2,
+      4,
+      6,
+      8,
+      9,
+      13,
+      17
+    ],
+    "timeMs": 0.052281,
+    "memoryBytes": 38518,
+    "valid": true,
+    "timestamp": "2026-01-16T19:19:36.410687301Z"
+  },
+  {
+    "testName": "tree_80pct",
+    "algorithm": "2-approximation",
+    "iteration": 3,
+    "vertexCount": 19,
+    "edgeCount": 17,
+    "coverSize": 8,
+    "coverVertices": [
+      1,
+      2,
+      4,
+      6,
+      8,
+      9,
+      13,
+      17
+    ],
+    "timeMs": 0.18218,
+    "memoryBytes": 38518,
+    "valid": true,
+    "timestamp": "2026-01-16T19:19:36.410707073Z"
+  },
+  {
+    "testName": "tree_80pct",
+    "algorithm": "2-approximation",
+    "iteration": 4,
+    "vertexCount": 19,
+    "edgeCount": 17,
+    "coverSize": 8,
+    "coverVertices": [
+      1,
+      2,
+      4,
+      6,
+      8,
+      9,
+      13,
+      17
+    ],
+    "timeMs": 0.118595,
+    "memoryBytes": 38518,
+    "valid": true,
+    "timestamp": "2026-01-16T19:19:36.410722394Z"
+  },
+  {
+    "testName": "tree_80pct",
+    "algorithm": "2-approximation",
+    "iteration": 5,
+    "vertexCount": 19,
+    "edgeCount": 17,
+    "coverSize": 8,
+    "coverVertices": [
+      1,
+      2,
+      4,
+      6,
+      8,
+      9,
+      13,
+      17
+    ],
+    "timeMs": 0.192295,
+    "memoryBytes": 38518,
+    "valid": true,
+    "timestamp": "2026-01-16T19:19:36.410735703Z"
+  }
+]

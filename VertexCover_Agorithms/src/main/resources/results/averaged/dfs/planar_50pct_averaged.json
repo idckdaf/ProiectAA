@@ -1,0 +1,18 @@
+{
+  "testName": "planar_50pct",
+  "algorithm": "dfs",
+  "vertexCount": 21,
+  "edgeCount": 27,
+  "iterations": 3,
+  "avgCoverSize": 17.0,
+  "minCoverSize": 17.0,
+  "maxCoverSize": 17.0,
+  "avgTimeMs": 0.028827000000000002,
+  "minTimeMs": 0.021468,
+  "maxTimeMs": 0.043414,
+  "stdDevTimeMs": 0.010314705263199074,
+  "avgPrepTimeMs": 2.0766666666666668E-4,
+  "avgMemoryBytes": 9602.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T20:13:46.848439401Z"
+}

@@ -1,0 +1,17 @@
+{
+  "testName": "grid_80pct",
+  "algorithm": "2-approximation",
+  "vertexCount": 20,
+  "edgeCount": 145,
+  "iterations": 5,
+  "avgCoverSize": 16.0,
+  "minCoverSize": 16.0,
+  "maxCoverSize": 16.0,
+  "avgTimeMs": 0.1159162,
+  "minTimeMs": 0.101496,
+  "maxTimeMs": 0.152236,
+  "stdDevTimeMs": 0.01856112105881539,
+  "avgMemoryBytes": 90246.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T19:17:41.213625042Z"
+}

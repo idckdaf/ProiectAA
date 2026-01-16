@@ -1,0 +1,18 @@
+{
+  "testName": "cycle_20pct",
+  "algorithm": "hvala",
+  "vertexCount": 19,
+  "edgeCount": 45,
+  "iterations": 3,
+  "avgCoverSize": 11.0,
+  "minCoverSize": 11.0,
+  "maxCoverSize": 11.0,
+  "avgTimeMs": 0.18262766666666666,
+  "minTimeMs": 0.079476,
+  "maxTimeMs": 0.235839,
+  "stdDevTimeMs": 0.07295146611427505,
+  "avgPrepTimeMs": 0.06417066666666667,
+  "avgMemoryBytes": 9394.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T20:15:47.788073820Z"
+}

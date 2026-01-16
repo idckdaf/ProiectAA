@@ -1,0 +1,112 @@
+[
+  {
+    "testName": "test2_medium",
+    "algorithm": "2-approximation",
+    "iteration": 1,
+    "vertexCount": 8,
+    "edgeCount": 12,
+    "coverSize": 8,
+    "coverVertices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "timeMs": 0.025892,
+    "memoryBytes": 8374,
+    "valid": true,
+    "timestamp": "2026-01-16T17:43:24.671267236Z"
+  },
+  {
+    "testName": "test2_medium",
+    "algorithm": "2-approximation",
+    "iteration": 2,
+    "vertexCount": 8,
+    "edgeCount": 12,
+    "coverSize": 8,
+    "coverVertices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "timeMs": 0.02687,
+    "memoryBytes": 8374,
+    "valid": true,
+    "timestamp": "2026-01-16T17:43:24.671303746Z"
+  },
+  {
+    "testName": "test2_medium",
+    "algorithm": "2-approximation",
+    "iteration": 3,
+    "vertexCount": 8,
+    "edgeCount": 12,
+    "coverSize": 8,
+    "coverVertices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "timeMs": 0.073786,
+    "memoryBytes": 8374,
+    "valid": true,
+    "timestamp": "2026-01-16T17:43:24.671313386Z"
+  },
+  {
+    "testName": "test2_medium",
+    "algorithm": "2-approximation",
+    "iteration": 4,
+    "vertexCount": 8,
+    "edgeCount": 12,
+    "coverSize": 8,
+    "coverVertices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "timeMs": 0.040225,
+    "memoryBytes": 8374,
+    "valid": true,
+    "timestamp": "2026-01-16T17:43:24.671321231Z"
+  },
+  {
+    "testName": "test2_medium",
+    "algorithm": "2-approximation",
+    "iteration": 5,
+    "vertexCount": 8,
+    "edgeCount": 12,
+    "coverSize": 8,
+    "coverVertices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "timeMs": 0.025661,
+    "memoryBytes": 8374,
+    "valid": true,
+    "timestamp": "2026-01-16T17:43:24.671329660Z"
+  }
+]

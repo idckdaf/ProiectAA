@@ -1,0 +1,112 @@
+[
+  {
+    "testName": "sparse_5pct",
+    "algorithm": "2-approximation",
+    "iteration": 1,
+    "vertexCount": 21,
+    "edgeCount": 19,
+    "coverSize": 8,
+    "coverVertices": [
+      3,
+      4,
+      5,
+      7,
+      9,
+      11,
+      13,
+      16
+    ],
+    "timeMs": 0.097848,
+    "memoryBytes": 39715,
+    "valid": true,
+    "timestamp": "2026-01-16T19:19:06.366645612Z"
+  },
+  {
+    "testName": "sparse_5pct",
+    "algorithm": "2-approximation",
+    "iteration": 2,
+    "vertexCount": 21,
+    "edgeCount": 19,
+    "coverSize": 8,
+    "coverVertices": [
+      3,
+      4,
+      5,
+      7,
+      9,
+      11,
+      13,
+      16
+    ],
+    "timeMs": 0.063638,
+    "memoryBytes": 39715,
+    "valid": true,
+    "timestamp": "2026-01-16T19:19:06.366952842Z"
+  },
+  {
+    "testName": "sparse_5pct",
+    "algorithm": "2-approximation",
+    "iteration": 3,
+    "vertexCount": 21,
+    "edgeCount": 19,
+    "coverSize": 8,
+    "coverVertices": [
+      3,
+      4,
+      5,
+      7,
+      9,
+      11,
+      13,
+      16
+    ],
+    "timeMs": 0.181617,
+    "memoryBytes": 39715,
+    "valid": true,
+    "timestamp": "2026-01-16T19:19:06.366992599Z"
+  },
+  {
+    "testName": "sparse_5pct",
+    "algorithm": "2-approximation",
+    "iteration": 4,
+    "vertexCount": 21,
+    "edgeCount": 19,
+    "coverSize": 8,
+    "coverVertices": [
+      3,
+      4,
+      5,
+      7,
+      9,
+      11,
+      13,
+      16
+    ],
+    "timeMs": 0.171963,
+    "memoryBytes": 39715,
+    "valid": true,
+    "timestamp": "2026-01-16T19:19:06.367055016Z"
+  },
+  {
+    "testName": "sparse_5pct",
+    "algorithm": "2-approximation",
+    "iteration": 5,
+    "vertexCount": 21,
+    "edgeCount": 19,
+    "coverSize": 8,
+    "coverVertices": [
+      3,
+      4,
+      5,
+      7,
+      9,
+      11,
+      13,
+      16
+    ],
+    "timeMs": 0.067543,
+    "memoryBytes": 39715,
+    "valid": true,
+    "timestamp": "2026-01-16T19:19:06.367065684Z"
+  }
+]

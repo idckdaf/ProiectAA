@@ -1,0 +1,18 @@
+{
+  "testName": "scale_free_50pct",
+  "algorithm": "dfs",
+  "vertexCount": 17,
+  "edgeCount": 29,
+  "iterations": 3,
+  "avgCoverSize": 9.0,
+  "minCoverSize": 9.0,
+  "maxCoverSize": 9.0,
+  "avgTimeMs": 0.017364666666666667,
+  "minTimeMs": 0.015596,
+  "maxTimeMs": 0.020378,
+  "stdDevTimeMs": 0.0021414601456846115,
+  "avgPrepTimeMs": 1.2633333333333333E-4,
+  "avgMemoryBytes": 9064.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T20:14:31.864585652Z"
+}

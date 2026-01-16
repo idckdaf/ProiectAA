@@ -1,0 +1,18 @@
+{
+  "testName": "dense_95pct",
+  "algorithm": "backtracking",
+  "vertexCount": 17,
+  "edgeCount": 114,
+  "iterations": 3,
+  "avgCoverSize": 14.0,
+  "minCoverSize": 14.0,
+  "maxCoverSize": 14.0,
+  "avgTimeMs": 0.15200500000000003,
+  "minTimeMs": 0.093171,
+  "maxTimeMs": 0.268176,
+  "stdDevTimeMs": 0.082147575265494,
+  "avgPrepTimeMs": 0.14298066666666667,
+  "avgMemoryBytes": 13304.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T20:32:15.757524583Z"
+}

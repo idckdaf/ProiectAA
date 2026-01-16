@@ -1,0 +1,74 @@
+[
+  {
+    "testName": "scale_free_50pct",
+    "algorithm": "dfs",
+    "iteration": 1,
+    "vertexCount": 17,
+    "edgeCount": 29,
+    "coverSize": 9,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      16
+    ],
+    "timeMs": 0.020378,
+    "prepTimeMs": 1.44E-4,
+    "memoryBytes": 9064,
+    "valid": true,
+    "timestamp": "2026-01-16T20:14:31.864079623Z"
+  },
+  {
+    "testName": "scale_free_50pct",
+    "algorithm": "dfs",
+    "iteration": 2,
+    "vertexCount": 17,
+    "edgeCount": 29,
+    "coverSize": 9,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      16
+    ],
+    "timeMs": 0.015596,
+    "prepTimeMs": 1.46E-4,
+    "memoryBytes": 9064,
+    "valid": true,
+    "timestamp": "2026-01-16T20:14:31.864113410Z"
+  },
+  {
+    "testName": "scale_free_50pct",
+    "algorithm": "dfs",
+    "iteration": 3,
+    "vertexCount": 17,
+    "edgeCount": 29,
+    "coverSize": 9,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      16
+    ],
+    "timeMs": 0.01612,
+    "prepTimeMs": 8.9E-5,
+    "memoryBytes": 9064,
+    "valid": true,
+    "timestamp": "2026-01-16T20:14:31.864123700Z"
+  }
+]

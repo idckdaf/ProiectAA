@@ -1,0 +1,71 @@
+[
+  {
+    "testName": "tree_80pct",
+    "algorithm": "backtracking",
+    "iteration": 1,
+    "vertexCount": 19,
+    "edgeCount": 17,
+    "coverSize": 8,
+    "coverVertices": [
+      2,
+      4,
+      6,
+      9,
+      13,
+      14,
+      15,
+      17
+    ],
+    "timeMs": 0.089277,
+    "prepTimeMs": 0.058569,
+    "memoryBytes": 12626,
+    "valid": true,
+    "timestamp": "2026-01-16T20:33:53.089105765Z"
+  },
+  {
+    "testName": "tree_80pct",
+    "algorithm": "backtracking",
+    "iteration": 2,
+    "vertexCount": 19,
+    "edgeCount": 17,
+    "coverSize": 8,
+    "coverVertices": [
+      2,
+      4,
+      6,
+      9,
+      13,
+      14,
+      15,
+      17
+    ],
+    "timeMs": 0.125307,
+    "prepTimeMs": 0.033327,
+    "memoryBytes": 12626,
+    "valid": true,
+    "timestamp": "2026-01-16T20:33:53.089153504Z"
+  },
+  {
+    "testName": "tree_80pct",
+    "algorithm": "backtracking",
+    "iteration": 3,
+    "vertexCount": 19,
+    "edgeCount": 17,
+    "coverSize": 8,
+    "coverVertices": [
+      2,
+      4,
+      6,
+      9,
+      13,
+      14,
+      15,
+      17
+    ],
+    "timeMs": 0.057175,
+    "prepTimeMs": 0.012129,
+    "memoryBytes": 12626,
+    "valid": true,
+    "timestamp": "2026-01-16T20:33:53.089163905Z"
+  }
+]

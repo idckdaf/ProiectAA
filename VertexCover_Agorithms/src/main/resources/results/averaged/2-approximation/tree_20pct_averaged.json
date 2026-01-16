@@ -1,0 +1,17 @@
+{
+  "testName": "tree_20pct",
+  "algorithm": "2-approximation",
+  "vertexCount": 20,
+  "edgeCount": 18,
+  "iterations": 5,
+  "avgCoverSize": 8.0,
+  "minCoverSize": 8.0,
+  "maxCoverSize": 8.0,
+  "avgTimeMs": 0.1402428,
+  "minTimeMs": 0.0823,
+  "maxTimeMs": 0.196199,
+  "stdDevTimeMs": 0.037600838428949956,
+  "avgMemoryBytes": 39526.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T19:19:26.396738553Z"
+}

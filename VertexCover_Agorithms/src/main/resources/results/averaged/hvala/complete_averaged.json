@@ -1,0 +1,18 @@
+{
+  "testName": "complete",
+  "algorithm": "hvala",
+  "vertexCount": 20,
+  "edgeCount": 171,
+  "iterations": 3,
+  "avgCoverSize": 18.0,
+  "minCoverSize": 18.0,
+  "maxCoverSize": 18.0,
+  "avgTimeMs": 0.2263643333333333,
+  "minTimeMs": 0.145885,
+  "maxTimeMs": 0.293594,
+  "stdDevTimeMs": 0.0610254177663337,
+  "avgPrepTimeMs": 0.08943666666666666,
+  "avgMemoryBytes": 10770.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T20:15:43.889990928Z"
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "testName": "star_20pct",
+    "algorithm": "2-approximation",
+    "iteration": 1,
+    "vertexCount": 20,
+    "edgeCount": 48,
+    "coverSize": 10,
+    "coverVertices": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      9,
+      12,
+      13,
+      14,
+      17
+    ],
+    "timeMs": 0.077974,
+    "memoryBytes": 50646,
+    "valid": true,
+    "timestamp": "2026-01-16T19:19:11.385280288Z"
+  },
+  {
+    "testName": "star_20pct",
+    "algorithm": "2-approximation",
+    "iteration": 2,
+    "vertexCount": 20,
+    "edgeCount": 48,
+    "coverSize": 10,
+    "coverVertices": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      9,
+      12,
+      13,
+      14,
+      17
+    ],
+    "timeMs": 0.111849,
+    "memoryBytes": 50646,
+    "valid": true,
+    "timestamp": "2026-01-16T19:19:11.385320045Z"
+  },
+  {
+    "testName": "star_20pct",
+    "algorithm": "2-approximation",
+    "iteration": 3,
+    "vertexCount": 20,
+    "edgeCount": 48,
+    "coverSize": 10,
+    "coverVertices": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      9,
+      12,
+      13,
+      14,
+      17
+    ],
+    "timeMs": 0.071512,
+    "memoryBytes": 50646,
+    "valid": true,
+    "timestamp": "2026-01-16T19:19:11.385338936Z"
+  },
+  {
+    "testName": "star_20pct",
+    "algorithm": "2-approximation",
+    "iteration": 4,
+    "vertexCount": 20,
+    "edgeCount": 48,
+    "coverSize": 10,
+    "coverVertices": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      9,
+      12,
+      13,
+      14,
+      17
+    ],
+    "timeMs": 0.107715,
+    "memoryBytes": 50646,
+    "valid": true,
+    "timestamp": "2026-01-16T19:19:11.385372548Z"
+  },
+  {
+    "testName": "star_20pct",
+    "algorithm": "2-approximation",
+    "iteration": 5,
+    "vertexCount": 20,
+    "edgeCount": 48,
+    "coverSize": 10,
+    "coverVertices": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      9,
+      12,
+      13,
+      14,
+      17
+    ],
+    "timeMs": 0.185324,
+    "memoryBytes": 50646,
+    "valid": true,
+    "timestamp": "2026-01-16T19:19:11.385388845Z"
+  }
+]

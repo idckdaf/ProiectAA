@@ -1,0 +1,18 @@
+{
+  "testName": "complete",
+  "algorithm": "backtracking",
+  "vertexCount": 20,
+  "edgeCount": 171,
+  "iterations": 3,
+  "avgCoverSize": 18.0,
+  "minCoverSize": 18.0,
+  "maxCoverSize": 18.0,
+  "avgTimeMs": 0.118693,
+  "minTimeMs": 0.099206,
+  "maxTimeMs": 0.136215,
+  "stdDevTimeMs": 0.015172616539894056,
+  "avgPrepTimeMs": 0.08255533333333333,
+  "avgMemoryBytes": 14394.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T20:31:57.047475221Z"
+}

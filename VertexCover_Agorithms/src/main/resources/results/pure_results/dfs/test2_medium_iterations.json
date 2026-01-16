@@ -1,0 +1,107 @@
+[
+  {
+    "testName": "test2_medium",
+    "algorithm": "dfs",
+    "iteration": 1,
+    "vertexCount": 8,
+    "edgeCount": 12,
+    "coverSize": 7,
+    "coverVertices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "timeMs": 0.05011,
+    "memoryBytes": 8038,
+    "valid": true,
+    "timestamp": "2026-01-16T17:43:09.516390584Z"
+  },
+  {
+    "testName": "test2_medium",
+    "algorithm": "dfs",
+    "iteration": 2,
+    "vertexCount": 8,
+    "edgeCount": 12,
+    "coverSize": 7,
+    "coverVertices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "timeMs": 0.040298,
+    "memoryBytes": 8038,
+    "valid": true,
+    "timestamp": "2026-01-16T17:43:09.516456552Z"
+  },
+  {
+    "testName": "test2_medium",
+    "algorithm": "dfs",
+    "iteration": 3,
+    "vertexCount": 8,
+    "edgeCount": 12,
+    "coverSize": 7,
+    "coverVertices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "timeMs": 0.078474,
+    "memoryBytes": 8038,
+    "valid": true,
+    "timestamp": "2026-01-16T17:43:09.516483183Z"
+  },
+  {
+    "testName": "test2_medium",
+    "algorithm": "dfs",
+    "iteration": 4,
+    "vertexCount": 8,
+    "edgeCount": 12,
+    "coverSize": 7,
+    "coverVertices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "timeMs": 0.099399,
+    "memoryBytes": 8038,
+    "valid": true,
+    "timestamp": "2026-01-16T17:43:09.516507612Z"
+  },
+  {
+    "testName": "test2_medium",
+    "algorithm": "dfs",
+    "iteration": 5,
+    "vertexCount": 8,
+    "edgeCount": 12,
+    "coverSize": 7,
+    "coverVertices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "timeMs": 0.047124,
+    "memoryBytes": 8038,
+    "valid": true,
+    "timestamp": "2026-01-16T17:43:09.516527233Z"
+  }
+]

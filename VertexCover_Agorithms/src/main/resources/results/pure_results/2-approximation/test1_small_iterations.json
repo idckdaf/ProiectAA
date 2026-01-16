@@ -1,0 +1,92 @@
+[
+  {
+    "testName": "test1_small",
+    "algorithm": "2-approximation",
+    "iteration": 1,
+    "vertexCount": 6,
+    "edgeCount": 7,
+    "coverSize": 4,
+    "coverVertices": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "timeMs": 0.073393,
+    "memoryBytes": 7860,
+    "valid": true,
+    "timestamp": "2026-01-16T17:43:19.632400784Z"
+  },
+  {
+    "testName": "test1_small",
+    "algorithm": "2-approximation",
+    "iteration": 2,
+    "vertexCount": 6,
+    "edgeCount": 7,
+    "coverSize": 4,
+    "coverVertices": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "timeMs": 0.020992,
+    "memoryBytes": 7860,
+    "valid": true,
+    "timestamp": "2026-01-16T17:43:19.632435076Z"
+  },
+  {
+    "testName": "test1_small",
+    "algorithm": "2-approximation",
+    "iteration": 3,
+    "vertexCount": 6,
+    "edgeCount": 7,
+    "coverSize": 4,
+    "coverVertices": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "timeMs": 0.021965,
+    "memoryBytes": 7860,
+    "valid": true,
+    "timestamp": "2026-01-16T17:43:19.632458966Z"
+  },
+  {
+    "testName": "test1_small",
+    "algorithm": "2-approximation",
+    "iteration": 4,
+    "vertexCount": 6,
+    "edgeCount": 7,
+    "coverSize": 4,
+    "coverVertices": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "timeMs": 0.040215,
+    "memoryBytes": 7860,
+    "valid": true,
+    "timestamp": "2026-01-16T17:43:19.632468500Z"
+  },
+  {
+    "testName": "test1_small",
+    "algorithm": "2-approximation",
+    "iteration": 5,
+    "vertexCount": 6,
+    "edgeCount": 7,
+    "coverSize": 4,
+    "coverVertices": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "timeMs": 0.027046,
+    "memoryBytes": 7860,
+    "valid": true,
+    "timestamp": "2026-01-16T17:43:19.632476266Z"
+  }
+]

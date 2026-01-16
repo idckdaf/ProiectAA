@@ -1,0 +1,18 @@
+{
+  "testName": "clique_50pct",
+  "algorithm": "dfs",
+  "vertexCount": 17,
+  "edgeCount": 77,
+  "iterations": 3,
+  "avgCoverSize": 15.0,
+  "minCoverSize": 15.0,
+  "maxCoverSize": 15.0,
+  "avgTimeMs": 0.037298000000000005,
+  "minTimeMs": 0.036206,
+  "maxTimeMs": 0.038178,
+  "stdDevTimeMs": 8.189033316983534E-4,
+  "avgPrepTimeMs": 0.0013086666666666665,
+  "avgMemoryBytes": 9218.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T20:13:01.535015296Z"
+}

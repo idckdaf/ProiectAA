@@ -1,0 +1,71 @@
+[
+  {
+    "testName": "sparse_5pct",
+    "algorithm": "hvala",
+    "iteration": 1,
+    "vertexCount": 21,
+    "edgeCount": 19,
+    "coverSize": 8,
+    "coverVertices": [
+      3,
+      4,
+      5,
+      7,
+      9,
+      11,
+      13,
+      16
+    ],
+    "timeMs": 0.074673,
+    "prepTimeMs": 0.013016,
+    "memoryBytes": 9208,
+    "valid": true,
+    "timestamp": "2026-01-16T20:17:20.653068351Z"
+  },
+  {
+    "testName": "sparse_5pct",
+    "algorithm": "hvala",
+    "iteration": 2,
+    "vertexCount": 21,
+    "edgeCount": 19,
+    "coverSize": 8,
+    "coverVertices": [
+      3,
+      4,
+      5,
+      7,
+      9,
+      11,
+      13,
+      16
+    ],
+    "timeMs": 0.035725,
+    "prepTimeMs": 0.01688,
+    "memoryBytes": 9208,
+    "valid": true,
+    "timestamp": "2026-01-16T20:17:20.653126189Z"
+  },
+  {
+    "testName": "sparse_5pct",
+    "algorithm": "hvala",
+    "iteration": 3,
+    "vertexCount": 21,
+    "edgeCount": 19,
+    "coverSize": 8,
+    "coverVertices": [
+      3,
+      4,
+      5,
+      7,
+      9,
+      11,
+      13,
+      16
+    ],
+    "timeMs": 0.051577,
+    "prepTimeMs": 0.006541,
+    "memoryBytes": 9208,
+    "valid": true,
+    "timestamp": "2026-01-16T20:17:20.653144152Z"
+  }
+]

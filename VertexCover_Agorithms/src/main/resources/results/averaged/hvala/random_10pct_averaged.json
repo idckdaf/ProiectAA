@@ -1,0 +1,18 @@
+{
+  "testName": "random_10pct",
+  "algorithm": "hvala",
+  "vertexCount": 20,
+  "edgeCount": 19,
+  "iterations": 3,
+  "avgCoverSize": 7.0,
+  "minCoverSize": 7.0,
+  "maxCoverSize": 7.0,
+  "avgTimeMs": 0.055404666666666665,
+  "minTimeMs": 0.044753,
+  "maxTimeMs": 0.060997,
+  "stdDevTimeMs": 0.007535008265128549,
+  "avgPrepTimeMs": 0.014381666666666668,
+  "avgMemoryBytes": 9098.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T20:16:30.587872735Z"
+}

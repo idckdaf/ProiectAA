@@ -1,0 +1,17 @@
+{
+  "testName": "planar_20pct",
+  "algorithm": "2-approximation",
+  "vertexCount": 16,
+  "edgeCount": 14,
+  "iterations": 5,
+  "avgCoverSize": 7.0,
+  "minCoverSize": 7.0,
+  "maxCoverSize": 7.0,
+  "avgTimeMs": 0.0731368,
+  "minTimeMs": 0.060789,
+  "maxTimeMs": 0.080668,
+  "stdDevTimeMs": 0.008257462549718285,
+  "avgMemoryBytes": 42137.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T19:17:46.257888007Z"
+}

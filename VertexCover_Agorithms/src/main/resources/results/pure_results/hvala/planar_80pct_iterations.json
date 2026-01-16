@@ -1,0 +1,74 @@
+[
+  {
+    "testName": "planar_80pct",
+    "algorithm": "hvala",
+    "iteration": 1,
+    "vertexCount": 16,
+    "edgeCount": 31,
+    "coverSize": 9,
+    "coverVertices": [
+      2,
+      4,
+      6,
+      7,
+      8,
+      10,
+      11,
+      13,
+      14
+    ],
+    "timeMs": 0.081816,
+    "prepTimeMs": 0.020417,
+    "memoryBytes": 8960,
+    "valid": true,
+    "timestamp": "2026-01-16T20:16:26.682190007Z"
+  },
+  {
+    "testName": "planar_80pct",
+    "algorithm": "hvala",
+    "iteration": 2,
+    "vertexCount": 16,
+    "edgeCount": 31,
+    "coverSize": 9,
+    "coverVertices": [
+      2,
+      4,
+      6,
+      7,
+      8,
+      10,
+      11,
+      13,
+      14
+    ],
+    "timeMs": 0.059458,
+    "prepTimeMs": 0.030123,
+    "memoryBytes": 8960,
+    "valid": true,
+    "timestamp": "2026-01-16T20:16:26.682249715Z"
+  },
+  {
+    "testName": "planar_80pct",
+    "algorithm": "hvala",
+    "iteration": 3,
+    "vertexCount": 16,
+    "edgeCount": 31,
+    "coverSize": 9,
+    "coverVertices": [
+      2,
+      4,
+      6,
+      7,
+      8,
+      10,
+      11,
+      13,
+      14
+    ],
+    "timeMs": 0.098802,
+    "prepTimeMs": 0.008356,
+    "memoryBytes": 8960,
+    "valid": true,
+    "timestamp": "2026-01-16T20:16:26.682276079Z"
+  }
+]

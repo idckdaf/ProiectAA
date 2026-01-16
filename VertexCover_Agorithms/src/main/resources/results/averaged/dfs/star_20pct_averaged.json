@@ -1,0 +1,18 @@
+{
+  "testName": "star_20pct",
+  "algorithm": "dfs",
+  "vertexCount": 20,
+  "edgeCount": 48,
+  "iterations": 3,
+  "avgCoverSize": 15.0,
+  "minCoverSize": 15.0,
+  "maxCoverSize": 15.0,
+  "avgTimeMs": 0.026067000000000003,
+  "minTimeMs": 0.019414,
+  "maxTimeMs": 0.030755,
+  "stdDevTimeMs": 0.004833941731823696,
+  "avgPrepTimeMs": 3.243333333333333E-4,
+  "avgMemoryBytes": 9496.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T20:14:46.867418977Z"
+}

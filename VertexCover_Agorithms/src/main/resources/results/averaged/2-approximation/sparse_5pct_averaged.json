@@ -1,0 +1,17 @@
+{
+  "testName": "sparse_5pct",
+  "algorithm": "2-approximation",
+  "vertexCount": 21,
+  "edgeCount": 19,
+  "iterations": 5,
+  "avgCoverSize": 8.0,
+  "minCoverSize": 8.0,
+  "maxCoverSize": 8.0,
+  "avgTimeMs": 0.11652180000000001,
+  "minTimeMs": 0.063638,
+  "maxTimeMs": 0.181617,
+  "stdDevTimeMs": 0.05070590040379916,
+  "avgMemoryBytes": 39715.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T19:19:06.369041870Z"
+}

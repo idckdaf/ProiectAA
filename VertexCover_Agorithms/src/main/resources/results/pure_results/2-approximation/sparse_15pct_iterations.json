@@ -1,0 +1,112 @@
+[
+  {
+    "testName": "sparse_15pct",
+    "algorithm": "2-approximation",
+    "iteration": 1,
+    "vertexCount": 20,
+    "edgeCount": 25,
+    "coverSize": 8,
+    "coverVertices": [
+      2,
+      5,
+      6,
+      11,
+      12,
+      13,
+      16,
+      18
+    ],
+    "timeMs": 0.067709,
+    "memoryBytes": 40908,
+    "valid": true,
+    "timestamp": "2026-01-16T19:19:01.370278195Z"
+  },
+  {
+    "testName": "sparse_15pct",
+    "algorithm": "2-approximation",
+    "iteration": 2,
+    "vertexCount": 20,
+    "edgeCount": 25,
+    "coverSize": 8,
+    "coverVertices": [
+      2,
+      5,
+      6,
+      11,
+      12,
+      13,
+      16,
+      18
+    ],
+    "timeMs": 0.075701,
+    "memoryBytes": 40908,
+    "valid": true,
+    "timestamp": "2026-01-16T19:19:01.370321694Z"
+  },
+  {
+    "testName": "sparse_15pct",
+    "algorithm": "2-approximation",
+    "iteration": 3,
+    "vertexCount": 20,
+    "edgeCount": 25,
+    "coverSize": 8,
+    "coverVertices": [
+      2,
+      5,
+      6,
+      11,
+      12,
+      13,
+      16,
+      18
+    ],
+    "timeMs": 0.061958,
+    "memoryBytes": 40908,
+    "valid": true,
+    "timestamp": "2026-01-16T19:19:01.370332250Z"
+  },
+  {
+    "testName": "sparse_15pct",
+    "algorithm": "2-approximation",
+    "iteration": 4,
+    "vertexCount": 20,
+    "edgeCount": 25,
+    "coverSize": 8,
+    "coverVertices": [
+      2,
+      5,
+      6,
+      11,
+      12,
+      13,
+      16,
+      18
+    ],
+    "timeMs": 0.089969,
+    "memoryBytes": 40908,
+    "valid": true,
+    "timestamp": "2026-01-16T19:19:01.370340676Z"
+  },
+  {
+    "testName": "sparse_15pct",
+    "algorithm": "2-approximation",
+    "iteration": 5,
+    "vertexCount": 20,
+    "edgeCount": 25,
+    "coverSize": 8,
+    "coverVertices": [
+      2,
+      5,
+      6,
+      11,
+      12,
+      13,
+      16,
+      18
+    ],
+    "timeMs": 0.061781,
+    "memoryBytes": 40908,
+    "valid": true,
+    "timestamp": "2026-01-16T19:19:01.370347938Z"
+  }
+]

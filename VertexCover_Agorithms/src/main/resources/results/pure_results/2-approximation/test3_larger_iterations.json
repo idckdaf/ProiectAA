@@ -1,0 +1,112 @@
+[
+  {
+    "testName": "test3_larger",
+    "algorithm": "2-approximation",
+    "iteration": 1,
+    "vertexCount": 10,
+    "edgeCount": 15,
+    "coverSize": 8,
+    "coverVertices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8
+    ],
+    "timeMs": 0.054757,
+    "memoryBytes": 8510,
+    "valid": true,
+    "timestamp": "2026-01-16T17:43:29.712663081Z"
+  },
+  {
+    "testName": "test3_larger",
+    "algorithm": "2-approximation",
+    "iteration": 2,
+    "vertexCount": 10,
+    "edgeCount": 15,
+    "coverSize": 8,
+    "coverVertices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8
+    ],
+    "timeMs": 0.030722,
+    "memoryBytes": 8510,
+    "valid": true,
+    "timestamp": "2026-01-16T17:43:29.712721950Z"
+  },
+  {
+    "testName": "test3_larger",
+    "algorithm": "2-approximation",
+    "iteration": 3,
+    "vertexCount": 10,
+    "edgeCount": 15,
+    "coverSize": 8,
+    "coverVertices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8
+    ],
+    "timeMs": 0.05991,
+    "memoryBytes": 8510,
+    "valid": true,
+    "timestamp": "2026-01-16T17:43:29.712741837Z"
+  },
+  {
+    "testName": "test3_larger",
+    "algorithm": "2-approximation",
+    "iteration": 4,
+    "vertexCount": 10,
+    "edgeCount": 15,
+    "coverSize": 8,
+    "coverVertices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8
+    ],
+    "timeMs": 0.028691,
+    "memoryBytes": 8510,
+    "valid": true,
+    "timestamp": "2026-01-16T17:43:29.712758321Z"
+  },
+  {
+    "testName": "test3_larger",
+    "algorithm": "2-approximation",
+    "iteration": 5,
+    "vertexCount": 10,
+    "edgeCount": 15,
+    "coverSize": 8,
+    "coverVertices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8
+    ],
+    "timeMs": 0.034101,
+    "memoryBytes": 8510,
+    "valid": true,
+    "timestamp": "2026-01-16T17:43:29.712773378Z"
+  }
+]

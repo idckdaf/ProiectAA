@@ -1,0 +1,17 @@
+{
+  "testName": "cycle_20pct",
+  "algorithm": "2-approximation",
+  "vertexCount": 19,
+  "edgeCount": 45,
+  "iterations": 5,
+  "avgCoverSize": 11.0,
+  "minCoverSize": 11.0,
+  "maxCoverSize": 11.0,
+  "avgTimeMs": 0.12789440000000002,
+  "minTimeMs": 0.117698,
+  "maxTimeMs": 0.14308,
+  "stdDevTimeMs": 0.010529933059616291,
+  "avgMemoryBytes": 50590.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T19:17:05.884109580Z"
+}

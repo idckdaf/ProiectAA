@@ -1,0 +1,74 @@
+[
+  {
+    "testName": "bipartite_50pct",
+    "algorithm": "backtracking",
+    "iteration": 1,
+    "vertexCount": 19,
+    "edgeCount": 40,
+    "coverSize": 9,
+    "coverVertices": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "timeMs": 0.154165,
+    "prepTimeMs": 0.098552,
+    "memoryBytes": 13117,
+    "valid": true,
+    "timestamp": "2026-01-16T20:31:38.296784496Z"
+  },
+  {
+    "testName": "bipartite_50pct",
+    "algorithm": "backtracking",
+    "iteration": 2,
+    "vertexCount": 19,
+    "edgeCount": 40,
+    "coverSize": 9,
+    "coverVertices": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "timeMs": 0.156929,
+    "prepTimeMs": 0.067332,
+    "memoryBytes": 13117,
+    "valid": true,
+    "timestamp": "2026-01-16T20:31:38.296826765Z"
+  },
+  {
+    "testName": "bipartite_50pct",
+    "algorithm": "backtracking",
+    "iteration": 3,
+    "vertexCount": 19,
+    "edgeCount": 40,
+    "coverSize": 9,
+    "coverVertices": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "timeMs": 0.10733,
+    "prepTimeMs": 0.04911,
+    "memoryBytes": 13117,
+    "valid": true,
+    "timestamp": "2026-01-16T20:31:38.296845574Z"
+  }
+]

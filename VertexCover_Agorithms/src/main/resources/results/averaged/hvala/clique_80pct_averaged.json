@@ -1,0 +1,18 @@
+{
+  "testName": "clique_80pct",
+  "algorithm": "hvala",
+  "vertexCount": 20,
+  "edgeCount": 144,
+  "iterations": 3,
+  "avgCoverSize": 16.0,
+  "minCoverSize": 16.0,
+  "maxCoverSize": 16.0,
+  "avgTimeMs": 0.14338233333333333,
+  "minTimeMs": 0.087679,
+  "maxTimeMs": 0.2246,
+  "stdDevTimeMs": 0.058737131721670645,
+  "avgPrepTimeMs": 0.055739000000000004,
+  "avgMemoryBytes": 10522.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T20:15:40.000934807Z"
+}

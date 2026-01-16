@@ -1,0 +1,18 @@
+{
+  "testName": "grid_20pct",
+  "algorithm": "dfs",
+  "vertexCount": 19,
+  "edgeCount": 64,
+  "iterations": 3,
+  "avgCoverSize": 16.0,
+  "minCoverSize": 16.0,
+  "maxCoverSize": 16.0,
+  "avgTimeMs": 0.048002333333333334,
+  "minTimeMs": 0.033726,
+  "maxTimeMs": 0.059482,
+  "stdDevTimeMs": 0.010699186646137587,
+  "avgPrepTimeMs": 0.0016173333333333335,
+  "avgMemoryBytes": 9400.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T20:13:31.751500327Z"
+}

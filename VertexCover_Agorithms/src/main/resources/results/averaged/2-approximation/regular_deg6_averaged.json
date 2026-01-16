@@ -1,0 +1,17 @@
+{
+  "testName": "regular_deg6",
+  "algorithm": "2-approximation",
+  "vertexCount": 21,
+  "edgeCount": 60,
+  "iterations": 5,
+  "avgCoverSize": 14.0,
+  "minCoverSize": 14.0,
+  "maxCoverSize": 14.0,
+  "avgTimeMs": 0.1926984,
+  "minTimeMs": 0.081232,
+  "maxTimeMs": 0.43617,
+  "stdDevTimeMs": 0.12721862917450416,
+  "avgMemoryBytes": 60134.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T19:18:41.458236047Z"
+}

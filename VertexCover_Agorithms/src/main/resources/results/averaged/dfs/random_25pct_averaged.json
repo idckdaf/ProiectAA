@@ -1,0 +1,18 @@
+{
+  "testName": "random_25pct",
+  "algorithm": "dfs",
+  "vertexCount": 18,
+  "edgeCount": 34,
+  "iterations": 3,
+  "avgCoverSize": 14.0,
+  "minCoverSize": 14.0,
+  "maxCoverSize": 14.0,
+  "avgTimeMs": 0.02466033333333333,
+  "minTimeMs": 0.0235,
+  "maxTimeMs": 0.026042,
+  "stdDevTimeMs": 0.001049502210044785,
+  "avgPrepTimeMs": 2.6933333333333334E-4,
+  "avgMemoryBytes": 9314.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T20:13:58.157935787Z"
+}

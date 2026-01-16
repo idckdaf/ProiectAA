@@ -1,0 +1,87 @@
+[
+  {
+    "testName": "test1_small",
+    "algorithm": "backtracking",
+    "iteration": 1,
+    "vertexCount": 6,
+    "edgeCount": 7,
+    "coverSize": 3,
+    "coverVertices": [
+      1,
+      2,
+      4
+    ],
+    "timeMs": 0.173369,
+    "memoryBytes": 9310,
+    "valid": true,
+    "timestamp": "2026-01-16T17:42:49.254486279Z"
+  },
+  {
+    "testName": "test1_small",
+    "algorithm": "backtracking",
+    "iteration": 2,
+    "vertexCount": 6,
+    "edgeCount": 7,
+    "coverSize": 3,
+    "coverVertices": [
+      1,
+      2,
+      4
+    ],
+    "timeMs": 0.218921,
+    "memoryBytes": 9310,
+    "valid": true,
+    "timestamp": "2026-01-16T17:42:49.254744222Z"
+  },
+  {
+    "testName": "test1_small",
+    "algorithm": "backtracking",
+    "iteration": 3,
+    "vertexCount": 6,
+    "edgeCount": 7,
+    "coverSize": 3,
+    "coverVertices": [
+      1,
+      2,
+      4
+    ],
+    "timeMs": 0.13776,
+    "memoryBytes": 9310,
+    "valid": true,
+    "timestamp": "2026-01-16T17:42:49.254995207Z"
+  },
+  {
+    "testName": "test1_small",
+    "algorithm": "backtracking",
+    "iteration": 4,
+    "vertexCount": 6,
+    "edgeCount": 7,
+    "coverSize": 3,
+    "coverVertices": [
+      1,
+      2,
+      4
+    ],
+    "timeMs": 0.059923,
+    "memoryBytes": 9310,
+    "valid": true,
+    "timestamp": "2026-01-16T17:42:49.255017195Z"
+  },
+  {
+    "testName": "test1_small",
+    "algorithm": "backtracking",
+    "iteration": 5,
+    "vertexCount": 6,
+    "edgeCount": 7,
+    "coverSize": 3,
+    "coverVertices": [
+      1,
+      2,
+      4
+    ],
+    "timeMs": 0.117679,
+    "memoryBytes": 9310,
+    "valid": true,
+    "timestamp": "2026-01-16T17:42:49.255029412Z"
+  }
+]

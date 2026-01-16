@@ -1,0 +1,117 @@
+[
+  {
+    "testName": "bipartite_80pct",
+    "algorithm": "2-approximation",
+    "iteration": 1,
+    "vertexCount": 20,
+    "edgeCount": 72,
+    "coverSize": 9,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "timeMs": 0.259086,
+    "memoryBytes": 57696,
+    "valid": true,
+    "timestamp": "2026-01-16T19:16:40.740398668Z"
+  },
+  {
+    "testName": "bipartite_80pct",
+    "algorithm": "2-approximation",
+    "iteration": 2,
+    "vertexCount": 20,
+    "edgeCount": 72,
+    "coverSize": 9,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "timeMs": 0.198505,
+    "memoryBytes": 57696,
+    "valid": true,
+    "timestamp": "2026-01-16T19:16:40.740448588Z"
+  },
+  {
+    "testName": "bipartite_80pct",
+    "algorithm": "2-approximation",
+    "iteration": 3,
+    "vertexCount": 20,
+    "edgeCount": 72,
+    "coverSize": 9,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "timeMs": 0.186725,
+    "memoryBytes": 57696,
+    "valid": true,
+    "timestamp": "2026-01-16T19:16:40.740468460Z"
+  },
+  {
+    "testName": "bipartite_80pct",
+    "algorithm": "2-approximation",
+    "iteration": 4,
+    "vertexCount": 20,
+    "edgeCount": 72,
+    "coverSize": 9,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "timeMs": 0.254763,
+    "memoryBytes": 57696,
+    "valid": true,
+    "timestamp": "2026-01-16T19:16:40.740509324Z"
+  },
+  {
+    "testName": "bipartite_80pct",
+    "algorithm": "2-approximation",
+    "iteration": 5,
+    "vertexCount": 20,
+    "edgeCount": 72,
+    "coverSize": 9,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "timeMs": 0.238158,
+    "memoryBytes": 57696,
+    "valid": true,
+    "timestamp": "2026-01-16T19:16:40.740529135Z"
+  }
+]

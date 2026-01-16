@@ -1,0 +1,18 @@
+{
+  "testName": "random_25pct",
+  "algorithm": "backtracking",
+  "vertexCount": 18,
+  "edgeCount": 34,
+  "iterations": 3,
+  "avgCoverSize": 9.0,
+  "minCoverSize": 9.0,
+  "maxCoverSize": 9.0,
+  "avgTimeMs": 0.1316,
+  "minTimeMs": 0.089407,
+  "maxTimeMs": 0.19927,
+  "stdDevTimeMs": 0.048334100032999476,
+  "avgPrepTimeMs": 0.075925,
+  "avgMemoryBytes": 12746.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T20:32:45.728527997Z"
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "testName": "scale_free_80pct",
+    "algorithm": "hvala",
+    "iteration": 1,
+    "vertexCount": 17,
+    "edgeCount": 54,
+    "coverSize": 9,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      8,
+      10,
+      11
+    ],
+    "timeMs": 0.042841,
+    "prepTimeMs": 0.029794,
+    "memoryBytes": 9242,
+    "valid": true,
+    "timestamp": "2026-01-16T20:17:12.978486598Z"
+  },
+  {
+    "testName": "scale_free_80pct",
+    "algorithm": "hvala",
+    "iteration": 2,
+    "vertexCount": 17,
+    "edgeCount": 54,
+    "coverSize": 9,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      8,
+      10,
+      11
+    ],
+    "timeMs": 0.079802,
+    "prepTimeMs": 0.036866,
+    "memoryBytes": 9242,
+    "valid": true,
+    "timestamp": "2026-01-16T20:17:12.978561665Z"
+  },
+  {
+    "testName": "scale_free_80pct",
+    "algorithm": "hvala",
+    "iteration": 3,
+    "vertexCount": 17,
+    "edgeCount": 54,
+    "coverSize": 9,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      8,
+      10,
+      11
+    ],
+    "timeMs": 0.10593,
+    "prepTimeMs": 0.01513,
+    "memoryBytes": 9242,
+    "valid": true,
+    "timestamp": "2026-01-16T20:17:12.978586806Z"
+  }
+]

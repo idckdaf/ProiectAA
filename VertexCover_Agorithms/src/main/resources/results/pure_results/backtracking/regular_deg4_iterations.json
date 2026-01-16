@@ -1,0 +1,77 @@
+[
+  {
+    "testName": "regular_deg4",
+    "algorithm": "backtracking",
+    "iteration": 1,
+    "vertexCount": 19,
+    "edgeCount": 36,
+    "coverSize": 10,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      8,
+      11,
+      12,
+      13,
+      16,
+      17
+    ],
+    "timeMs": 0.076222,
+    "prepTimeMs": 0.103056,
+    "memoryBytes": 13138,
+    "valid": false,
+    "timestamp": "2026-01-16T20:33:08.183215617Z"
+  },
+  {
+    "testName": "regular_deg4",
+    "algorithm": "backtracking",
+    "iteration": 2,
+    "vertexCount": 19,
+    "edgeCount": 36,
+    "coverSize": 10,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      8,
+      11,
+      12,
+      13,
+      16,
+      17
+    ],
+    "timeMs": 0.191054,
+    "prepTimeMs": 0.041722,
+    "memoryBytes": 13138,
+    "valid": false,
+    "timestamp": "2026-01-16T20:33:08.183249411Z"
+  },
+  {
+    "testName": "regular_deg4",
+    "algorithm": "backtracking",
+    "iteration": 3,
+    "vertexCount": 19,
+    "edgeCount": 36,
+    "coverSize": 10,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      8,
+      11,
+      12,
+      13,
+      16,
+      17
+    ],
+    "timeMs": 0.077273,
+    "prepTimeMs": 0.015383,
+    "memoryBytes": 13138,
+    "valid": false,
+    "timestamp": "2026-01-16T20:33:08.183260125Z"
+  }
+]

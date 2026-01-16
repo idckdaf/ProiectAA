@@ -1,0 +1,82 @@
+[
+  {
+    "testName": "test1_small",
+    "algorithm": "greedy",
+    "iteration": 1,
+    "vertexCount": 6,
+    "edgeCount": 7,
+    "coverSize": 3,
+    "coverVertices": [
+      1,
+      2,
+      4
+    ],
+    "timeMs": 0.185902,
+    "valid": true,
+    "timestamp": "2026-01-16T15:32:17.060347190Z"
+  },
+  {
+    "testName": "test1_small",
+    "algorithm": "greedy",
+    "iteration": 2,
+    "vertexCount": 6,
+    "edgeCount": 7,
+    "coverSize": 3,
+    "coverVertices": [
+      1,
+      2,
+      4
+    ],
+    "timeMs": 0.119794,
+    "valid": true,
+    "timestamp": "2026-01-16T15:32:17.070804936Z"
+  },
+  {
+    "testName": "test1_small",
+    "algorithm": "greedy",
+    "iteration": 3,
+    "vertexCount": 6,
+    "edgeCount": 7,
+    "coverSize": 3,
+    "coverVertices": [
+      1,
+      2,
+      4
+    ],
+    "timeMs": 0.120323,
+    "valid": true,
+    "timestamp": "2026-01-16T15:32:17.082432031Z"
+  },
+  {
+    "testName": "test1_small",
+    "algorithm": "greedy",
+    "iteration": 4,
+    "vertexCount": 6,
+    "edgeCount": 7,
+    "coverSize": 3,
+    "coverVertices": [
+      1,
+      2,
+      4
+    ],
+    "timeMs": 0.113392,
+    "valid": true,
+    "timestamp": "2026-01-16T15:32:17.094069683Z"
+  },
+  {
+    "testName": "test1_small",
+    "algorithm": "greedy",
+    "iteration": 5,
+    "vertexCount": 6,
+    "edgeCount": 7,
+    "coverSize": 3,
+    "coverVertices": [
+      1,
+      2,
+      4
+    ],
+    "timeMs": 0.125587,
+    "valid": true,
+    "timestamp": "2026-01-16T15:32:17.105617589Z"
+  }
+]

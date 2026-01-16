@@ -1,0 +1,17 @@
+{
+  "testName": "clique_20pct",
+  "algorithm": "2-approximation",
+  "vertexCount": 21,
+  "edgeCount": 70,
+  "iterations": 5,
+  "avgCoverSize": 16.0,
+  "minCoverSize": 16.0,
+  "maxCoverSize": 16.0,
+  "avgTimeMs": 0.31859160000000003,
+  "minTimeMs": 0.199371,
+  "maxTimeMs": 0.609611,
+  "stdDevTimeMs": 0.15874430786217186,
+  "avgMemoryBytes": 64956.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T19:16:45.776447502Z"
+}

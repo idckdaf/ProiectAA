@@ -1,0 +1,74 @@
+[
+  {
+    "testName": "random_25pct",
+    "algorithm": "hvala",
+    "iteration": 1,
+    "vertexCount": 18,
+    "edgeCount": 34,
+    "coverSize": 9,
+    "coverVertices": [
+      3,
+      4,
+      6,
+      8,
+      9,
+      11,
+      12,
+      15,
+      16
+    ],
+    "timeMs": 0.068456,
+    "prepTimeMs": 0.014968,
+    "memoryBytes": 9146,
+    "valid": true,
+    "timestamp": "2026-01-16T20:16:34.468815467Z"
+  },
+  {
+    "testName": "random_25pct",
+    "algorithm": "hvala",
+    "iteration": 2,
+    "vertexCount": 18,
+    "edgeCount": 34,
+    "coverSize": 9,
+    "coverVertices": [
+      3,
+      4,
+      6,
+      8,
+      9,
+      11,
+      12,
+      15,
+      16
+    ],
+    "timeMs": 0.043794,
+    "prepTimeMs": 0.047041,
+    "memoryBytes": 9146,
+    "valid": true,
+    "timestamp": "2026-01-16T20:16:34.468951018Z"
+  },
+  {
+    "testName": "random_25pct",
+    "algorithm": "hvala",
+    "iteration": 3,
+    "vertexCount": 18,
+    "edgeCount": 34,
+    "coverSize": 9,
+    "coverVertices": [
+      3,
+      4,
+      6,
+      8,
+      9,
+      11,
+      12,
+      15,
+      16
+    ],
+    "timeMs": 0.13126,
+    "prepTimeMs": 0.02582,
+    "memoryBytes": 9146,
+    "valid": true,
+    "timestamp": "2026-01-16T20:16:34.469001802Z"
+  }
+]

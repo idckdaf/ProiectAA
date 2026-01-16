@@ -1,0 +1,18 @@
+{
+  "testName": "sparse_15pct",
+  "algorithm": "backtracking",
+  "vertexCount": 20,
+  "edgeCount": 25,
+  "iterations": 3,
+  "avgCoverSize": 8.0,
+  "minCoverSize": 8.0,
+  "maxCoverSize": 8.0,
+  "avgTimeMs": 0.098392,
+  "minTimeMs": 0.06834,
+  "maxTimeMs": 0.154958,
+  "stdDevTimeMs": 0.04002427286868141,
+  "avgPrepTimeMs": 0.056014,
+  "avgMemoryBytes": 12890.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T20:33:26.870719980Z"
+}

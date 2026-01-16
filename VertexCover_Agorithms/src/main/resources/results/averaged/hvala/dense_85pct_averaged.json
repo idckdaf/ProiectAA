@@ -1,0 +1,18 @@
+{
+  "testName": "dense_85pct",
+  "algorithm": "hvala",
+  "vertexCount": 21,
+  "edgeCount": 161,
+  "iterations": 3,
+  "avgCoverSize": 17.0,
+  "minCoverSize": 17.0,
+  "maxCoverSize": 17.0,
+  "avgTimeMs": 0.267722,
+  "minTimeMs": 0.126086,
+  "maxTimeMs": 0.359245,
+  "stdDevTimeMs": 0.10156857912103853,
+  "avgPrepTimeMs": 0.10158099999999999,
+  "avgMemoryBytes": 10768.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T20:15:59.438828340Z"
+}

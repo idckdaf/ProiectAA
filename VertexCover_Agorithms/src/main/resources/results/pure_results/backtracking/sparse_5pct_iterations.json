@@ -1,0 +1,71 @@
+[
+  {
+    "testName": "sparse_5pct",
+    "algorithm": "backtracking",
+    "iteration": 1,
+    "vertexCount": 21,
+    "edgeCount": 19,
+    "coverSize": 8,
+    "coverVertices": [
+      3,
+      4,
+      5,
+      10,
+      13,
+      16,
+      17,
+      20
+    ],
+    "timeMs": 0.082712,
+    "prepTimeMs": 0.034329,
+    "memoryBytes": 13008,
+    "valid": true,
+    "timestamp": "2026-01-16T20:33:30.614367552Z"
+  },
+  {
+    "testName": "sparse_5pct",
+    "algorithm": "backtracking",
+    "iteration": 2,
+    "vertexCount": 21,
+    "edgeCount": 19,
+    "coverSize": 8,
+    "coverVertices": [
+      3,
+      4,
+      5,
+      10,
+      13,
+      16,
+      17,
+      20
+    ],
+    "timeMs": 0.060835,
+    "prepTimeMs": 0.029135,
+    "memoryBytes": 13008,
+    "valid": true,
+    "timestamp": "2026-01-16T20:33:30.614402172Z"
+  },
+  {
+    "testName": "sparse_5pct",
+    "algorithm": "backtracking",
+    "iteration": 3,
+    "vertexCount": 21,
+    "edgeCount": 19,
+    "coverSize": 8,
+    "coverVertices": [
+      3,
+      4,
+      5,
+      10,
+      13,
+      16,
+      17,
+      20
+    ],
+    "timeMs": 0.049193,
+    "prepTimeMs": 0.018239,
+    "memoryBytes": 13008,
+    "valid": true,
+    "timestamp": "2026-01-16T20:33:30.614414535Z"
+  }
+]

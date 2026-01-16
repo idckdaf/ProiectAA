@@ -1,0 +1,83 @@
+[
+  {
+    "testName": "cycle_80pct",
+    "algorithm": "hvala",
+    "iteration": 1,
+    "vertexCount": 17,
+    "edgeCount": 99,
+    "coverSize": 12,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      5,
+      7,
+      8,
+      9,
+      10,
+      11,
+      13,
+      15,
+      16
+    ],
+    "timeMs": 0.195925,
+    "prepTimeMs": 0.054153,
+    "memoryBytes": 9722,
+    "valid": true,
+    "timestamp": "2026-01-16T20:15:55.546570557Z"
+  },
+  {
+    "testName": "cycle_80pct",
+    "algorithm": "hvala",
+    "iteration": 2,
+    "vertexCount": 17,
+    "edgeCount": 99,
+    "coverSize": 12,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      5,
+      7,
+      8,
+      9,
+      10,
+      11,
+      13,
+      15,
+      16
+    ],
+    "timeMs": 0.111903,
+    "prepTimeMs": 0.043422,
+    "memoryBytes": 9722,
+    "valid": true,
+    "timestamp": "2026-01-16T20:15:55.546617005Z"
+  },
+  {
+    "testName": "cycle_80pct",
+    "algorithm": "hvala",
+    "iteration": 3,
+    "vertexCount": 17,
+    "edgeCount": 99,
+    "coverSize": 12,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      5,
+      7,
+      8,
+      9,
+      10,
+      11,
+      13,
+      15,
+      16
+    ],
+    "timeMs": 0.088556,
+    "prepTimeMs": 0.023575,
+    "memoryBytes": 9722,
+    "valid": true,
+    "timestamp": "2026-01-16T20:15:55.546627903Z"
+  }
+]
