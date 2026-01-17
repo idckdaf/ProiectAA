@@ -1,0 +1,18 @@
+{
+  "testName": "cycle_80pct",
+  "algorithm": "backtracking_optimized",
+  "vertexCount": 17,
+  "edgeCount": 99,
+  "iterations": 5,
+  "avgCoverSize": 12.0,
+  "minCoverSize": 12.0,
+  "maxCoverSize": 12.0,
+  "avgTimeMs": 0.351321,
+  "minTimeMs": 0.166256,
+  "maxTimeMs": 0.485746,
+  "stdDevTimeMs": 0.1327035651729071,
+  "avgPrepTimeMs": 0.32071259999999996,
+  "avgMemoryBytes": 13822.0,
+  "allValid": true,
+  "timestamp": "2026-01-17T15:29:05.712119164Z"
+}

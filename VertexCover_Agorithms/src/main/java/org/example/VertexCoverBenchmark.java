@@ -19,7 +19,6 @@ public class VertexCoverBenchmark {
 
     @Setup(Level.Trial)
     public void setup() throws IOException {
-        // Load graph from the file path provided by the parameter
         if (testFileName != null && !testFileName.isEmpty()) {
             graph = Main.loadGraph(testFileName);
         }

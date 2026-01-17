@@ -17,11 +17,11 @@
       11,
       14
     ],
-    "timeMs": 0.136455,
-    "prepTimeMs": 0.042664,
-    "memoryBytes": 12522,
+    "timeMs": 0.123617,
+    "prepTimeMs": 0.091961,
+    "memoryBytes": 12928,
     "valid": true,
-    "timestamp": "2026-01-16T20:33:23.127354996Z"
+    "timestamp": "2026-01-16T22:12:12.726331055Z"
   },
   {
     "testName": "scale_free_80pct",
@@ -41,34 +41,10 @@
       11,
       14
     ],
-    "timeMs": 0.071059,
-    "prepTimeMs": 0.042498,
-    "memoryBytes": 12522,
+    "timeMs": 0.141101,
+    "prepTimeMs": 0.03872,
+    "memoryBytes": 12928,
     "valid": true,
-    "timestamp": "2026-01-16T20:33:23.127392803Z"
-  },
-  {
-    "testName": "scale_free_80pct",
-    "algorithm": "backtracking",
-    "iteration": 3,
-    "vertexCount": 17,
-    "edgeCount": 54,
-    "coverSize": 9,
-    "coverVertices": [
-      1,
-      2,
-      4,
-      5,
-      7,
-      8,
-      10,
-      11,
-      14
-    ],
-    "timeMs": 0.068807,
-    "prepTimeMs": 0.014733,
-    "memoryBytes": 12522,
-    "valid": true,
-    "timestamp": "2026-01-16T20:33:23.127402871Z"
+    "timestamp": "2026-01-16T22:12:12.726392976Z"
   }
 ]

@@ -5,10 +5,9 @@
     "iteration": 1,
     "vertexCount": 20,
     "edgeCount": 145,
-    "coverSize": 18,
+    "coverSize": 17,
     "coverVertices": [
       1,
-      2,
       3,
       4,
       5,
@@ -26,11 +25,11 @@
       17,
       18
     ],
-    "timeMs": 0.032702,
-    "prepTimeMs": 0.001505,
-    "memoryBytes": 9506,
+    "timeMs": 0.138217,
+    "prepTimeMs": 0.015848,
+    "memoryBytes": 10960,
     "valid": true,
-    "timestamp": "2026-01-16T20:13:39.307791967Z"
+    "timestamp": "2026-01-17T09:52:53.901356741Z"
   },
   {
     "testName": "grid_80pct",
@@ -38,10 +37,9 @@
     "iteration": 2,
     "vertexCount": 20,
     "edgeCount": 145,
-    "coverSize": 18,
+    "coverSize": 17,
     "coverVertices": [
       1,
-      2,
       3,
       4,
       5,
@@ -59,11 +57,11 @@
       17,
       18
     ],
-    "timeMs": 0.031214,
-    "prepTimeMs": 0.001213,
-    "memoryBytes": 9506,
+    "timeMs": 0.047651,
+    "prepTimeMs": 0.043493,
+    "memoryBytes": 10960,
     "valid": true,
-    "timestamp": "2026-01-16T20:13:39.307834459Z"
+    "timestamp": "2026-01-17T09:52:53.901406310Z"
   },
   {
     "testName": "grid_80pct",
@@ -71,10 +69,9 @@
     "iteration": 3,
     "vertexCount": 20,
     "edgeCount": 145,
-    "coverSize": 18,
+    "coverSize": 17,
     "coverVertices": [
       1,
-      2,
       3,
       4,
       5,
@@ -92,10 +89,74 @@
       17,
       18
     ],
-    "timeMs": 0.02477,
-    "prepTimeMs": 6.25E-4,
-    "memoryBytes": 9506,
+    "timeMs": 0.167195,
+    "prepTimeMs": 0.01613,
+    "memoryBytes": 10960,
     "valid": true,
-    "timestamp": "2026-01-16T20:13:39.307845261Z"
+    "timestamp": "2026-01-17T09:52:53.901423079Z"
+  },
+  {
+    "testName": "grid_80pct",
+    "algorithm": "dfs",
+    "iteration": 4,
+    "vertexCount": 20,
+    "edgeCount": 145,
+    "coverSize": 17,
+    "coverVertices": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "timeMs": 0.045606,
+    "prepTimeMs": 0.015844,
+    "memoryBytes": 10960,
+    "valid": true,
+    "timestamp": "2026-01-17T09:52:53.901436413Z"
+  },
+  {
+    "testName": "grid_80pct",
+    "algorithm": "dfs",
+    "iteration": 5,
+    "vertexCount": 20,
+    "edgeCount": 145,
+    "coverSize": 17,
+    "coverVertices": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "timeMs": 0.046003,
+    "prepTimeMs": 0.006569,
+    "memoryBytes": 10960,
+    "valid": true,
+    "timestamp": "2026-01-17T09:52:53.901465791Z"
   }
 ]

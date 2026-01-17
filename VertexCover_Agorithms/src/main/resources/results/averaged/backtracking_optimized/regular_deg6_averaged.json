@@ -1,0 +1,18 @@
+{
+  "testName": "regular_deg6",
+  "algorithm": "backtracking_optimized",
+  "vertexCount": 21,
+  "edgeCount": 60,
+  "iterations": 2,
+  "avgCoverSize": 14.0,
+  "minCoverSize": 14.0,
+  "maxCoverSize": 14.0,
+  "avgTimeMs": 0.16598000000000002,
+  "minTimeMs": 0.157647,
+  "maxTimeMs": 0.174313,
+  "stdDevTimeMs": 0.008332999999999993,
+  "avgPrepTimeMs": 0.0664575,
+  "avgMemoryBytes": 14272.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T22:12:03.304486575Z"
+}

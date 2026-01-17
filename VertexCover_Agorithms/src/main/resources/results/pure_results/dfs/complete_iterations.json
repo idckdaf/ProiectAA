@@ -26,11 +26,11 @@
       17,
       18
     ],
-    "timeMs": 0.045502,
-    "prepTimeMs": 0.001125,
-    "memoryBytes": 9506,
+    "timeMs": 0.081154,
+    "prepTimeMs": 0.035281,
+    "memoryBytes": 11006,
     "valid": true,
-    "timestamp": "2026-01-16T20:13:09.091800381Z"
+    "timestamp": "2026-01-17T09:52:13.464655150Z"
   },
   {
     "testName": "complete",
@@ -59,11 +59,11 @@
       17,
       18
     ],
-    "timeMs": 0.029088,
-    "prepTimeMs": 0.001041,
-    "memoryBytes": 9506,
+    "timeMs": 0.140573,
+    "prepTimeMs": 0.038552,
+    "memoryBytes": 11006,
     "valid": true,
-    "timestamp": "2026-01-16T20:13:09.091838185Z"
+    "timestamp": "2026-01-17T09:52:13.464718199Z"
   },
   {
     "testName": "complete",
@@ -92,10 +92,76 @@
       17,
       18
     ],
-    "timeMs": 0.027112,
-    "prepTimeMs": 3.64E-4,
-    "memoryBytes": 9506,
+    "timeMs": 0.136578,
+    "prepTimeMs": 0.032165,
+    "memoryBytes": 11006,
     "valid": true,
-    "timestamp": "2026-01-16T20:13:09.091850448Z"
+    "timestamp": "2026-01-17T09:52:13.464744037Z"
+  },
+  {
+    "testName": "complete",
+    "algorithm": "dfs",
+    "iteration": 4,
+    "vertexCount": 20,
+    "edgeCount": 171,
+    "coverSize": 18,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "timeMs": 0.096187,
+    "prepTimeMs": 0.038026,
+    "memoryBytes": 11006,
+    "valid": true,
+    "timestamp": "2026-01-17T09:52:13.464763613Z"
+  },
+  {
+    "testName": "complete",
+    "algorithm": "dfs",
+    "iteration": 5,
+    "vertexCount": 20,
+    "edgeCount": 171,
+    "coverSize": 18,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "timeMs": 0.126973,
+    "prepTimeMs": 0.015279,
+    "memoryBytes": 11006,
+    "valid": true,
+    "timestamp": "2026-01-17T09:52:13.464780186Z"
   }
 ]

@@ -25,11 +25,11 @@
       19,
       20
     ],
-    "timeMs": 0.317835,
-    "prepTimeMs": 0.06924,
-    "memoryBytes": 10768,
+    "timeMs": 0.292788,
+    "prepTimeMs": 0.074617,
+    "memoryBytes": 10710,
     "valid": true,
-    "timestamp": "2026-01-16T20:15:59.438104298Z"
+    "timestamp": "2026-01-17T09:58:03.074611886Z"
   },
   {
     "testName": "dense_85pct",
@@ -57,11 +57,11 @@
       19,
       20
     ],
-    "timeMs": 0.126086,
-    "prepTimeMs": 0.169979,
-    "memoryBytes": 10768,
+    "timeMs": 0.2096,
+    "prepTimeMs": 0.029359,
+    "memoryBytes": 10710,
     "valid": true,
-    "timestamp": "2026-01-16T20:15:59.438171072Z"
+    "timestamp": "2026-01-17T09:58:03.074727915Z"
   },
   {
     "testName": "dense_85pct",
@@ -89,10 +89,74 @@
       19,
       20
     ],
-    "timeMs": 0.359245,
-    "prepTimeMs": 0.065524,
-    "memoryBytes": 10768,
+    "timeMs": 0.073439,
+    "prepTimeMs": 0.09157,
+    "memoryBytes": 10710,
     "valid": true,
-    "timestamp": "2026-01-16T20:15:59.438196477Z"
+    "timestamp": "2026-01-17T09:58:03.074733673Z"
+  },
+  {
+    "testName": "dense_85pct",
+    "algorithm": "hvala",
+    "iteration": 4,
+    "vertexCount": 21,
+    "edgeCount": 161,
+    "coverSize": 17,
+    "coverVertices": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "timeMs": 0.246571,
+    "prepTimeMs": 0.080083,
+    "memoryBytes": 10710,
+    "valid": true,
+    "timestamp": "2026-01-17T09:58:03.074740133Z"
+  },
+  {
+    "testName": "dense_85pct",
+    "algorithm": "hvala",
+    "iteration": 5,
+    "vertexCount": 21,
+    "edgeCount": 161,
+    "coverSize": 17,
+    "coverVertices": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "timeMs": 0.236288,
+    "prepTimeMs": 0.053046,
+    "memoryBytes": 10710,
+    "valid": true,
+    "timestamp": "2026-01-17T09:58:03.074742623Z"
   }
 ]

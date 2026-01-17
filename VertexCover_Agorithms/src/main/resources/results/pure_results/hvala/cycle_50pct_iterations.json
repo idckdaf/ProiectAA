@@ -22,11 +22,11 @@
       18,
       19
     ],
-    "timeMs": 0.175495,
-    "prepTimeMs": 0.048615,
-    "memoryBytes": 10074,
+    "timeMs": 0.174485,
+    "prepTimeMs": 0.066931,
+    "memoryBytes": 10000,
     "valid": true,
-    "timestamp": "2026-01-16T20:15:51.663776764Z"
+    "timestamp": "2026-01-17T09:57:52.958661435Z"
   },
   {
     "testName": "cycle_50pct",
@@ -51,11 +51,11 @@
       18,
       19
     ],
-    "timeMs": 0.106059,
-    "prepTimeMs": 0.086022,
-    "memoryBytes": 10074,
+    "timeMs": 0.160432,
+    "prepTimeMs": 0.093288,
+    "memoryBytes": 10000,
     "valid": true,
-    "timestamp": "2026-01-16T20:15:51.663825210Z"
+    "timestamp": "2026-01-17T09:57:52.958685849Z"
   },
   {
     "testName": "cycle_50pct",
@@ -80,10 +80,68 @@
       18,
       19
     ],
-    "timeMs": 0.20437,
-    "prepTimeMs": 0.033353,
-    "memoryBytes": 10074,
+    "timeMs": 0.17183,
+    "prepTimeMs": 0.094372,
+    "memoryBytes": 10000,
     "valid": true,
-    "timestamp": "2026-01-16T20:15:51.663843734Z"
+    "timestamp": "2026-01-17T09:57:52.958687562Z"
+  },
+  {
+    "testName": "cycle_50pct",
+    "algorithm": "hvala",
+    "iteration": 4,
+    "vertexCount": 20,
+    "edgeCount": 95,
+    "coverSize": 14,
+    "coverVertices": [
+      2,
+      3,
+      5,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19
+    ],
+    "timeMs": 0.218711,
+    "prepTimeMs": 0.03688,
+    "memoryBytes": 10000,
+    "valid": true,
+    "timestamp": "2026-01-17T09:57:52.958688392Z"
+  },
+  {
+    "testName": "cycle_50pct",
+    "algorithm": "hvala",
+    "iteration": 5,
+    "vertexCount": 20,
+    "edgeCount": 95,
+    "coverSize": 14,
+    "coverVertices": [
+      2,
+      3,
+      5,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19
+    ],
+    "timeMs": 0.093522,
+    "prepTimeMs": 0.016529,
+    "memoryBytes": 10000,
+    "valid": true,
+    "timestamp": "2026-01-17T09:57:52.958689161Z"
   }
 ]

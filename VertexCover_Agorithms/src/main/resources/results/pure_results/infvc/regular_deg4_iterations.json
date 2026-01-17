@@ -1,0 +1,22 @@
+[
+  {
+    "testName": "regular_deg4",
+    "algorithm": "infvc",
+    "iteration": 1,
+    "vertexCount": 19,
+    "edgeCount": 36,
+    "coverSize": 5,
+    "coverVertices": [
+      1,
+      4,
+      6,
+      10,
+      13
+    ],
+    "timeMs": 9.12868,
+    "prepTimeMs": 0.009737,
+    "memoryBytes": 15533696,
+    "valid": false,
+    "timestamp": "2026-01-16T23:33:41.487716873Z"
+  }
+]

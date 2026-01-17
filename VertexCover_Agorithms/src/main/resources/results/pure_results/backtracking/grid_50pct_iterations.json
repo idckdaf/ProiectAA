@@ -15,17 +15,17 @@
       8,
       9,
       10,
-      11,
       12,
       13,
       14,
+      15,
       16
     ],
-    "timeMs": 0.180694,
-    "prepTimeMs": 0.214564,
-    "memoryBytes": 13957,
+    "timeMs": 9.760102,
+    "prepTimeMs": 0.038434,
+    "memoryBytes": 19376152,
     "valid": true,
-    "timestamp": "2026-01-16T20:32:23.245837224Z"
+    "timestamp": "2026-01-17T15:36:59.571679116Z"
   },
   {
     "testName": "grid_50pct",
@@ -43,44 +43,16 @@
       8,
       9,
       10,
-      11,
       12,
       13,
       14,
+      15,
       16
     ],
-    "timeMs": 0.251434,
-    "prepTimeMs": 0.632229,
-    "memoryBytes": 13957,
+    "timeMs": 7.258822,
+    "prepTimeMs": 0.024246,
+    "memoryBytes": 19376152,
     "valid": true,
-    "timestamp": "2026-01-16T20:32:23.245877344Z"
-  },
-  {
-    "testName": "grid_50pct",
-    "algorithm": "backtracking",
-    "iteration": 3,
-    "vertexCount": 17,
-    "edgeCount": 83,
-    "coverSize": 13,
-    "coverVertices": [
-      2,
-      3,
-      4,
-      5,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12,
-      13,
-      14,
-      16
-    ],
-    "timeMs": 0.665475,
-    "prepTimeMs": 0.058218,
-    "memoryBytes": 13957,
-    "valid": true,
-    "timestamp": "2026-01-16T20:32:23.245894456Z"
+    "timestamp": "2026-01-17T15:36:59.571723959Z"
   }
 ]

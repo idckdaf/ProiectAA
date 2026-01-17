@@ -1,0 +1,30 @@
+[
+  {
+    "testName": "clique_50pct",
+    "algorithm": "infvc",
+    "iteration": 1,
+    "vertexCount": 17,
+    "edgeCount": 77,
+    "coverSize": 13,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      15,
+      16
+    ],
+    "timeMs": 99.54572,
+    "prepTimeMs": 1.04E-4,
+    "memoryBytes": 63840208,
+    "valid": true,
+    "timestamp": "2026-01-17T14:19:33.294120055Z"
+  }
+]

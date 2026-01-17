@@ -1,0 +1,18 @@
+{
+  "testName": "random_n100_dense",
+  "algorithm": "hvala",
+  "vertexCount": 100,
+  "edgeCount": 2500,
+  "iterations": 5,
+  "avgCoverSize": 92.0,
+  "minCoverSize": 92.0,
+  "maxCoverSize": 92.0,
+  "avgTimeMs": 0.5577262000000001,
+  "minTimeMs": 0.283202,
+  "maxTimeMs": 0.887742,
+  "stdDevTimeMs": 0.23649288796190046,
+  "avgPrepTimeMs": 0.24022860000000001,
+  "avgMemoryBytes": 38076.0,
+  "allValid": true,
+  "timestamp": "2026-01-17T09:59:14.071271826Z"
+}

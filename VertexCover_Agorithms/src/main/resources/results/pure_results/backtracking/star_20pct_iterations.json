@@ -8,9 +8,9 @@
     "coverSize": 10,
     "coverVertices": [
       1,
+      2,
       6,
       7,
-      9,
       11,
       12,
       13,
@@ -18,11 +18,11 @@
       16,
       17
     ],
-    "timeMs": 0.056128,
-    "prepTimeMs": 0.087523,
-    "memoryBytes": 13336,
+    "timeMs": 0.138101,
+    "prepTimeMs": 0.042628,
+    "memoryBytes": 13800,
     "valid": true,
-    "timestamp": "2026-01-16T20:33:34.358458106Z"
+    "timestamp": "2026-01-16T22:12:22.098727557Z"
   },
   {
     "testName": "star_20pct",
@@ -33,9 +33,9 @@
     "coverSize": 10,
     "coverVertices": [
       1,
+      2,
       6,
       7,
-      9,
       11,
       12,
       13,
@@ -43,35 +43,10 @@
       16,
       17
     ],
-    "timeMs": 0.152979,
-    "prepTimeMs": 0.080327,
-    "memoryBytes": 13336,
+    "timeMs": 0.063789,
+    "prepTimeMs": 0.017493,
+    "memoryBytes": 13800,
     "valid": true,
-    "timestamp": "2026-01-16T20:33:34.358555147Z"
-  },
-  {
-    "testName": "star_20pct",
-    "algorithm": "backtracking",
-    "iteration": 3,
-    "vertexCount": 20,
-    "edgeCount": 48,
-    "coverSize": 10,
-    "coverVertices": [
-      1,
-      6,
-      7,
-      9,
-      11,
-      12,
-      13,
-      14,
-      16,
-      17
-    ],
-    "timeMs": 0.14123,
-    "prepTimeMs": 0.043702,
-    "memoryBytes": 13336,
-    "valid": true,
-    "timestamp": "2026-01-16T20:33:34.358583952Z"
+    "timestamp": "2026-01-16T22:12:22.098763465Z"
   }
 ]

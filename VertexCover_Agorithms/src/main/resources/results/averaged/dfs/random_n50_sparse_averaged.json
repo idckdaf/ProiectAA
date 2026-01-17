@@ -1,0 +1,18 @@
+{
+  "testName": "random_n50_sparse",
+  "algorithm": "dfs",
+  "vertexCount": 50,
+  "edgeCount": 282,
+  "iterations": 5,
+  "avgCoverSize": 38.0,
+  "minCoverSize": 38.0,
+  "maxCoverSize": 38.0,
+  "avgTimeMs": 0.07264060000000001,
+  "minTimeMs": 0.030305,
+  "maxTimeMs": 0.117838,
+  "stdDevTimeMs": 0.033733653561984656,
+  "avgPrepTimeMs": 0.0348162,
+  "avgMemoryBytes": 15096.0,
+  "allValid": true,
+  "timestamp": "2026-01-17T09:55:10.452907850Z"
+}

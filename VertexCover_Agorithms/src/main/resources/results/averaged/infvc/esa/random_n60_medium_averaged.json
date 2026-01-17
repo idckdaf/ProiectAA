@@ -1,0 +1,18 @@
+{
+  "testName": "random_n60_medium",
+  "algorithm": "infvc",
+  "vertexCount": 60,
+  "edgeCount": 627,
+  "iterations": 1,
+  "avgCoverSize": 56.0,
+  "minCoverSize": 56.0,
+  "maxCoverSize": 56.0,
+  "avgTimeMs": 0.446369,
+  "minTimeMs": 0.446369,
+  "maxTimeMs": 0.446369,
+  "stdDevTimeMs": 0.0,
+  "avgPrepTimeMs": 0.086922,
+  "avgMemoryBytes": 20552.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T22:22:30.282856641Z"
+}

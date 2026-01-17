@@ -20,11 +20,11 @@
       14,
       15
     ],
-    "timeMs": 0.056635,
-    "prepTimeMs": 0.023318,
-    "memoryBytes": 9306,
+    "timeMs": 0.03685,
+    "prepTimeMs": 0.017292,
+    "memoryBytes": 9174,
     "valid": true,
-    "timestamp": "2026-01-16T20:16:57.606982323Z"
+    "timestamp": "2026-01-17T10:01:35.920277956Z"
   },
   {
     "testName": "regular_deg4",
@@ -47,11 +47,11 @@
       14,
       15
     ],
-    "timeMs": 0.089948,
-    "prepTimeMs": 0.035863,
-    "memoryBytes": 9306,
+    "timeMs": 0.061252,
+    "prepTimeMs": 0.012611,
+    "memoryBytes": 9174,
     "valid": true,
-    "timestamp": "2026-01-16T20:16:57.607026030Z"
+    "timestamp": "2026-01-17T10:01:35.920316454Z"
   },
   {
     "testName": "regular_deg4",
@@ -74,10 +74,64 @@
       14,
       15
     ],
-    "timeMs": 0.112095,
-    "prepTimeMs": 0.008868,
-    "memoryBytes": 9306,
+    "timeMs": 0.045045,
+    "prepTimeMs": 0.00589,
+    "memoryBytes": 9174,
     "valid": true,
-    "timestamp": "2026-01-16T20:16:57.607037058Z"
+    "timestamp": "2026-01-17T10:01:35.920320048Z"
+  },
+  {
+    "testName": "regular_deg4",
+    "algorithm": "hvala",
+    "iteration": 4,
+    "vertexCount": 19,
+    "edgeCount": 36,
+    "coverSize": 12,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7,
+      8,
+      9,
+      11,
+      13,
+      14,
+      15
+    ],
+    "timeMs": 0.022144,
+    "prepTimeMs": 0.008095,
+    "memoryBytes": 9174,
+    "valid": true,
+    "timestamp": "2026-01-17T10:01:35.920321715Z"
+  },
+  {
+    "testName": "regular_deg4",
+    "algorithm": "hvala",
+    "iteration": 5,
+    "vertexCount": 19,
+    "edgeCount": 36,
+    "coverSize": 12,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7,
+      8,
+      9,
+      11,
+      13,
+      14,
+      15
+    ],
+    "timeMs": 0.028082,
+    "prepTimeMs": 0.005931,
+    "memoryBytes": 9174,
+    "valid": true,
+    "timestamp": "2026-01-17T10:01:35.920323324Z"
   }
 ]

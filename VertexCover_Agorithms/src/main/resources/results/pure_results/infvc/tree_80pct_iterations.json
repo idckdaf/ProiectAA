@@ -1,0 +1,25 @@
+[
+  {
+    "testName": "tree_80pct",
+    "algorithm": "infvc",
+    "iteration": 1,
+    "vertexCount": 19,
+    "edgeCount": 17,
+    "coverSize": 8,
+    "coverVertices": [
+      2,
+      4,
+      6,
+      12,
+      13,
+      14,
+      15,
+      17
+    ],
+    "timeMs": 0.039769,
+    "prepTimeMs": 0.00738,
+    "memoryBytes": 10336,
+    "valid": true,
+    "timestamp": "2026-01-16T23:24:07.673591771Z"
+  }
+]

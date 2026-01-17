@@ -1,0 +1,26 @@
+[
+  {
+    "testName": "tree_80pct",
+    "algorithm": "esa",
+    "iteration": 1,
+    "vertexCount": 19,
+    "edgeCount": 17,
+    "coverSize": 9,
+    "coverVertices": [
+      2,
+      4,
+      6,
+      7,
+      8,
+      9,
+      13,
+      14,
+      17
+    ],
+    "timeMs": 0.113152,
+    "prepTimeMs": 0.013747,
+    "memoryBytes": 9376,
+    "valid": true,
+    "timestamp": "2026-01-16T22:23:23.158078660Z"
+  }
+]

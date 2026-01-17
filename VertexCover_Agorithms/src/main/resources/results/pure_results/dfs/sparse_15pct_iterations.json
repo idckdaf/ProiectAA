@@ -5,25 +5,22 @@
     "iteration": 1,
     "vertexCount": 20,
     "edgeCount": 25,
-    "coverSize": 11,
+    "coverSize": 8,
     "coverVertices": [
-      1,
       2,
       5,
       6,
-      10,
+      11,
       12,
       13,
-      15,
       16,
-      18,
-      19
+      18
     ],
-    "timeMs": 0.026534,
-    "prepTimeMs": 2.97E-4,
-    "memoryBytes": 9362,
+    "timeMs": 0.095845,
+    "prepTimeMs": 0.013277,
+    "memoryBytes": 9742,
     "valid": true,
-    "timestamp": "2026-01-16T20:14:39.350861007Z"
+    "timestamp": "2026-01-17T09:56:31.708269925Z"
   },
   {
     "testName": "sparse_15pct",
@@ -31,25 +28,22 @@
     "iteration": 2,
     "vertexCount": 20,
     "edgeCount": 25,
-    "coverSize": 11,
+    "coverSize": 8,
     "coverVertices": [
-      1,
       2,
       5,
       6,
-      10,
+      11,
       12,
       13,
-      15,
       16,
-      18,
-      19
+      18
     ],
-    "timeMs": 0.022603,
-    "prepTimeMs": 4.66E-4,
-    "memoryBytes": 9362,
+    "timeMs": 0.072072,
+    "prepTimeMs": 0.011557,
+    "memoryBytes": 9742,
     "valid": true,
-    "timestamp": "2026-01-16T20:14:39.350940176Z"
+    "timestamp": "2026-01-17T09:56:31.708314506Z"
   },
   {
     "testName": "sparse_15pct",
@@ -57,24 +51,67 @@
     "iteration": 3,
     "vertexCount": 20,
     "edgeCount": 25,
-    "coverSize": 11,
+    "coverSize": 8,
     "coverVertices": [
-      1,
       2,
       5,
       6,
-      10,
+      11,
       12,
       13,
-      15,
       16,
-      18,
-      19
+      18
     ],
-    "timeMs": 0.042469,
-    "prepTimeMs": 0.001084,
-    "memoryBytes": 9362,
+    "timeMs": 0.064499,
+    "prepTimeMs": 0.012469,
+    "memoryBytes": 9742,
     "valid": true,
-    "timestamp": "2026-01-16T20:14:39.350972171Z"
+    "timestamp": "2026-01-17T09:56:31.708319835Z"
+  },
+  {
+    "testName": "sparse_15pct",
+    "algorithm": "dfs",
+    "iteration": 4,
+    "vertexCount": 20,
+    "edgeCount": 25,
+    "coverSize": 8,
+    "coverVertices": [
+      2,
+      5,
+      6,
+      11,
+      12,
+      13,
+      16,
+      18
+    ],
+    "timeMs": 0.070902,
+    "prepTimeMs": 0.009021,
+    "memoryBytes": 9742,
+    "valid": true,
+    "timestamp": "2026-01-17T09:56:31.708322779Z"
+  },
+  {
+    "testName": "sparse_15pct",
+    "algorithm": "dfs",
+    "iteration": 5,
+    "vertexCount": 20,
+    "edgeCount": 25,
+    "coverSize": 8,
+    "coverVertices": [
+      2,
+      5,
+      6,
+      11,
+      12,
+      13,
+      16,
+      18
+    ],
+    "timeMs": 0.048294,
+    "prepTimeMs": 0.005792,
+    "memoryBytes": 9742,
+    "valid": true,
+    "timestamp": "2026-01-17T09:56:31.708324838Z"
   }
 ]

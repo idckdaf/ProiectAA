@@ -1,0 +1,18 @@
+{
+  "testName": "random_n30_medium",
+  "algorithm": "hvala",
+  "vertexCount": 30,
+  "edgeCount": 186,
+  "iterations": 5,
+  "avgCoverSize": 22.0,
+  "minCoverSize": 22.0,
+  "maxCoverSize": 22.0,
+  "avgTimeMs": 0.071268,
+  "minTimeMs": 0.02503,
+  "maxTimeMs": 0.105529,
+  "stdDevTimeMs": 0.030119698358383344,
+  "avgPrepTimeMs": 0.028193999999999997,
+  "avgMemoryBytes": 11614.0,
+  "allValid": true,
+  "timestamp": "2026-01-17T10:00:04.846846392Z"
+}

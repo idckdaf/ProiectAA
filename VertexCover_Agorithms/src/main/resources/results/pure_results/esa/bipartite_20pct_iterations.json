@@ -1,0 +1,24 @@
+[
+  {
+    "testName": "bipartite_20pct",
+    "algorithm": "esa",
+    "iteration": 1,
+    "vertexCount": 17,
+    "edgeCount": 12,
+    "coverSize": 7,
+    "coverVertices": [
+      2,
+      3,
+      6,
+      11,
+      12,
+      13,
+      15
+    ],
+    "timeMs": 2.382557,
+    "prepTimeMs": 0.141917,
+    "memoryBytes": 9768,
+    "valid": true,
+    "timestamp": "2026-01-16T22:30:45.388126063Z"
+  }
+]

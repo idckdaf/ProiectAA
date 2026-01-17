@@ -1,0 +1,112 @@
+[
+  {
+    "testName": "planar_20pct",
+    "algorithm": "infvc",
+    "iteration": 1,
+    "vertexCount": 16,
+    "edgeCount": 14,
+    "coverSize": 7,
+    "coverVertices": [
+      2,
+      4,
+      6,
+      8,
+      10,
+      12,
+      14
+    ],
+    "timeMs": 0.200161,
+    "prepTimeMs": 0.076117,
+    "memoryBytes": 18419,
+    "valid": true,
+    "timestamp": "2026-01-17T12:47:38.084486980Z"
+  },
+  {
+    "testName": "planar_20pct",
+    "algorithm": "infvc",
+    "iteration": 2,
+    "vertexCount": 16,
+    "edgeCount": 14,
+    "coverSize": 7,
+    "coverVertices": [
+      2,
+      4,
+      6,
+      8,
+      10,
+      12,
+      14
+    ],
+    "timeMs": 0.150143,
+    "prepTimeMs": 0.049295,
+    "memoryBytes": 18419,
+    "valid": true,
+    "timestamp": "2026-01-17T12:47:38.084515339Z"
+  },
+  {
+    "testName": "planar_20pct",
+    "algorithm": "infvc",
+    "iteration": 3,
+    "vertexCount": 16,
+    "edgeCount": 14,
+    "coverSize": 7,
+    "coverVertices": [
+      2,
+      4,
+      6,
+      8,
+      10,
+      12,
+      14
+    ],
+    "timeMs": 0.085282,
+    "prepTimeMs": 0.103883,
+    "memoryBytes": 18419,
+    "valid": true,
+    "timestamp": "2026-01-17T12:47:38.084517188Z"
+  },
+  {
+    "testName": "planar_20pct",
+    "algorithm": "infvc",
+    "iteration": 4,
+    "vertexCount": 16,
+    "edgeCount": 14,
+    "coverSize": 7,
+    "coverVertices": [
+      2,
+      4,
+      6,
+      8,
+      10,
+      12,
+      14
+    ],
+    "timeMs": 0.167878,
+    "prepTimeMs": 0.049504,
+    "memoryBytes": 18419,
+    "valid": true,
+    "timestamp": "2026-01-17T12:47:38.084518122Z"
+  },
+  {
+    "testName": "planar_20pct",
+    "algorithm": "infvc",
+    "iteration": 5,
+    "vertexCount": 16,
+    "edgeCount": 14,
+    "coverSize": 7,
+    "coverVertices": [
+      2,
+      4,
+      6,
+      8,
+      10,
+      12,
+      14
+    ],
+    "timeMs": 0.075958,
+    "prepTimeMs": 0.008932,
+    "memoryBytes": 18419,
+    "valid": true,
+    "timestamp": "2026-01-17T12:47:38.084520278Z"
+  }
+]

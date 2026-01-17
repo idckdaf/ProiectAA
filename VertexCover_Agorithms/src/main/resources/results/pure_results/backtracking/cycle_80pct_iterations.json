@@ -20,11 +20,11 @@
       15,
       16
     ],
-    "timeMs": 0.091755,
-    "prepTimeMs": 0.078553,
-    "memoryBytes": 13002,
+    "timeMs": 4.947195,
+    "prepTimeMs": 0.111858,
+    "memoryBytes": 19623272,
     "valid": true,
-    "timestamp": "2026-01-16T20:32:08.257021723Z"
+    "timestamp": "2026-01-17T15:36:46.414445910Z"
   },
   {
     "testName": "cycle_80pct",
@@ -47,37 +47,10 @@
       15,
       16
     ],
-    "timeMs": 0.097475,
-    "prepTimeMs": 0.072029,
-    "memoryBytes": 13002,
+    "timeMs": 10.959157,
+    "prepTimeMs": 0.024756,
+    "memoryBytes": 19623272,
     "valid": true,
-    "timestamp": "2026-01-16T20:32:08.257054974Z"
-  },
-  {
-    "testName": "cycle_80pct",
-    "algorithm": "backtracking",
-    "iteration": 3,
-    "vertexCount": 17,
-    "edgeCount": 99,
-    "coverSize": 12,
-    "coverVertices": [
-      1,
-      2,
-      3,
-      5,
-      7,
-      8,
-      9,
-      10,
-      11,
-      13,
-      15,
-      16
-    ],
-    "timeMs": 0.090024,
-    "prepTimeMs": 0.048161,
-    "memoryBytes": 13002,
-    "valid": true,
-    "timestamp": "2026-01-16T20:32:08.257065758Z"
+    "timestamp": "2026-01-17T15:36:46.414487541Z"
   }
 ]

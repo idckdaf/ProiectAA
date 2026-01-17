@@ -1,0 +1,25 @@
+[
+  {
+    "testName": "sparse_15pct",
+    "algorithm": "infvc",
+    "iteration": 1,
+    "vertexCount": 20,
+    "edgeCount": 25,
+    "coverSize": 8,
+    "coverVertices": [
+      2,
+      6,
+      12,
+      13,
+      14,
+      15,
+      16,
+      18
+    ],
+    "timeMs": 0.099939,
+    "prepTimeMs": 0.048726,
+    "memoryBytes": 10520,
+    "valid": true,
+    "timestamp": "2026-01-16T23:23:50.123720565Z"
+  }
+]

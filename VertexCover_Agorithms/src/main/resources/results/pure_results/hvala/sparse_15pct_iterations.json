@@ -16,11 +16,11 @@
       16,
       18
     ],
-    "timeMs": 0.061269,
-    "prepTimeMs": 0.017987,
-    "memoryBytes": 9186,
+    "timeMs": 0.038557,
+    "prepTimeMs": 0.00928,
+    "memoryBytes": 9054,
     "valid": true,
-    "timestamp": "2026-01-16T20:17:16.834407364Z"
+    "timestamp": "2026-01-17T10:02:01.223103680Z"
   },
   {
     "testName": "sparse_15pct",
@@ -39,11 +39,11 @@
       16,
       18
     ],
-    "timeMs": 0.055978,
-    "prepTimeMs": 0.015107,
-    "memoryBytes": 9186,
+    "timeMs": 0.034531,
+    "prepTimeMs": 0.007157,
+    "memoryBytes": 9054,
     "valid": true,
-    "timestamp": "2026-01-16T20:17:16.834449851Z"
+    "timestamp": "2026-01-17T10:02:01.223158060Z"
   },
   {
     "testName": "sparse_15pct",
@@ -62,10 +62,56 @@
       16,
       18
     ],
-    "timeMs": 0.046475,
-    "prepTimeMs": 0.005728,
-    "memoryBytes": 9186,
+    "timeMs": 0.026586,
+    "prepTimeMs": 0.010634,
+    "memoryBytes": 9054,
     "valid": true,
-    "timestamp": "2026-01-16T20:17:16.834464306Z"
+    "timestamp": "2026-01-17T10:02:01.223163744Z"
+  },
+  {
+    "testName": "sparse_15pct",
+    "algorithm": "hvala",
+    "iteration": 4,
+    "vertexCount": 20,
+    "edgeCount": 25,
+    "coverSize": 8,
+    "coverVertices": [
+      2,
+      5,
+      6,
+      11,
+      12,
+      13,
+      16,
+      18
+    ],
+    "timeMs": 0.039549,
+    "prepTimeMs": 0.009777,
+    "memoryBytes": 9054,
+    "valid": true,
+    "timestamp": "2026-01-17T10:02:01.223166243Z"
+  },
+  {
+    "testName": "sparse_15pct",
+    "algorithm": "hvala",
+    "iteration": 5,
+    "vertexCount": 20,
+    "edgeCount": 25,
+    "coverSize": 8,
+    "coverVertices": [
+      2,
+      5,
+      6,
+      11,
+      12,
+      13,
+      16,
+      18
+    ],
+    "timeMs": 0.035722,
+    "prepTimeMs": 0.00766,
+    "memoryBytes": 9054,
+    "valid": true,
+    "timestamp": "2026-01-17T10:02:01.223168602Z"
   }
 ]

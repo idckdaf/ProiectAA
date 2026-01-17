@@ -1,0 +1,18 @@
+{
+  "testName": "star_50pct",
+  "algorithm": "infvc",
+  "vertexCount": 18,
+  "edgeCount": 76,
+  "iterations": 1,
+  "avgCoverSize": 13.0,
+  "minCoverSize": 13.0,
+  "maxCoverSize": 13.0,
+  "avgTimeMs": 3.455669,
+  "minTimeMs": 3.455669,
+  "maxTimeMs": 3.455669,
+  "stdDevTimeMs": 0.0,
+  "avgPrepTimeMs": 0.0308,
+  "avgMemoryBytes": 33456.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T23:23:57.637629042Z"
+}

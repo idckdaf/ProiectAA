@@ -1,0 +1,18 @@
+{
+  "testName": "clique_80pct",
+  "algorithm": "infvc",
+  "vertexCount": 20,
+  "edgeCount": 144,
+  "iterations": 5,
+  "avgCoverSize": 1.0,
+  "minCoverSize": 1.0,
+  "maxCoverSize": 1.0,
+  "avgTimeMs": 44.633855,
+  "minTimeMs": 37.981658,
+  "maxTimeMs": 49.915523,
+  "stdDevTimeMs": 4.27861403992288,
+  "avgPrepTimeMs": 0.1096706,
+  "avgMemoryBytes": 5.0904723E7,
+  "allValid": false,
+  "timestamp": "2026-01-17T10:03:07.697676766Z"
+}

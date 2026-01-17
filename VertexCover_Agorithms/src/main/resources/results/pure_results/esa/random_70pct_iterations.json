@@ -1,0 +1,30 @@
+[
+  {
+    "testName": "random_70pct",
+    "algorithm": "esa",
+    "iteration": 1,
+    "vertexCount": 18,
+    "edgeCount": 95,
+    "coverSize": 13,
+    "coverVertices": [
+      2,
+      3,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "timeMs": 1.343424,
+    "prepTimeMs": 0.041919,
+    "memoryBytes": 12440,
+    "valid": true,
+    "timestamp": "2026-01-16T22:31:42.378942231Z"
+  }
+]

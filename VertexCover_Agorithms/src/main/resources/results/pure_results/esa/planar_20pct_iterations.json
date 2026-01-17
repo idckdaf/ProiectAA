@@ -1,0 +1,25 @@
+[
+  {
+    "testName": "planar_20pct",
+    "algorithm": "esa",
+    "iteration": 1,
+    "vertexCount": 16,
+    "edgeCount": 14,
+    "coverSize": 8,
+    "coverVertices": [
+      2,
+      3,
+      5,
+      7,
+      9,
+      11,
+      12,
+      14
+    ],
+    "timeMs": 0.206284,
+    "prepTimeMs": 0.249848,
+    "memoryBytes": 9688,
+    "valid": true,
+    "timestamp": "2026-01-16T22:31:24.448009470Z"
+  }
+]

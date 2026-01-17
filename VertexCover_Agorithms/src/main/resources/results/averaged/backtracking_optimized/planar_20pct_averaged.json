@@ -1,0 +1,18 @@
+{
+  "testName": "planar_20pct",
+  "algorithm": "backtracking_optimized",
+  "vertexCount": 16,
+  "edgeCount": 14,
+  "iterations": 5,
+  "avgCoverSize": 7.0,
+  "minCoverSize": 7.0,
+  "maxCoverSize": 7.0,
+  "avgTimeMs": 0.15277439999999998,
+  "minTimeMs": 0.090525,
+  "maxTimeMs": 0.211841,
+  "stdDevTimeMs": 0.04775914574026634,
+  "avgPrepTimeMs": 0.128375,
+  "avgMemoryBytes": 19163.0,
+  "allValid": true,
+  "timestamp": "2026-01-17T15:29:36.104435675Z"
+}

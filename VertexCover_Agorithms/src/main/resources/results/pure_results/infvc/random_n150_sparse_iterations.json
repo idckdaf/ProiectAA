@@ -1,0 +1,35 @@
+[
+  {
+    "testName": "random_n150_sparse",
+    "algorithm": "infvc",
+    "iteration": 1,
+    "vertexCount": 150,
+    "edgeCount": 1084,
+    "coverSize": 18,
+    "coverVertices": [
+      7,
+      9,
+      11,
+      20,
+      31,
+      35,
+      36,
+      42,
+      50,
+      61,
+      69,
+      82,
+      86,
+      89,
+      97,
+      107,
+      131,
+      144
+    ],
+    "timeMs": 65.783006,
+    "prepTimeMs": 0.052591,
+    "memoryBytes": 161821000,
+    "valid": false,
+    "timestamp": "2026-01-16T23:32:46.829347129Z"
+  }
+]

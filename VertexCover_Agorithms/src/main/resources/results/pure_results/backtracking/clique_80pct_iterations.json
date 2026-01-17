@@ -7,7 +7,6 @@
     "edgeCount": 144,
     "coverSize": 16,
     "coverVertices": [
-      1,
       2,
       3,
       4,
@@ -19,16 +18,17 @@
       11,
       12,
       13,
+      14,
       15,
       16,
-      17,
-      18
+      18,
+      19
     ],
-    "timeMs": 0.153214,
-    "prepTimeMs": 0.086008,
-    "memoryBytes": 14194,
+    "timeMs": 63.91951,
+    "prepTimeMs": 0.124491,
+    "memoryBytes": 170975504,
     "valid": true,
-    "timestamp": "2026-01-16T20:31:53.307677997Z"
+    "timestamp": "2026-01-17T15:36:33.314609763Z"
   },
   {
     "testName": "clique_80pct",
@@ -38,7 +38,6 @@
     "edgeCount": 144,
     "coverSize": 16,
     "coverVertices": [
-      1,
       2,
       3,
       4,
@@ -50,46 +49,16 @@
       11,
       12,
       13,
+      14,
       15,
       16,
-      17,
-      18
+      18,
+      19
     ],
-    "timeMs": 0.107107,
-    "prepTimeMs": 0.146985,
-    "memoryBytes": 14194,
+    "timeMs": 68.002953,
+    "prepTimeMs": 0.032139,
+    "memoryBytes": 170975504,
     "valid": true,
-    "timestamp": "2026-01-16T20:31:53.307727087Z"
-  },
-  {
-    "testName": "clique_80pct",
-    "algorithm": "backtracking",
-    "iteration": 3,
-    "vertexCount": 20,
-    "edgeCount": 144,
-    "coverSize": 16,
-    "coverVertices": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      10,
-      11,
-      12,
-      13,
-      15,
-      16,
-      17,
-      18
-    ],
-    "timeMs": 0.181184,
-    "prepTimeMs": 0.09898,
-    "memoryBytes": 14194,
-    "valid": true,
-    "timestamp": "2026-01-16T20:31:53.307743402Z"
+    "timestamp": "2026-01-17T15:36:33.314644311Z"
   }
 ]

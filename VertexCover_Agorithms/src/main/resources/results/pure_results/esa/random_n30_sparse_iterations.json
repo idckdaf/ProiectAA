@@ -1,0 +1,39 @@
+[
+  {
+    "testName": "random_n30_sparse",
+    "algorithm": "esa",
+    "iteration": 1,
+    "vertexCount": 30,
+    "edgeCount": 147,
+    "coverSize": 22,
+    "coverVertices": [
+      0,
+      1,
+      4,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      14,
+      17,
+      18,
+      19,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "timeMs": 0.95312,
+    "prepTimeMs": 0.01802,
+    "memoryBytes": 16656,
+    "valid": true,
+    "timestamp": "2026-01-16T22:31:52.676096915Z"
+  }
+]

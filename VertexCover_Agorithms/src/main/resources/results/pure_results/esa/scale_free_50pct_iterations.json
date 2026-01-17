@@ -1,0 +1,26 @@
+[
+  {
+    "testName": "scale_free_50pct",
+    "algorithm": "esa",
+    "iteration": 1,
+    "vertexCount": 17,
+    "edgeCount": 29,
+    "coverSize": 9,
+    "coverVertices": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      15
+    ],
+    "timeMs": 0.044182,
+    "prepTimeMs": 0.013955,
+    "memoryBytes": 9080,
+    "valid": true,
+    "timestamp": "2026-01-16T22:23:00.482011661Z"
+  }
+]

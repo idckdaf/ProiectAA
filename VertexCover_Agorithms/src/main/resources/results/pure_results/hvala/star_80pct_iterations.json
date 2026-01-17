@@ -22,11 +22,11 @@
       14,
       15
     ],
-    "timeMs": 0.052296,
-    "prepTimeMs": 0.034488,
-    "memoryBytes": 10058,
+    "timeMs": 0.018671,
+    "prepTimeMs": 0.012816,
+    "memoryBytes": 10096,
     "valid": true,
-    "timestamp": "2026-01-16T20:17:32.168563016Z"
+    "timestamp": "2026-01-17T10:02:21.509685890Z"
   },
   {
     "testName": "star_80pct",
@@ -51,11 +51,11 @@
       14,
       15
     ],
-    "timeMs": 0.075144,
-    "prepTimeMs": 0.013103,
-    "memoryBytes": 10058,
+    "timeMs": 0.047252,
+    "prepTimeMs": 0.01944,
+    "memoryBytes": 10096,
     "valid": true,
-    "timestamp": "2026-01-16T20:17:32.168608665Z"
+    "timestamp": "2026-01-17T10:02:21.509752092Z"
   },
   {
     "testName": "star_80pct",
@@ -80,10 +80,68 @@
       14,
       15
     ],
-    "timeMs": 0.051695,
-    "prepTimeMs": 0.006674,
-    "memoryBytes": 10058,
+    "timeMs": 0.065328,
+    "prepTimeMs": 0.015323,
+    "memoryBytes": 10096,
     "valid": true,
-    "timestamp": "2026-01-16T20:17:32.168619076Z"
+    "timestamp": "2026-01-17T10:02:21.509757344Z"
+  },
+  {
+    "testName": "star_80pct",
+    "algorithm": "hvala",
+    "iteration": 4,
+    "vertexCount": 18,
+    "edgeCount": 112,
+    "coverSize": 14,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "timeMs": 0.052413,
+    "prepTimeMs": 0.020198,
+    "memoryBytes": 10096,
+    "valid": true,
+    "timestamp": "2026-01-17T10:02:21.509760221Z"
+  },
+  {
+    "testName": "star_80pct",
+    "algorithm": "hvala",
+    "iteration": 5,
+    "vertexCount": 18,
+    "edgeCount": 112,
+    "coverSize": 14,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "timeMs": 0.07175,
+    "prepTimeMs": 0.013293,
+    "memoryBytes": 10096,
+    "valid": true,
+    "timestamp": "2026-01-17T10:02:21.509763020Z"
   }
 ]

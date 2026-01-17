@@ -1,0 +1,18 @@
+{
+  "testName": "grid_50pct",
+  "algorithm": "backtracking_optimized",
+  "vertexCount": 17,
+  "edgeCount": 83,
+  "iterations": 5,
+  "avgCoverSize": 13.0,
+  "minCoverSize": 13.0,
+  "maxCoverSize": 13.0,
+  "avgTimeMs": 0.2413004,
+  "minTimeMs": 0.128465,
+  "maxTimeMs": 0.314915,
+  "stdDevTimeMs": 0.0641722846549817,
+  "avgPrepTimeMs": 0.1775864,
+  "avgMemoryBytes": 14174.0,
+  "allValid": true,
+  "timestamp": "2026-01-17T15:29:26.005562789Z"
+}

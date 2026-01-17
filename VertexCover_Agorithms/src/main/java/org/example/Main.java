@@ -29,9 +29,9 @@ public class Main {
             System.out.println("VERTEX COVER ALGORITHMS - JMH BENCHMARK RUNNER");
             System.out.println("=".repeat(60));
             System.out.println("\nChoose an algorithm to benchmark:");
-            System.out.println("  1. Backtracking (Optimal)");
-            System.out.println("  2. DFS Tree 2-Approximation");
-            System.out.println("  3. Hvala Ensemble Heuristic");
+            System.out.println("  1. Backtracking");
+            System.out.println("  2. DFS");
+            System.out.println("  3. Hvala");
             System.out.println("  4. Run All Algorithms\n");
             System.out.print("Enter your choice (1-4): ");
 
@@ -99,18 +99,14 @@ public class Main {
 
             List<AveragedResult> allAveragedResults = new ArrayList<>();
 
-            // We run JMH for each test file individually to maintain our specific output
-            // structure
-            // and to avoid mixing results in a single JMH run report.
             for (File testFile : testFiles) {
                 String testName = testFile.getName().replace(".txt", "");
                 System.out.println("  Benchmarking: " + testFile.getName());
 
-                // Clear prep timings for the algorithm being benchmarked
+                // Se reseteaza preptime-urile pentru algoritmul curent
                 switch (method) {
                     case "hvala" -> VertexCoverHvala.lastRunPrepTimings.clear();
                     case "dfs" -> VertexCoverDFS.lastRunPrepTimings.clear();
-                    case "approx2" -> VertexCover2Approx.lastRunPrepTimings.clear();
                     case "backtracking" -> VertexCoverBacktracking.lastRunPrepTimings.clear();
                 }
 
@@ -118,7 +114,7 @@ public class Main {
                         .include(VertexCoverBenchmark.class.getSimpleName() + "." + method)
                         .param("testFileName", testFile.getAbsolutePath())
                         .mode(org.openjdk.jmh.annotations.Mode.SingleShotTime)
-                        .forks(0) // Disable forking to avoid ClassNotFoundException in exec:java
+                        .forks(0) // Nu merge cu fork
                         .warmupIterations(3)
                         .measurementIterations(iterations)
                         .shouldDoGC(true)
@@ -143,22 +139,16 @@ public class Main {
 
     private static AveragedResult processAndSaveResults(RunResult result, String algorithmName, String testName,
             String graphPath, int expectedIterations) {
-        // Extract raw iteration times from JMH results
         List<Double> times = new ArrayList<>();
         for (var benchmarkResult : result.getBenchmarkResults()) {
             for (var iterationResult : benchmarkResult.getIterationResults()) {
-                // Convert to milliseconds (JMH returns values in the OutputTimeUnit, which is
-                // MILLISECONDS)
                 times.add(iterationResult.getPrimaryResult().getScore());
             }
         }
 
-        // Extract memory allocation (bytes/op)
-        // GCProfiler returns "gc.alloc.rate.norm" as a secondary result
         long memoryBytes = 0;
         var secondaryResults = result.getSecondaryResults();
         if (secondaryResults.containsKey("gc.alloc.rate.norm")) {
-            // The score is usually the average allocation rate
             memoryBytes = (long) secondaryResults.get("gc.alloc.rate.norm").getScore();
         }
 
@@ -171,9 +161,6 @@ public class Main {
             return null;
         }
 
-        // We need to run the algorithm once to get the cover size and validity for the
-        // report
-        // JMH doesn't return the return value of the method.
         Set<Integer> cover = runAlgorithmOnce(algorithmName, graph);
         boolean valid = isValidCover(graph, cover);
         int coverSize = cover.size();
@@ -185,7 +172,6 @@ public class Main {
             List<Long> prepTimings = switch (algorithmName) {
                 case "hvala" -> VertexCoverHvala.lastRunPrepTimings;
                 case "dfs" -> VertexCoverDFS.lastRunPrepTimings;
-                case "approx2" -> VertexCover2Approx.lastRunPrepTimings;
                 case "backtracking" -> VertexCoverBacktracking.lastRunPrepTimings;
                 default -> null;
             };
@@ -225,9 +211,9 @@ public class Main {
 
     private static String mapMethodToDisplay(String method) {
         return switch (method) {
-            case "backtracking" -> "Backtracking (Optimal)";
-            case "dfs" -> "DFS Tree 2-Approximation";
-            case "hvala" -> "Hvala Ensemble Heuristic";
+            case "backtracking" -> "Backtracking";
+            case "dfs" -> "DFS";
+            case "hvala" -> "Hvala Minimal";
             default -> method;
         };
     }

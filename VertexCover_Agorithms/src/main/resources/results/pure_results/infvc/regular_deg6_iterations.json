@@ -1,0 +1,31 @@
+[
+  {
+    "testName": "regular_deg6",
+    "algorithm": "infvc",
+    "iteration": 1,
+    "vertexCount": 21,
+    "edgeCount": 60,
+    "coverSize": 14,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      18,
+      19
+    ],
+    "timeMs": 2.672195,
+    "prepTimeMs": 0.018585,
+    "memoryBytes": 30304,
+    "valid": true,
+    "timestamp": "2026-01-16T23:23:40.084526632Z"
+  }
+]

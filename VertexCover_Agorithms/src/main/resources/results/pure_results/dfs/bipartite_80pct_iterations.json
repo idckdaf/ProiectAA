@@ -5,7 +5,7 @@
     "iteration": 1,
     "vertexCount": 20,
     "edgeCount": 72,
-    "coverSize": 17,
+    "coverSize": 9,
     "coverVertices": [
       1,
       2,
@@ -15,21 +15,13 @@
       6,
       7,
       8,
-      9,
-      10,
-      11,
-      12,
-      13,
-      16,
-      17,
-      18,
-      19
+      9
     ],
-    "timeMs": 0.041509,
-    "prepTimeMs": 0.001967,
-    "memoryBytes": 9506,
+    "timeMs": 0.127208,
+    "prepTimeMs": 0.016287,
+    "memoryBytes": 10366,
     "valid": true,
-    "timestamp": "2026-01-16T20:12:53.996130331Z"
+    "timestamp": "2026-01-17T09:51:53.287344148Z"
   },
   {
     "testName": "bipartite_80pct",
@@ -37,7 +29,7 @@
     "iteration": 2,
     "vertexCount": 20,
     "edgeCount": 72,
-    "coverSize": 17,
+    "coverSize": 9,
     "coverVertices": [
       1,
       2,
@@ -47,21 +39,13 @@
       6,
       7,
       8,
-      9,
-      10,
-      11,
-      12,
-      13,
-      16,
-      17,
-      18,
-      19
+      9
     ],
-    "timeMs": 0.0487,
-    "prepTimeMs": 0.00116,
-    "memoryBytes": 9506,
+    "timeMs": 0.080108,
+    "prepTimeMs": 0.017235,
+    "memoryBytes": 10366,
     "valid": true,
-    "timestamp": "2026-01-16T20:12:53.996165152Z"
+    "timestamp": "2026-01-17T09:51:53.287397779Z"
   },
   {
     "testName": "bipartite_80pct",
@@ -69,7 +53,7 @@
     "iteration": 3,
     "vertexCount": 20,
     "edgeCount": 72,
-    "coverSize": 17,
+    "coverSize": 9,
     "coverVertices": [
       1,
       2,
@@ -79,20 +63,60 @@
       6,
       7,
       8,
-      9,
-      10,
-      11,
-      12,
-      13,
-      16,
-      17,
-      18,
-      19
+      9
     ],
-    "timeMs": 0.038132,
-    "prepTimeMs": 3.55E-4,
-    "memoryBytes": 9506,
+    "timeMs": 0.084711,
+    "prepTimeMs": 0.029014,
+    "memoryBytes": 10366,
     "valid": true,
-    "timestamp": "2026-01-16T20:12:53.996177969Z"
+    "timestamp": "2026-01-17T09:51:53.287418699Z"
+  },
+  {
+    "testName": "bipartite_80pct",
+    "algorithm": "dfs",
+    "iteration": 4,
+    "vertexCount": 20,
+    "edgeCount": 72,
+    "coverSize": 9,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "timeMs": 0.124862,
+    "prepTimeMs": 0.031243,
+    "memoryBytes": 10366,
+    "valid": true,
+    "timestamp": "2026-01-17T09:51:53.287433750Z"
+  },
+  {
+    "testName": "bipartite_80pct",
+    "algorithm": "dfs",
+    "iteration": 5,
+    "vertexCount": 20,
+    "edgeCount": 72,
+    "coverSize": 9,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "timeMs": 0.205281,
+    "prepTimeMs": 0.01188,
+    "memoryBytes": 10366,
+    "valid": true,
+    "timestamp": "2026-01-17T09:51:53.287451189Z"
   }
 ]

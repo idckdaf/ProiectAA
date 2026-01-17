@@ -1,0 +1,18 @@
+{
+  "testName": "dense_95pct",
+  "algorithm": "infvc",
+  "vertexCount": 17,
+  "edgeCount": 114,
+  "iterations": 5,
+  "avgCoverSize": 1.0,
+  "minCoverSize": 1.0,
+  "maxCoverSize": 1.0,
+  "avgTimeMs": 26.3720256,
+  "minTimeMs": 24.461268,
+  "maxTimeMs": 27.207465,
+  "stdDevTimeMs": 1.0353240242049055,
+  "avgPrepTimeMs": 0.08231079999999999,
+  "avgMemoryBytes": 3.7995244E7,
+  "allValid": false,
+  "timestamp": "2026-01-17T10:03:39.078955743Z"
+}

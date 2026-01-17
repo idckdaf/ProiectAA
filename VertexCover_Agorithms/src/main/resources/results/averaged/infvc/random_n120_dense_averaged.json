@@ -1,0 +1,18 @@
+{
+  "testName": "random_n120_dense",
+  "algorithm": "infvc",
+  "vertexCount": 120,
+  "edgeCount": 3600,
+  "iterations": 1,
+  "avgCoverSize": 4.0,
+  "minCoverSize": 4.0,
+  "maxCoverSize": 4.0,
+  "avgTimeMs": 304.948393,
+  "minTimeMs": 304.948393,
+  "maxTimeMs": 304.948393,
+  "stdDevTimeMs": 0.0,
+  "avgPrepTimeMs": 0.12049,
+  "avgMemoryBytes": 6.22862104E8,
+  "allValid": false,
+  "timestamp": "2026-01-16T23:32:29.307323615Z"
+}

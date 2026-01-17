@@ -1,0 +1,32 @@
+[
+  {
+    "testName": "star_80pct",
+    "algorithm": "esa",
+    "iteration": 1,
+    "vertexCount": 18,
+    "edgeCount": 112,
+    "coverSize": 15,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      13,
+      14,
+      16,
+      17
+    ],
+    "timeMs": 0.081193,
+    "prepTimeMs": 0.014084,
+    "memoryBytes": 10320,
+    "valid": true,
+    "timestamp": "2026-01-16T22:23:15.599852798Z"
+  }
+]

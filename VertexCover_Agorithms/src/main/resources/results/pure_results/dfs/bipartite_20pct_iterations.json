@@ -5,23 +5,20 @@
     "iteration": 1,
     "vertexCount": 17,
     "edgeCount": 12,
-    "coverSize": 9,
+    "coverSize": 6,
     "coverVertices": [
-      1,
       2,
-      3,
-      6,
-      8,
       11,
       12,
       13,
+      15,
       16
     ],
-    "timeMs": 0.03637,
-    "prepTimeMs": 0.00141,
-    "memoryBytes": 9074,
+    "timeMs": 0.234544,
+    "prepTimeMs": 0.025646,
+    "memoryBytes": 9342,
     "valid": true,
-    "timestamp": "2026-01-16T20:12:46.431422712Z"
+    "timestamp": "2026-01-17T09:51:43.247014478Z"
   },
   {
     "testName": "bipartite_20pct",
@@ -29,23 +26,20 @@
     "iteration": 2,
     "vertexCount": 17,
     "edgeCount": 12,
-    "coverSize": 9,
+    "coverSize": 6,
     "coverVertices": [
-      1,
       2,
-      3,
-      6,
-      8,
       11,
       12,
       13,
+      15,
       16
     ],
-    "timeMs": 0.027914,
-    "prepTimeMs": 0.001272,
-    "memoryBytes": 9074,
+    "timeMs": 0.076065,
+    "prepTimeMs": 0.032926,
+    "memoryBytes": 9342,
     "valid": true,
-    "timestamp": "2026-01-16T20:12:46.431698466Z"
+    "timestamp": "2026-01-17T09:51:43.247064013Z"
   },
   {
     "testName": "bipartite_20pct",
@@ -53,22 +47,61 @@
     "iteration": 3,
     "vertexCount": 17,
     "edgeCount": 12,
-    "coverSize": 9,
+    "coverSize": 6,
     "coverVertices": [
-      1,
       2,
-      3,
-      6,
-      8,
       11,
       12,
       13,
+      15,
       16
     ],
-    "timeMs": 0.028745,
-    "prepTimeMs": 3.47E-4,
-    "memoryBytes": 9074,
+    "timeMs": 0.124069,
+    "prepTimeMs": 0.086607,
+    "memoryBytes": 9342,
     "valid": true,
-    "timestamp": "2026-01-16T20:12:46.431726733Z"
+    "timestamp": "2026-01-17T09:51:43.247087180Z"
+  },
+  {
+    "testName": "bipartite_20pct",
+    "algorithm": "dfs",
+    "iteration": 4,
+    "vertexCount": 17,
+    "edgeCount": 12,
+    "coverSize": 6,
+    "coverVertices": [
+      2,
+      11,
+      12,
+      13,
+      15,
+      16
+    ],
+    "timeMs": 0.177473,
+    "prepTimeMs": 0.047757,
+    "memoryBytes": 9342,
+    "valid": true,
+    "timestamp": "2026-01-17T09:51:43.247107288Z"
+  },
+  {
+    "testName": "bipartite_20pct",
+    "algorithm": "dfs",
+    "iteration": 5,
+    "vertexCount": 17,
+    "edgeCount": 12,
+    "coverSize": 6,
+    "coverVertices": [
+      2,
+      11,
+      12,
+      13,
+      15,
+      16
+    ],
+    "timeMs": 0.250175,
+    "prepTimeMs": 0.015847,
+    "memoryBytes": 9342,
+    "valid": true,
+    "timestamp": "2026-01-17T09:51:43.247127031Z"
   }
 ]

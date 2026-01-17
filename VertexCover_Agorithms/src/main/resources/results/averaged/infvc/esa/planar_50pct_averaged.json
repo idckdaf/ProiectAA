@@ -1,0 +1,18 @@
+{
+  "testName": "planar_50pct",
+  "algorithm": "infvc",
+  "vertexCount": 21,
+  "edgeCount": 27,
+  "iterations": 1,
+  "avgCoverSize": 10.0,
+  "minCoverSize": 10.0,
+  "maxCoverSize": 10.0,
+  "avgTimeMs": 0.870447,
+  "minTimeMs": 0.870447,
+  "maxTimeMs": 0.870447,
+  "stdDevTimeMs": 0.0,
+  "avgPrepTimeMs": 0.042736,
+  "avgMemoryBytes": 11128.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T22:31:27.010190390Z"
+}

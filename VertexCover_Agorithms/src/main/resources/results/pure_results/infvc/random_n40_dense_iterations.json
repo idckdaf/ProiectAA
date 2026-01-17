@@ -1,0 +1,20 @@
+[
+  {
+    "testName": "random_n40_dense",
+    "algorithm": "infvc",
+    "iteration": 1,
+    "vertexCount": 40,
+    "edgeCount": 400,
+    "coverSize": 3,
+    "coverVertices": [
+      11,
+      26,
+      36
+    ],
+    "timeMs": 45.867931,
+    "prepTimeMs": 0.019321,
+    "memoryBytes": 98278264,
+    "valid": false,
+    "timestamp": "2026-01-16T23:32:57.369013618Z"
+  }
+]

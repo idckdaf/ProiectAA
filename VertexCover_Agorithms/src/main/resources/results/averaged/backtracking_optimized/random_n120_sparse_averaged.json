@@ -1,0 +1,18 @@
+{
+  "testName": "random_n120_sparse",
+  "algorithm": "backtracking_optimized",
+  "vertexCount": 120,
+  "edgeCount": 828,
+  "iterations": 2,
+  "avgCoverSize": 47.0,
+  "minCoverSize": 47.0,
+  "maxCoverSize": 47.0,
+  "avgTimeMs": 9.346705499999999,
+  "minTimeMs": 8.638358,
+  "maxTimeMs": 10.055053,
+  "stdDevTimeMs": 0.7083474999999995,
+  "avgPrepTimeMs": 0.3143935,
+  "avgMemoryBytes": 183168.0,
+  "allValid": false,
+  "timestamp": "2026-01-16T22:56:02.619309800Z"
+}

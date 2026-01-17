@@ -23,11 +23,11 @@
       17,
       19
     ],
-    "timeMs": 0.047181,
-    "prepTimeMs": 0.029976,
-    "memoryBytes": 10144,
+    "timeMs": 0.099181,
+    "prepTimeMs": 0.031688,
+    "memoryBytes": 10086,
     "valid": true,
-    "timestamp": "2026-01-16T20:16:42.227582202Z"
+    "timestamp": "2026-01-17T09:58:58.843339918Z"
   },
   {
     "testName": "random_60pct",
@@ -53,11 +53,11 @@
       17,
       19
     ],
-    "timeMs": 0.086847,
-    "prepTimeMs": 0.034705,
-    "memoryBytes": 10144,
+    "timeMs": 0.10767,
+    "prepTimeMs": 0.051264,
+    "memoryBytes": 10086,
     "valid": true,
-    "timestamp": "2026-01-16T20:16:42.227713750Z"
+    "timestamp": "2026-01-17T09:58:58.843398590Z"
   },
   {
     "testName": "random_60pct",
@@ -83,10 +83,70 @@
       17,
       19
     ],
-    "timeMs": 0.099673,
-    "prepTimeMs": 0.035035,
-    "memoryBytes": 10144,
+    "timeMs": 0.155222,
+    "prepTimeMs": 0.04401,
+    "memoryBytes": 10086,
     "valid": true,
-    "timestamp": "2026-01-16T20:16:42.227765802Z"
+    "timestamp": "2026-01-17T09:58:58.843404091Z"
+  },
+  {
+    "testName": "random_60pct",
+    "algorithm": "hvala",
+    "iteration": 4,
+    "vertexCount": 20,
+    "edgeCount": 102,
+    "coverSize": 15,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      8,
+      9,
+      10,
+      11,
+      13,
+      14,
+      15,
+      17,
+      19
+    ],
+    "timeMs": 0.146695,
+    "prepTimeMs": 0.051878,
+    "memoryBytes": 10086,
+    "valid": true,
+    "timestamp": "2026-01-17T09:58:58.843406848Z"
+  },
+  {
+    "testName": "random_60pct",
+    "algorithm": "hvala",
+    "iteration": 5,
+    "vertexCount": 20,
+    "edgeCount": 102,
+    "coverSize": 15,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      8,
+      9,
+      10,
+      11,
+      13,
+      14,
+      15,
+      17,
+      19
+    ],
+    "timeMs": 0.154364,
+    "prepTimeMs": 0.02864,
+    "memoryBytes": 10086,
+    "valid": true,
+    "timestamp": "2026-01-17T09:58:58.843409444Z"
   }
 ]

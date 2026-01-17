@@ -24,11 +24,11 @@
       18,
       19
     ],
-    "timeMs": 0.135292,
-    "prepTimeMs": 0.061551,
-    "memoryBytes": 10018,
+    "timeMs": 0.065318,
+    "prepTimeMs": 0.057801,
+    "memoryBytes": 9944,
     "valid": true,
-    "timestamp": "2026-01-16T20:15:32.243477854Z"
+    "timestamp": "2026-01-17T09:57:27.605867405Z"
   },
   {
     "testName": "clique_20pct",
@@ -55,11 +55,11 @@
       18,
       19
     ],
-    "timeMs": 0.19249,
-    "prepTimeMs": 0.069018,
-    "memoryBytes": 10018,
+    "timeMs": 0.1918,
+    "prepTimeMs": 0.093447,
+    "memoryBytes": 9944,
     "valid": true,
-    "timestamp": "2026-01-16T20:15:32.243516847Z"
+    "timestamp": "2026-01-17T09:57:27.605911770Z"
   },
   {
     "testName": "clique_20pct",
@@ -86,10 +86,72 @@
       18,
       19
     ],
-    "timeMs": 0.143843,
-    "prepTimeMs": 0.021311,
-    "memoryBytes": 10018,
+    "timeMs": 0.277154,
+    "prepTimeMs": 0.024608,
+    "memoryBytes": 9944,
     "valid": true,
-    "timestamp": "2026-01-16T20:15:32.243530150Z"
+    "timestamp": "2026-01-17T09:57:27.605915213Z"
+  },
+  {
+    "testName": "clique_20pct",
+    "algorithm": "hvala",
+    "iteration": 4,
+    "vertexCount": 21,
+    "edgeCount": 70,
+    "coverSize": 16,
+    "coverVertices": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      14,
+      16,
+      17,
+      18,
+      19
+    ],
+    "timeMs": 0.073779,
+    "prepTimeMs": 0.026692,
+    "memoryBytes": 9944,
+    "valid": true,
+    "timestamp": "2026-01-17T09:57:27.605917102Z"
+  },
+  {
+    "testName": "clique_20pct",
+    "algorithm": "hvala",
+    "iteration": 5,
+    "vertexCount": 21,
+    "edgeCount": 70,
+    "coverSize": 16,
+    "coverVertices": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      14,
+      16,
+      17,
+      18,
+      19
+    ],
+    "timeMs": 0.079741,
+    "prepTimeMs": 0.016929,
+    "memoryBytes": 9944,
+    "valid": true,
+    "timestamp": "2026-01-17T09:57:27.605918418Z"
   }
 ]

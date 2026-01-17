@@ -1,0 +1,18 @@
+{
+  "testName": "bipartite_50pct",
+  "algorithm": "backtracking_optimized",
+  "vertexCount": 19,
+  "edgeCount": 40,
+  "iterations": 5,
+  "avgCoverSize": 9.0,
+  "minCoverSize": 9.0,
+  "maxCoverSize": 9.0,
+  "avgTimeMs": 0.541252,
+  "minTimeMs": 0.170288,
+  "maxTimeMs": 0.955011,
+  "stdDevTimeMs": 0.3019115566638681,
+  "avgPrepTimeMs": 0.3744816,
+  "avgMemoryBytes": 13123.0,
+  "allValid": true,
+  "timestamp": "2026-01-17T15:28:25.360617127Z"
+}

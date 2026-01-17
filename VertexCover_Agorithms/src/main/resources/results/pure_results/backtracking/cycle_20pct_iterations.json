@@ -8,10 +8,10 @@
     "coverSize": 11,
     "coverVertices": [
       1,
-      3,
+      2,
+      4,
       5,
-      6,
-      8,
+      7,
       9,
       10,
       11,
@@ -19,11 +19,11 @@
       15,
       17
     ],
-    "timeMs": 0.141997,
-    "prepTimeMs": 0.20565,
-    "memoryBytes": 13266,
+    "timeMs": 7.703468,
+    "prepTimeMs": 0.064294,
+    "memoryBytes": 22795416,
     "valid": true,
-    "timestamp": "2026-01-16T20:32:00.787055859Z"
+    "timestamp": "2026-01-17T15:36:39.915713570Z"
   },
   {
     "testName": "cycle_20pct",
@@ -34,10 +34,10 @@
     "coverSize": 11,
     "coverVertices": [
       1,
-      3,
+      2,
+      4,
       5,
-      6,
-      8,
+      7,
       9,
       10,
       11,
@@ -45,36 +45,10 @@
       15,
       17
     ],
-    "timeMs": 0.28698,
-    "prepTimeMs": 0.123716,
-    "memoryBytes": 13266,
+    "timeMs": 12.478277,
+    "prepTimeMs": 0.014545,
+    "memoryBytes": 22795416,
     "valid": true,
-    "timestamp": "2026-01-16T20:32:00.787126834Z"
-  },
-  {
-    "testName": "cycle_20pct",
-    "algorithm": "backtracking",
-    "iteration": 3,
-    "vertexCount": 19,
-    "edgeCount": 45,
-    "coverSize": 11,
-    "coverVertices": [
-      1,
-      3,
-      5,
-      6,
-      8,
-      9,
-      10,
-      11,
-      13,
-      15,
-      17
-    ],
-    "timeMs": 0.168001,
-    "prepTimeMs": 0.051876,
-    "memoryBytes": 13266,
-    "valid": true,
-    "timestamp": "2026-01-16T20:32:00.787157062Z"
+    "timestamp": "2026-01-17T15:36:39.915780952Z"
   }
 ]

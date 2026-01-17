@@ -5,7 +5,7 @@
     "iteration": 1,
     "vertexCount": 18,
     "edgeCount": 112,
-    "coverSize": 16,
+    "coverSize": 15,
     "coverVertices": [
       1,
       2,
@@ -15,7 +15,6 @@
       6,
       7,
       8,
-      9,
       10,
       11,
       12,
@@ -24,11 +23,11 @@
       16,
       17
     ],
-    "timeMs": 0.06517,
-    "prepTimeMs": 5.44E-4,
-    "memoryBytes": 9304,
+    "timeMs": 0.105105,
+    "prepTimeMs": 0.007692,
+    "memoryBytes": 10315,
     "valid": true,
-    "timestamp": "2026-01-16T20:14:54.394573447Z"
+    "timestamp": "2026-01-17T09:56:52.018251023Z"
   },
   {
     "testName": "star_80pct",
@@ -36,7 +35,7 @@
     "iteration": 2,
     "vertexCount": 18,
     "edgeCount": 112,
-    "coverSize": 16,
+    "coverSize": 15,
     "coverVertices": [
       1,
       2,
@@ -46,7 +45,6 @@
       6,
       7,
       8,
-      9,
       10,
       11,
       12,
@@ -55,11 +53,11 @@
       16,
       17
     ],
-    "timeMs": 0.058277,
-    "prepTimeMs": 1.53E-4,
-    "memoryBytes": 9304,
+    "timeMs": 0.108538,
+    "prepTimeMs": 0.020064,
+    "memoryBytes": 10315,
     "valid": true,
-    "timestamp": "2026-01-16T20:14:54.394616143Z"
+    "timestamp": "2026-01-17T09:56:52.018277377Z"
   },
   {
     "testName": "star_80pct",
@@ -67,7 +65,7 @@
     "iteration": 3,
     "vertexCount": 18,
     "edgeCount": 112,
-    "coverSize": 16,
+    "coverSize": 15,
     "coverVertices": [
       1,
       2,
@@ -77,7 +75,6 @@
       6,
       7,
       8,
-      9,
       10,
       11,
       12,
@@ -86,10 +83,70 @@
       16,
       17
     ],
-    "timeMs": 0.021567,
-    "prepTimeMs": 1.23E-4,
-    "memoryBytes": 9304,
+    "timeMs": 0.113969,
+    "prepTimeMs": 0.01453,
+    "memoryBytes": 10315,
     "valid": true,
-    "timestamp": "2026-01-16T20:14:54.394626893Z"
+    "timestamp": "2026-01-17T09:56:52.018279111Z"
+  },
+  {
+    "testName": "star_80pct",
+    "algorithm": "dfs",
+    "iteration": 4,
+    "vertexCount": 18,
+    "edgeCount": 112,
+    "coverSize": 15,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      14,
+      16,
+      17
+    ],
+    "timeMs": 0.080274,
+    "prepTimeMs": 0.006996,
+    "memoryBytes": 10315,
+    "valid": true,
+    "timestamp": "2026-01-17T09:56:52.018280037Z"
+  },
+  {
+    "testName": "star_80pct",
+    "algorithm": "dfs",
+    "iteration": 5,
+    "vertexCount": 18,
+    "edgeCount": 112,
+    "coverSize": 15,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      14,
+      16,
+      17
+    ],
+    "timeMs": 0.02675,
+    "prepTimeMs": 0.00395,
+    "memoryBytes": 10315,
+    "valid": true,
+    "timestamp": "2026-01-17T09:56:52.018280900Z"
   }
 ]

@@ -1,0 +1,18 @@
+{
+  "testName": "random_n40_medium",
+  "algorithm": "dfs",
+  "vertexCount": 40,
+  "edgeCount": 306,
+  "iterations": 5,
+  "avgCoverSize": 34.0,
+  "minCoverSize": 34.0,
+  "maxCoverSize": 34.0,
+  "avgTimeMs": 0.0796318,
+  "minTimeMs": 0.049758,
+  "maxTimeMs": 0.104988,
+  "stdDevTimeMs": 0.019167813212779387,
+  "avgPrepTimeMs": 0.0251376,
+  "avgMemoryBytes": 15222.0,
+  "allValid": true,
+  "timestamp": "2026-01-17T09:54:50.218130547Z"
+}

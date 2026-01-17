@@ -1,0 +1,18 @@
+{
+  "testName": "scale_free_20pct",
+  "algorithm": "backtracking_optimized",
+  "vertexCount": 21,
+  "edgeCount": 37,
+  "iterations": 2,
+  "avgCoverSize": 10.0,
+  "minCoverSize": 10.0,
+  "maxCoverSize": 10.0,
+  "avgTimeMs": 0.131635,
+  "minTimeMs": 0.115339,
+  "maxTimeMs": 0.147931,
+  "stdDevTimeMs": 0.016296000000000005,
+  "avgPrepTimeMs": 0.053971,
+  "avgMemoryBytes": 13136.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T22:12:06.465681872Z"
+}

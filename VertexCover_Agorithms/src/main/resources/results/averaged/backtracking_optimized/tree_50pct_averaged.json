@@ -1,0 +1,18 @@
+{
+  "testName": "tree_50pct",
+  "algorithm": "backtracking_optimized",
+  "vertexCount": 21,
+  "edgeCount": 19,
+  "iterations": 2,
+  "avgCoverSize": 8.0,
+  "minCoverSize": 8.0,
+  "maxCoverSize": 8.0,
+  "avgTimeMs": 0.10476649999999998,
+  "minTimeMs": 0.077466,
+  "maxTimeMs": 0.132067,
+  "stdDevTimeMs": 0.0273005,
+  "avgPrepTimeMs": 0.0727925,
+  "avgMemoryBytes": 13856.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T22:12:34.630088845Z"
+}

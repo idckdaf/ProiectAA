@@ -1,0 +1,18 @@
+{
+  "testName": "random_n80_sparse",
+  "algorithm": "hvala",
+  "vertexCount": 80,
+  "edgeCount": 505,
+  "iterations": 5,
+  "avgCoverSize": 61.0,
+  "minCoverSize": 61.0,
+  "maxCoverSize": 61.0,
+  "avgTimeMs": 0.1312886,
+  "minTimeMs": 0.092092,
+  "maxTimeMs": 0.201593,
+  "stdDevTimeMs": 0.03833230256376468,
+  "avgPrepTimeMs": 0.048732399999999995,
+  "avgMemoryBytes": 19670.0,
+  "allValid": true,
+  "timestamp": "2026-01-17T10:01:25.831848500Z"
+}

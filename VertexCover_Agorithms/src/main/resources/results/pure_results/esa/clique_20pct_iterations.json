@@ -1,0 +1,33 @@
+[
+  {
+    "testName": "clique_20pct",
+    "algorithm": "esa",
+    "iteration": 1,
+    "vertexCount": 21,
+    "edgeCount": 70,
+    "coverSize": 16,
+    "coverVertices": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      20
+    ],
+    "timeMs": 0.824254,
+    "prepTimeMs": 0.045997,
+    "memoryBytes": 12464,
+    "valid": true,
+    "timestamp": "2026-01-16T22:30:53.180776522Z"
+  }
+]

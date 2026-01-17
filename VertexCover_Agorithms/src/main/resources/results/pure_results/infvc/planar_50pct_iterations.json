@@ -1,0 +1,117 @@
+[
+  {
+    "testName": "planar_50pct",
+    "algorithm": "infvc",
+    "iteration": 1,
+    "vertexCount": 21,
+    "edgeCount": 27,
+    "coverSize": 8,
+    "coverVertices": [
+      2,
+      4,
+      6,
+      8,
+      11,
+      14,
+      17,
+      19
+    ],
+    "timeMs": 8.832322,
+    "prepTimeMs": 0.132278,
+    "memoryBytes": 12575753,
+    "valid": false,
+    "timestamp": "2026-01-17T12:47:43.184091570Z"
+  },
+  {
+    "testName": "planar_50pct",
+    "algorithm": "infvc",
+    "iteration": 2,
+    "vertexCount": 21,
+    "edgeCount": 27,
+    "coverSize": 8,
+    "coverVertices": [
+      2,
+      4,
+      6,
+      8,
+      11,
+      14,
+      17,
+      19
+    ],
+    "timeMs": 9.327785,
+    "prepTimeMs": 0.131285,
+    "memoryBytes": 12575753,
+    "valid": false,
+    "timestamp": "2026-01-17T12:47:43.184118856Z"
+  },
+  {
+    "testName": "planar_50pct",
+    "algorithm": "infvc",
+    "iteration": 3,
+    "vertexCount": 21,
+    "edgeCount": 27,
+    "coverSize": 8,
+    "coverVertices": [
+      2,
+      4,
+      6,
+      8,
+      11,
+      14,
+      17,
+      19
+    ],
+    "timeMs": 8.602998,
+    "prepTimeMs": 0.080123,
+    "memoryBytes": 12575753,
+    "valid": false,
+    "timestamp": "2026-01-17T12:47:43.184121375Z"
+  },
+  {
+    "testName": "planar_50pct",
+    "algorithm": "infvc",
+    "iteration": 4,
+    "vertexCount": 21,
+    "edgeCount": 27,
+    "coverSize": 8,
+    "coverVertices": [
+      2,
+      4,
+      6,
+      8,
+      11,
+      14,
+      17,
+      19
+    ],
+    "timeMs": 13.724652,
+    "prepTimeMs": 0.066566,
+    "memoryBytes": 12575753,
+    "valid": false,
+    "timestamp": "2026-01-17T12:47:43.184123301Z"
+  },
+  {
+    "testName": "planar_50pct",
+    "algorithm": "infvc",
+    "iteration": 5,
+    "vertexCount": 21,
+    "edgeCount": 27,
+    "coverSize": 8,
+    "coverVertices": [
+      2,
+      4,
+      6,
+      8,
+      11,
+      14,
+      17,
+      19
+    ],
+    "timeMs": 8.859831,
+    "prepTimeMs": 0.015946,
+    "memoryBytes": 12575753,
+    "valid": false,
+    "timestamp": "2026-01-17T12:47:43.184124228Z"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "testName": "sparse_15pct",
+    "algorithm": "esa",
+    "iteration": 1,
+    "vertexCount": 20,
+    "edgeCount": 25,
+    "coverSize": 9,
+    "coverVertices": [
+      0,
+      2,
+      6,
+      12,
+      13,
+      14,
+      15,
+      16,
+      18
+    ],
+    "timeMs": 0.095165,
+    "prepTimeMs": 0.014673,
+    "memoryBytes": 9424,
+    "valid": true,
+    "timestamp": "2026-01-16T22:23:05.528306900Z"
+  }
+]

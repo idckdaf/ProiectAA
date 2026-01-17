@@ -1,0 +1,18 @@
+{
+  "testName": "random_80pct",
+  "algorithm": "backtracking_optimized",
+  "vertexCount": 18,
+  "edgeCount": 108,
+  "iterations": 5,
+  "avgCoverSize": 14.0,
+  "minCoverSize": 14.0,
+  "maxCoverSize": 14.0,
+  "avgTimeMs": 0.2038036,
+  "minTimeMs": 0.092027,
+  "maxTimeMs": 0.249929,
+  "stdDevTimeMs": 0.05856110473548122,
+  "avgPrepTimeMs": 0.11410020000000001,
+  "avgMemoryBytes": 14638.0,
+  "allValid": true,
+  "timestamp": "2026-01-17T15:30:16.509986197Z"
+}

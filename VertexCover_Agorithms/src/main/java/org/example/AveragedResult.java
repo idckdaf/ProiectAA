@@ -2,9 +2,7 @@ package org.example;
 
 import java.util.List;
 
-/**
- * JSON model for storing averaged/aggregated results.
- */
+//Json for outputs
 public record AveragedResult(
         String testName,
         String algorithm,
@@ -22,9 +20,7 @@ public record AveragedResult(
         double avgMemoryBytes,
         boolean allValid,
         String timestamp) {
-    /**
-     * Calculate aggregated statistics from a list of iteration results.
-     */
+
     public static AveragedResult fromIterations(List<IterationResult> results) {
         if (results == null || results.isEmpty())
             return null;

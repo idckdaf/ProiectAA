@@ -1,0 +1,18 @@
+{
+  "testName": "grid_20pct",
+  "algorithm": "infvc",
+  "vertexCount": 19,
+  "edgeCount": 64,
+  "iterations": 5,
+  "avgCoverSize": 3.0,
+  "minCoverSize": 3.0,
+  "maxCoverSize": 3.0,
+  "avgTimeMs": 14.814594600000001,
+  "minTimeMs": 12.314772,
+  "maxTimeMs": 16.499536,
+  "stdDevTimeMs": 1.462125273690678,
+  "avgPrepTimeMs": 0.0563488,
+  "avgMemoryBytes": 2.3316259E7,
+  "allValid": false,
+  "timestamp": "2026-01-17T10:03:44.206897503Z"
+}

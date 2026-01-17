@@ -1,0 +1,18 @@
+{
+  "testName": "tree_80pct",
+  "algorithm": "infvc",
+  "vertexCount": 19,
+  "edgeCount": 17,
+  "iterations": 1,
+  "avgCoverSize": 9.0,
+  "minCoverSize": 9.0,
+  "maxCoverSize": 9.0,
+  "avgTimeMs": 0.113152,
+  "minTimeMs": 0.113152,
+  "maxTimeMs": 0.113152,
+  "stdDevTimeMs": 0.0,
+  "avgPrepTimeMs": 0.013747,
+  "avgMemoryBytes": 9376.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T22:23:23.158601034Z"
+}

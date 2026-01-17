@@ -1,0 +1,28 @@
+[
+  {
+    "testName": "regular_deg2",
+    "algorithm": "esa",
+    "iteration": 1,
+    "vertexCount": 19,
+    "edgeCount": 18,
+    "coverSize": 11,
+    "coverVertices": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      11,
+      12,
+      15,
+      16,
+      17
+    ],
+    "timeMs": 0.089434,
+    "prepTimeMs": 0.0326,
+    "memoryBytes": 9256,
+    "valid": true,
+    "timestamp": "2026-01-16T22:22:50.396390895Z"
+  }
+]

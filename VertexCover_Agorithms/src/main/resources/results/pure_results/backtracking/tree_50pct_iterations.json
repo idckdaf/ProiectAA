@@ -16,11 +16,11 @@
       14,
       16
     ],
-    "timeMs": 0.072326,
-    "prepTimeMs": 0.032476,
-    "memoryBytes": 13042,
+    "timeMs": 0.077466,
+    "prepTimeMs": 0.112761,
+    "memoryBytes": 13856,
     "valid": true,
-    "timestamp": "2026-01-16T20:33:49.338320221Z"
+    "timestamp": "2026-01-16T22:12:34.629352635Z"
   },
   {
     "testName": "tree_50pct",
@@ -39,33 +39,10 @@
       14,
       16
     ],
-    "timeMs": 0.057071,
-    "prepTimeMs": 0.032265,
-    "memoryBytes": 13042,
+    "timeMs": 0.132067,
+    "prepTimeMs": 0.032824,
+    "memoryBytes": 13856,
     "valid": true,
-    "timestamp": "2026-01-16T20:33:49.338372356Z"
-  },
-  {
-    "testName": "tree_50pct",
-    "algorithm": "backtracking",
-    "iteration": 3,
-    "vertexCount": 21,
-    "edgeCount": 19,
-    "coverSize": 8,
-    "coverVertices": [
-      3,
-      4,
-      7,
-      9,
-      10,
-      12,
-      14,
-      16
-    ],
-    "timeMs": 0.053293,
-    "prepTimeMs": 0.016531,
-    "memoryBytes": 13042,
-    "valid": true,
-    "timestamp": "2026-01-16T20:33:49.338387720Z"
+    "timestamp": "2026-01-16T22:12:34.629451170Z"
   }
 ]

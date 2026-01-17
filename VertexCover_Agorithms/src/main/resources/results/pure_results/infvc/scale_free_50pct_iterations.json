@@ -1,0 +1,26 @@
+[
+  {
+    "testName": "scale_free_50pct",
+    "algorithm": "infvc",
+    "iteration": 1,
+    "vertexCount": 17,
+    "edgeCount": 29,
+    "coverSize": 9,
+    "coverVertices": [
+      1,
+      8,
+      9,
+      10,
+      11,
+      13,
+      14,
+      15,
+      16
+    ],
+    "timeMs": 1.03698,
+    "prepTimeMs": 0.145698,
+    "memoryBytes": 20312,
+    "valid": false,
+    "timestamp": "2026-01-16T23:23:45.109878036Z"
+  }
+]

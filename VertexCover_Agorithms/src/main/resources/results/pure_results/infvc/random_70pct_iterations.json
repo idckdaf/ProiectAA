@@ -1,0 +1,87 @@
+[
+  {
+    "testName": "random_70pct",
+    "algorithm": "infvc",
+    "iteration": 1,
+    "vertexCount": 18,
+    "edgeCount": 95,
+    "coverSize": 2,
+    "coverVertices": [
+      2,
+      8
+    ],
+    "timeMs": 20.821788,
+    "prepTimeMs": 0.127235,
+    "memoryBytes": 31707902,
+    "valid": false,
+    "timestamp": "2026-01-17T12:48:14.088121414Z"
+  },
+  {
+    "testName": "random_70pct",
+    "algorithm": "infvc",
+    "iteration": 2,
+    "vertexCount": 18,
+    "edgeCount": 95,
+    "coverSize": 2,
+    "coverVertices": [
+      2,
+      8
+    ],
+    "timeMs": 20.967211,
+    "prepTimeMs": 0.122719,
+    "memoryBytes": 31707902,
+    "valid": false,
+    "timestamp": "2026-01-17T12:48:14.088154356Z"
+  },
+  {
+    "testName": "random_70pct",
+    "algorithm": "infvc",
+    "iteration": 3,
+    "vertexCount": 18,
+    "edgeCount": 95,
+    "coverSize": 2,
+    "coverVertices": [
+      2,
+      8
+    ],
+    "timeMs": 23.135486,
+    "prepTimeMs": 0.120992,
+    "memoryBytes": 31707902,
+    "valid": false,
+    "timestamp": "2026-01-17T12:48:14.088156584Z"
+  },
+  {
+    "testName": "random_70pct",
+    "algorithm": "infvc",
+    "iteration": 4,
+    "vertexCount": 18,
+    "edgeCount": 95,
+    "coverSize": 2,
+    "coverVertices": [
+      2,
+      8
+    ],
+    "timeMs": 22.736779,
+    "prepTimeMs": 0.113763,
+    "memoryBytes": 31707902,
+    "valid": false,
+    "timestamp": "2026-01-17T12:48:14.088157823Z"
+  },
+  {
+    "testName": "random_70pct",
+    "algorithm": "infvc",
+    "iteration": 5,
+    "vertexCount": 18,
+    "edgeCount": 95,
+    "coverSize": 2,
+    "coverVertices": [
+      2,
+      8
+    ],
+    "timeMs": 25.284384,
+    "prepTimeMs": 0.01603,
+    "memoryBytes": 31707902,
+    "valid": false,
+    "timestamp": "2026-01-17T12:48:14.088158649Z"
+  }
+]

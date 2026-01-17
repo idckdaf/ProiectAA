@@ -5,7 +5,7 @@
     "iteration": 1,
     "vertexCount": 21,
     "edgeCount": 161,
-    "coverSize": 19,
+    "coverSize": 18,
     "coverVertices": [
       1,
       2,
@@ -13,7 +13,6 @@
       4,
       5,
       6,
-      7,
       8,
       9,
       10,
@@ -27,11 +26,11 @@
       18,
       19
     ],
-    "timeMs": 0.042605,
-    "prepTimeMs": 0.001378,
-    "memoryBytes": 9602,
+    "timeMs": 0.174331,
+    "prepTimeMs": 0.038811,
+    "memoryBytes": 11198,
     "valid": true,
-    "timestamp": "2026-01-16T20:13:24.197042825Z"
+    "timestamp": "2026-01-17T09:52:33.638646439Z"
   },
   {
     "testName": "dense_85pct",
@@ -39,7 +38,7 @@
     "iteration": 2,
     "vertexCount": 21,
     "edgeCount": 161,
-    "coverSize": 19,
+    "coverSize": 18,
     "coverVertices": [
       1,
       2,
@@ -47,7 +46,6 @@
       4,
       5,
       6,
-      7,
       8,
       9,
       10,
@@ -61,11 +59,11 @@
       18,
       19
     ],
-    "timeMs": 0.040521,
-    "prepTimeMs": 0.00147,
-    "memoryBytes": 9602,
+    "timeMs": 0.158883,
+    "prepTimeMs": 0.03809,
+    "memoryBytes": 11198,
     "valid": true,
-    "timestamp": "2026-01-16T20:13:24.197115070Z"
+    "timestamp": "2026-01-17T09:52:33.638685963Z"
   },
   {
     "testName": "dense_85pct",
@@ -73,7 +71,7 @@
     "iteration": 3,
     "vertexCount": 21,
     "edgeCount": 161,
-    "coverSize": 19,
+    "coverSize": 18,
     "coverVertices": [
       1,
       2,
@@ -81,7 +79,6 @@
       4,
       5,
       6,
-      7,
       8,
       9,
       10,
@@ -95,10 +92,76 @@
       18,
       19
     ],
-    "timeMs": 0.041558,
-    "prepTimeMs": 0.001178,
-    "memoryBytes": 9602,
+    "timeMs": 0.141644,
+    "prepTimeMs": 0.018854,
+    "memoryBytes": 11198,
     "valid": true,
-    "timestamp": "2026-01-16T20:13:24.197143825Z"
+    "timestamp": "2026-01-17T09:52:33.638697857Z"
+  },
+  {
+    "testName": "dense_85pct",
+    "algorithm": "dfs",
+    "iteration": 4,
+    "vertexCount": 21,
+    "edgeCount": 161,
+    "coverSize": 18,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "timeMs": 0.051269,
+    "prepTimeMs": 0.019295,
+    "memoryBytes": 11198,
+    "valid": true,
+    "timestamp": "2026-01-17T09:52:33.638715470Z"
+  },
+  {
+    "testName": "dense_85pct",
+    "algorithm": "dfs",
+    "iteration": 5,
+    "vertexCount": 21,
+    "edgeCount": 161,
+    "coverSize": 18,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "timeMs": 0.070369,
+    "prepTimeMs": 0.009325,
+    "memoryBytes": 11198,
+    "valid": true,
+    "timestamp": "2026-01-17T09:52:33.638726252Z"
   }
 ]

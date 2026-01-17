@@ -1,0 +1,18 @@
+{
+  "testName": "dense_85pct",
+  "algorithm": "backtracking_optimized",
+  "vertexCount": 21,
+  "edgeCount": 161,
+  "iterations": 5,
+  "avgCoverSize": 17.0,
+  "minCoverSize": 17.0,
+  "maxCoverSize": 17.0,
+  "avgTimeMs": 0.7008628000000001,
+  "minTimeMs": 0.394851,
+  "maxTimeMs": 0.875376,
+  "stdDevTimeMs": 0.16909666909007995,
+  "avgPrepTimeMs": 0.5978032,
+  "avgMemoryBytes": 16200.0,
+  "allValid": true,
+  "timestamp": "2026-01-17T15:29:10.779662688Z"
+}

@@ -1,0 +1,18 @@
+{
+  "testName": "complete",
+  "algorithm": "infvc",
+  "vertexCount": 20,
+  "edgeCount": 171,
+  "iterations": 5,
+  "avgCoverSize": 1.0,
+  "minCoverSize": 1.0,
+  "maxCoverSize": 1.0,
+  "avgTimeMs": 31.7191914,
+  "minTimeMs": 27.476933,
+  "maxTimeMs": 39.170474,
+  "stdDevTimeMs": 3.985031421165991,
+  "avgPrepTimeMs": 0.11927380000000001,
+  "avgMemoryBytes": 5.0906705E7,
+  "allValid": false,
+  "timestamp": "2026-01-17T10:03:12.941080537Z"
+}

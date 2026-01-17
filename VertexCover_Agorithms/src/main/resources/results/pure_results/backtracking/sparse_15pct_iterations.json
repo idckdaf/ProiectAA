@@ -8,19 +8,19 @@
     "coverSize": 8,
     "coverVertices": [
       2,
+      5,
+      6,
+      11,
       12,
       13,
-      14,
-      15,
       16,
-      17,
       18
     ],
-    "timeMs": 0.06834,
-    "prepTimeMs": 0.040802,
-    "memoryBytes": 12890,
+    "timeMs": 0.103658,
+    "prepTimeMs": 0.039478,
+    "memoryBytes": 13160,
     "valid": true,
-    "timestamp": "2026-01-16T20:33:26.870020323Z"
+    "timestamp": "2026-01-16T22:12:15.856244343Z"
   },
   {
     "testName": "sparse_15pct",
@@ -31,41 +31,18 @@
     "coverSize": 8,
     "coverVertices": [
       2,
+      5,
+      6,
+      11,
       12,
       13,
-      14,
-      15,
       16,
-      17,
       18
     ],
-    "timeMs": 0.071878,
-    "prepTimeMs": 0.095457,
-    "memoryBytes": 12890,
+    "timeMs": 0.06006,
+    "prepTimeMs": 0.012883,
+    "memoryBytes": 13160,
     "valid": true,
-    "timestamp": "2026-01-16T20:33:26.870093875Z"
-  },
-  {
-    "testName": "sparse_15pct",
-    "algorithm": "backtracking",
-    "iteration": 3,
-    "vertexCount": 20,
-    "edgeCount": 25,
-    "coverSize": 8,
-    "coverVertices": [
-      2,
-      12,
-      13,
-      14,
-      15,
-      16,
-      17,
-      18
-    ],
-    "timeMs": 0.154958,
-    "prepTimeMs": 0.031783,
-    "memoryBytes": 12890,
-    "valid": true,
-    "timestamp": "2026-01-16T20:33:26.870124357Z"
+    "timestamp": "2026-01-16T22:12:15.856281775Z"
   }
 ]

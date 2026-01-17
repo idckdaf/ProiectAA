@@ -1,0 +1,107 @@
+[
+  {
+    "testName": "random_n100_medium",
+    "algorithm": "infvc",
+    "iteration": 1,
+    "vertexCount": 100,
+    "edgeCount": 1582,
+    "coverSize": 6,
+    "coverVertices": [
+      33,
+      38,
+      49,
+      58,
+      64,
+      77
+    ],
+    "timeMs": 115.848479,
+    "prepTimeMs": 0.135463,
+    "memoryBytes": 210408680,
+    "valid": false,
+    "timestamp": "2026-01-17T12:48:32.388811444Z"
+  },
+  {
+    "testName": "random_n100_medium",
+    "algorithm": "infvc",
+    "iteration": 2,
+    "vertexCount": 100,
+    "edgeCount": 1582,
+    "coverSize": 6,
+    "coverVertices": [
+      33,
+      38,
+      49,
+      58,
+      64,
+      77
+    ],
+    "timeMs": 103.578876,
+    "prepTimeMs": 0.211477,
+    "memoryBytes": 210408680,
+    "valid": false,
+    "timestamp": "2026-01-17T12:48:32.388847568Z"
+  },
+  {
+    "testName": "random_n100_medium",
+    "algorithm": "infvc",
+    "iteration": 3,
+    "vertexCount": 100,
+    "edgeCount": 1582,
+    "coverSize": 6,
+    "coverVertices": [
+      33,
+      38,
+      49,
+      58,
+      64,
+      77
+    ],
+    "timeMs": 106.018514,
+    "prepTimeMs": 0.107905,
+    "memoryBytes": 210408680,
+    "valid": false,
+    "timestamp": "2026-01-17T12:48:32.388850378Z"
+  },
+  {
+    "testName": "random_n100_medium",
+    "algorithm": "infvc",
+    "iteration": 4,
+    "vertexCount": 100,
+    "edgeCount": 1582,
+    "coverSize": 6,
+    "coverVertices": [
+      33,
+      38,
+      49,
+      58,
+      64,
+      77
+    ],
+    "timeMs": 114.005535,
+    "prepTimeMs": 0.081938,
+    "memoryBytes": 210408680,
+    "valid": false,
+    "timestamp": "2026-01-17T12:48:32.388852099Z"
+  },
+  {
+    "testName": "random_n100_medium",
+    "algorithm": "infvc",
+    "iteration": 5,
+    "vertexCount": 100,
+    "edgeCount": 1582,
+    "coverSize": 6,
+    "coverVertices": [
+      33,
+      38,
+      49,
+      58,
+      64,
+      77
+    ],
+    "timeMs": 115.682683,
+    "prepTimeMs": 0.068974,
+    "memoryBytes": 210408680,
+    "valid": false,
+    "timestamp": "2026-01-17T12:48:32.388853444Z"
+  }
+]

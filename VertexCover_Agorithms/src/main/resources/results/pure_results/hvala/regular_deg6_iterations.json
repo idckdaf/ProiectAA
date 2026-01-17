@@ -22,11 +22,11 @@
       18,
       19
     ],
-    "timeMs": 0.134557,
-    "prepTimeMs": 0.014414,
-    "memoryBytes": 9834,
+    "timeMs": 0.045456,
+    "prepTimeMs": 0.014529,
+    "memoryBytes": 9702,
     "valid": true,
-    "timestamp": "2026-01-16T20:17:01.474058649Z"
+    "timestamp": "2026-01-17T10:01:40.990713117Z"
   },
   {
     "testName": "regular_deg6",
@@ -51,11 +51,11 @@
       18,
       19
     ],
-    "timeMs": 0.043148,
-    "prepTimeMs": 0.045641,
-    "memoryBytes": 9834,
+    "timeMs": 0.050433,
+    "prepTimeMs": 0.014947,
+    "memoryBytes": 9702,
     "valid": true,
-    "timestamp": "2026-01-16T20:17:01.474117789Z"
+    "timestamp": "2026-01-17T10:01:40.990753157Z"
   },
   {
     "testName": "regular_deg6",
@@ -80,10 +80,68 @@
       18,
       19
     ],
-    "timeMs": 0.125276,
-    "prepTimeMs": 0.007872,
-    "memoryBytes": 9834,
+    "timeMs": 0.049643,
+    "prepTimeMs": 0.013951,
+    "memoryBytes": 9702,
     "valid": true,
-    "timestamp": "2026-01-16T20:17:01.474128248Z"
+    "timestamp": "2026-01-17T10:01:40.990756268Z"
+  },
+  {
+    "testName": "regular_deg6",
+    "algorithm": "hvala",
+    "iteration": 4,
+    "vertexCount": 21,
+    "edgeCount": 60,
+    "coverSize": 14,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      10,
+      12,
+      13,
+      14,
+      15,
+      18,
+      19
+    ],
+    "timeMs": 0.385393,
+    "prepTimeMs": 0.009906,
+    "memoryBytes": 9702,
+    "valid": true,
+    "timestamp": "2026-01-17T10:01:40.990758049Z"
+  },
+  {
+    "testName": "regular_deg6",
+    "algorithm": "hvala",
+    "iteration": 5,
+    "vertexCount": 21,
+    "edgeCount": 60,
+    "coverSize": 14,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      10,
+      12,
+      13,
+      14,
+      15,
+      18,
+      19
+    ],
+    "timeMs": 0.035266,
+    "prepTimeMs": 0.007095,
+    "memoryBytes": 9702,
+    "valid": true,
+    "timestamp": "2026-01-17T10:01:40.990759739Z"
   }
 ]

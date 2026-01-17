@@ -17,11 +17,11 @@
       17,
       18
     ],
-    "timeMs": 0.277941,
-    "prepTimeMs": 0.115326,
-    "memoryBytes": 9264,
+    "timeMs": 0.178981,
+    "prepTimeMs": 0.045058,
+    "memoryBytes": 9206,
     "valid": true,
-    "timestamp": "2026-01-16T20:15:24.452419555Z"
+    "timestamp": "2026-01-17T09:57:17.438763311Z"
   },
   {
     "testName": "bipartite_50pct",
@@ -41,11 +41,11 @@
       17,
       18
     ],
-    "timeMs": 0.269288,
-    "prepTimeMs": 0.074654,
-    "memoryBytes": 9264,
+    "timeMs": 0.143113,
+    "prepTimeMs": 0.056176,
+    "memoryBytes": 9206,
     "valid": true,
-    "timestamp": "2026-01-16T20:15:24.452457609Z"
+    "timestamp": "2026-01-17T09:57:17.438820874Z"
   },
   {
     "testName": "bipartite_50pct",
@@ -65,10 +65,58 @@
       17,
       18
     ],
-    "timeMs": 0.181824,
-    "prepTimeMs": 0.017581,
-    "memoryBytes": 9264,
+    "timeMs": 0.156839,
+    "prepTimeMs": 0.05027,
+    "memoryBytes": 9206,
     "valid": true,
-    "timestamp": "2026-01-16T20:15:24.452604027Z"
+    "timestamp": "2026-01-17T09:57:17.438825796Z"
+  },
+  {
+    "testName": "bipartite_50pct",
+    "algorithm": "hvala",
+    "iteration": 4,
+    "vertexCount": 19,
+    "edgeCount": 40,
+    "coverSize": 9,
+    "coverVertices": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "timeMs": 0.154093,
+    "prepTimeMs": 0.067391,
+    "memoryBytes": 9206,
+    "valid": true,
+    "timestamp": "2026-01-17T09:57:17.438828452Z"
+  },
+  {
+    "testName": "bipartite_50pct",
+    "algorithm": "hvala",
+    "iteration": 5,
+    "vertexCount": 19,
+    "edgeCount": 40,
+    "coverSize": 9,
+    "coverVertices": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "timeMs": 0.246102,
+    "prepTimeMs": 0.032039,
+    "memoryBytes": 9206,
+    "valid": true,
+    "timestamp": "2026-01-17T09:57:17.438830950Z"
   }
 ]

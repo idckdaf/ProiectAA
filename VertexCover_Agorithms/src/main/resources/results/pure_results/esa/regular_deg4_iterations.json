@@ -1,0 +1,30 @@
+[
+  {
+    "testName": "regular_deg4",
+    "algorithm": "esa",
+    "iteration": 1,
+    "vertexCount": 19,
+    "edgeCount": 36,
+    "coverSize": 13,
+    "coverVertices": [
+      0,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      16,
+      18
+    ],
+    "timeMs": 0.142228,
+    "prepTimeMs": 0.02367,
+    "memoryBytes": 9688,
+    "valid": true,
+    "timestamp": "2026-01-16T22:22:52.915643871Z"
+  }
+]

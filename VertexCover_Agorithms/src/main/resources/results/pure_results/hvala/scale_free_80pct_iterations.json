@@ -17,11 +17,11 @@
       10,
       11
     ],
-    "timeMs": 0.042841,
-    "prepTimeMs": 0.029794,
-    "memoryBytes": 9242,
+    "timeMs": 0.040609,
+    "prepTimeMs": 0.005486,
+    "memoryBytes": 9110,
     "valid": true,
-    "timestamp": "2026-01-16T20:17:12.978486598Z"
+    "timestamp": "2026-01-17T10:01:56.159213966Z"
   },
   {
     "testName": "scale_free_80pct",
@@ -41,11 +41,11 @@
       10,
       11
     ],
-    "timeMs": 0.079802,
-    "prepTimeMs": 0.036866,
-    "memoryBytes": 9242,
+    "timeMs": 0.020792,
+    "prepTimeMs": 0.007432,
+    "memoryBytes": 9110,
     "valid": true,
-    "timestamp": "2026-01-16T20:17:12.978561665Z"
+    "timestamp": "2026-01-17T10:01:56.159260977Z"
   },
   {
     "testName": "scale_free_80pct",
@@ -65,10 +65,58 @@
       10,
       11
     ],
-    "timeMs": 0.10593,
-    "prepTimeMs": 0.01513,
-    "memoryBytes": 9242,
+    "timeMs": 0.070485,
+    "prepTimeMs": 0.012878,
+    "memoryBytes": 9110,
     "valid": true,
-    "timestamp": "2026-01-16T20:17:12.978586806Z"
+    "timestamp": "2026-01-17T10:01:56.159266540Z"
+  },
+  {
+    "testName": "scale_free_80pct",
+    "algorithm": "hvala",
+    "iteration": 4,
+    "vertexCount": 17,
+    "edgeCount": 54,
+    "coverSize": 9,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      8,
+      10,
+      11
+    ],
+    "timeMs": 0.046242,
+    "prepTimeMs": 0.007926,
+    "memoryBytes": 9110,
+    "valid": true,
+    "timestamp": "2026-01-17T10:01:56.159268722Z"
+  },
+  {
+    "testName": "scale_free_80pct",
+    "algorithm": "hvala",
+    "iteration": 5,
+    "vertexCount": 17,
+    "edgeCount": 54,
+    "coverSize": 9,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      8,
+      10,
+      11
+    ],
+    "timeMs": 0.033284,
+    "prepTimeMs": 0.007203,
+    "memoryBytes": 9110,
+    "valid": true,
+    "timestamp": "2026-01-17T10:01:56.159270751Z"
   }
 ]

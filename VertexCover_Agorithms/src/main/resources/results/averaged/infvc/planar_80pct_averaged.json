@@ -1,0 +1,18 @@
+{
+  "testName": "planar_80pct",
+  "algorithm": "infvc",
+  "vertexCount": 16,
+  "edgeCount": 31,
+  "iterations": 5,
+  "avgCoverSize": 4.0,
+  "minCoverSize": 4.0,
+  "maxCoverSize": 4.0,
+  "avgTimeMs": 14.324848,
+  "minTimeMs": 12.147558,
+  "maxTimeMs": 17.175877,
+  "stdDevTimeMs": 1.6198179573017455,
+  "avgPrepTimeMs": 0.1139634,
+  "avgMemoryBytes": 2.4944651E7,
+  "allValid": false,
+  "timestamp": "2026-01-17T12:47:48.323518716Z"
+}

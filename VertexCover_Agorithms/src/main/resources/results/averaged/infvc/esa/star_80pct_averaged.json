@@ -1,0 +1,18 @@
+{
+  "testName": "star_80pct",
+  "algorithm": "infvc",
+  "vertexCount": 18,
+  "edgeCount": 112,
+  "iterations": 1,
+  "avgCoverSize": 15.0,
+  "minCoverSize": 15.0,
+  "maxCoverSize": 15.0,
+  "avgTimeMs": 0.081193,
+  "minTimeMs": 0.081193,
+  "maxTimeMs": 0.081193,
+  "stdDevTimeMs": 0.0,
+  "avgPrepTimeMs": 0.014084,
+  "avgMemoryBytes": 10320.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T22:23:15.600256707Z"
+}

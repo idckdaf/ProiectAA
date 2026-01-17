@@ -1,0 +1,82 @@
+[
+  {
+    "testName": "cycle_80pct",
+    "algorithm": "infvc",
+    "iteration": 1,
+    "vertexCount": 17,
+    "edgeCount": 99,
+    "coverSize": 1,
+    "coverVertices": [
+      10
+    ],
+    "timeMs": 34.027612,
+    "prepTimeMs": 0.108728,
+    "memoryBytes": 37932646,
+    "valid": false,
+    "timestamp": "2026-01-17T10:03:28.482407861Z"
+  },
+  {
+    "testName": "cycle_80pct",
+    "algorithm": "infvc",
+    "iteration": 2,
+    "vertexCount": 17,
+    "edgeCount": 99,
+    "coverSize": 1,
+    "coverVertices": [
+      10
+    ],
+    "timeMs": 28.257681,
+    "prepTimeMs": 0.127414,
+    "memoryBytes": 37932646,
+    "valid": false,
+    "timestamp": "2026-01-17T10:03:28.482437240Z"
+  },
+  {
+    "testName": "cycle_80pct",
+    "algorithm": "infvc",
+    "iteration": 3,
+    "vertexCount": 17,
+    "edgeCount": 99,
+    "coverSize": 1,
+    "coverVertices": [
+      10
+    ],
+    "timeMs": 28.861983,
+    "prepTimeMs": 0.161451,
+    "memoryBytes": 37932646,
+    "valid": false,
+    "timestamp": "2026-01-17T10:03:28.482439222Z"
+  },
+  {
+    "testName": "cycle_80pct",
+    "algorithm": "infvc",
+    "iteration": 4,
+    "vertexCount": 17,
+    "edgeCount": 99,
+    "coverSize": 1,
+    "coverVertices": [
+      10
+    ],
+    "timeMs": 27.271173,
+    "prepTimeMs": 0.147486,
+    "memoryBytes": 37932646,
+    "valid": false,
+    "timestamp": "2026-01-17T10:03:28.482440588Z"
+  },
+  {
+    "testName": "cycle_80pct",
+    "algorithm": "infvc",
+    "iteration": 5,
+    "vertexCount": 17,
+    "edgeCount": 99,
+    "coverSize": 1,
+    "coverVertices": [
+      10
+    ],
+    "timeMs": 29.265171,
+    "prepTimeMs": 0.019795,
+    "memoryBytes": 37932646,
+    "valid": false,
+    "timestamp": "2026-01-17T10:03:28.482441852Z"
+  }
+]

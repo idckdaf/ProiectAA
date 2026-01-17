@@ -1,0 +1,82 @@
+[
+  {
+    "testName": "grid_50pct",
+    "algorithm": "infvc",
+    "iteration": 1,
+    "vertexCount": 17,
+    "edgeCount": 83,
+    "coverSize": 1,
+    "coverVertices": [
+      4
+    ],
+    "timeMs": 25.008449,
+    "prepTimeMs": 0.101917,
+    "memoryBytes": 30742264,
+    "valid": false,
+    "timestamp": "2026-01-17T12:47:27.649915817Z"
+  },
+  {
+    "testName": "grid_50pct",
+    "algorithm": "infvc",
+    "iteration": 2,
+    "vertexCount": 17,
+    "edgeCount": 83,
+    "coverSize": 1,
+    "coverVertices": [
+      4
+    ],
+    "timeMs": 25.760683,
+    "prepTimeMs": 0.0468,
+    "memoryBytes": 30742264,
+    "valid": false,
+    "timestamp": "2026-01-17T12:47:27.649946043Z"
+  },
+  {
+    "testName": "grid_50pct",
+    "algorithm": "infvc",
+    "iteration": 3,
+    "vertexCount": 17,
+    "edgeCount": 83,
+    "coverSize": 1,
+    "coverVertices": [
+      4
+    ],
+    "timeMs": 16.604754,
+    "prepTimeMs": 0.122608,
+    "memoryBytes": 30742264,
+    "valid": false,
+    "timestamp": "2026-01-17T12:47:27.649948279Z"
+  },
+  {
+    "testName": "grid_50pct",
+    "algorithm": "infvc",
+    "iteration": 4,
+    "vertexCount": 17,
+    "edgeCount": 83,
+    "coverSize": 1,
+    "coverVertices": [
+      4
+    ],
+    "timeMs": 22.758442,
+    "prepTimeMs": 0.046233,
+    "memoryBytes": 30742264,
+    "valid": false,
+    "timestamp": "2026-01-17T12:47:27.649949687Z"
+  },
+  {
+    "testName": "grid_50pct",
+    "algorithm": "infvc",
+    "iteration": 5,
+    "vertexCount": 17,
+    "edgeCount": 83,
+    "coverSize": 1,
+    "coverVertices": [
+      4
+    ],
+    "timeMs": 18.454352,
+    "prepTimeMs": 0.012982,
+    "memoryBytes": 30742264,
+    "valid": false,
+    "timestamp": "2026-01-17T12:47:27.649950680Z"
+  }
+]

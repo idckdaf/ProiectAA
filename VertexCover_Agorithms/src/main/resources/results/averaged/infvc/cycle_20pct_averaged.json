@@ -1,0 +1,18 @@
+{
+  "testName": "cycle_20pct",
+  "algorithm": "infvc",
+  "vertexCount": 19,
+  "edgeCount": 45,
+  "iterations": 5,
+  "avgCoverSize": 3.0,
+  "minCoverSize": 3.0,
+  "maxCoverSize": 3.0,
+  "avgTimeMs": 11.8793872,
+  "minTimeMs": 10.404729,
+  "maxTimeMs": 14.440985,
+  "stdDevTimeMs": 1.385631903939917,
+  "avgPrepTimeMs": 0.0824734,
+  "avgMemoryBytes": 1.5913497E7,
+  "allValid": false,
+  "timestamp": "2026-01-17T10:03:18.084172711Z"
+}

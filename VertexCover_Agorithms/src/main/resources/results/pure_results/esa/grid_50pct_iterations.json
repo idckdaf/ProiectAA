@@ -1,0 +1,30 @@
+[
+  {
+    "testName": "grid_50pct",
+    "algorithm": "esa",
+    "iteration": 1,
+    "vertexCount": 17,
+    "edgeCount": 83,
+    "coverSize": 13,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      9,
+      11,
+      12,
+      14,
+      15,
+      16
+    ],
+    "timeMs": 1.034243,
+    "prepTimeMs": 0.023849,
+    "memoryBytes": 12176,
+    "valid": true,
+    "timestamp": "2026-01-16T22:31:19.247566240Z"
+  }
+]

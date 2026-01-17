@@ -1,0 +1,112 @@
+[
+  {
+    "testName": "random_10pct",
+    "algorithm": "infvc",
+    "iteration": 1,
+    "vertexCount": 20,
+    "edgeCount": 19,
+    "coverSize": 7,
+    "coverVertices": [
+      1,
+      4,
+      7,
+      8,
+      9,
+      14,
+      19
+    ],
+    "timeMs": 0.110855,
+    "prepTimeMs": 0.082385,
+    "memoryBytes": 12355,
+    "valid": true,
+    "timestamp": "2026-01-17T12:47:53.419237489Z"
+  },
+  {
+    "testName": "random_10pct",
+    "algorithm": "infvc",
+    "iteration": 2,
+    "vertexCount": 20,
+    "edgeCount": 19,
+    "coverSize": 7,
+    "coverVertices": [
+      1,
+      4,
+      7,
+      8,
+      9,
+      14,
+      19
+    ],
+    "timeMs": 0.126843,
+    "prepTimeMs": 0.096475,
+    "memoryBytes": 12355,
+    "valid": true,
+    "timestamp": "2026-01-17T12:47:53.419291994Z"
+  },
+  {
+    "testName": "random_10pct",
+    "algorithm": "infvc",
+    "iteration": 3,
+    "vertexCount": 20,
+    "edgeCount": 19,
+    "coverSize": 7,
+    "coverVertices": [
+      1,
+      4,
+      7,
+      8,
+      9,
+      14,
+      19
+    ],
+    "timeMs": 0.147187,
+    "prepTimeMs": 0.131378,
+    "memoryBytes": 12355,
+    "valid": true,
+    "timestamp": "2026-01-17T12:47:53.419296680Z"
+  },
+  {
+    "testName": "random_10pct",
+    "algorithm": "infvc",
+    "iteration": 4,
+    "vertexCount": 20,
+    "edgeCount": 19,
+    "coverSize": 7,
+    "coverVertices": [
+      1,
+      4,
+      7,
+      8,
+      9,
+      14,
+      19
+    ],
+    "timeMs": 0.196576,
+    "prepTimeMs": 0.10613,
+    "memoryBytes": 12355,
+    "valid": true,
+    "timestamp": "2026-01-17T12:47:53.419299078Z"
+  },
+  {
+    "testName": "random_10pct",
+    "algorithm": "infvc",
+    "iteration": 5,
+    "vertexCount": 20,
+    "edgeCount": 19,
+    "coverSize": 7,
+    "coverVertices": [
+      1,
+      4,
+      7,
+      8,
+      9,
+      14,
+      19
+    ],
+    "timeMs": 0.162142,
+    "prepTimeMs": 0.030914,
+    "memoryBytes": 12355,
+    "valid": true,
+    "timestamp": "2026-01-17T12:47:53.419301416Z"
+  }
+]

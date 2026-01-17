@@ -1,0 +1,33 @@
+[
+  {
+    "testName": "regular_deg6",
+    "algorithm": "esa",
+    "iteration": 1,
+    "vertexCount": 21,
+    "edgeCount": 60,
+    "coverSize": 16,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7,
+      8,
+      9,
+      11,
+      12,
+      13,
+      14,
+      15,
+      18,
+      19,
+      20
+    ],
+    "timeMs": 0.084477,
+    "prepTimeMs": 0.017542,
+    "memoryBytes": 9992,
+    "valid": true,
+    "timestamp": "2026-01-16T22:22:55.442964055Z"
+  }
+]

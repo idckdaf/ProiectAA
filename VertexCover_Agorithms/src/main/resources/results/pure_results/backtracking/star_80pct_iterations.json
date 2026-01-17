@@ -22,11 +22,11 @@
       15,
       17
     ],
-    "timeMs": 0.136444,
-    "prepTimeMs": 0.048152,
-    "memoryBytes": 13466,
+    "timeMs": 0.137805,
+    "prepTimeMs": 0.096763,
+    "memoryBytes": 14496,
     "valid": true,
-    "timestamp": "2026-01-16T20:33:41.848275472Z"
+    "timestamp": "2026-01-16T22:12:28.365340806Z"
   },
   {
     "testName": "star_80pct",
@@ -51,39 +51,10 @@
       15,
       17
     ],
-    "timeMs": 0.077895,
-    "prepTimeMs": 0.097452,
-    "memoryBytes": 13466,
+    "timeMs": 0.141208,
+    "prepTimeMs": 0.043442,
+    "memoryBytes": 14496,
     "valid": true,
-    "timestamp": "2026-01-16T20:33:41.848417446Z"
-  },
-  {
-    "testName": "star_80pct",
-    "algorithm": "backtracking",
-    "iteration": 3,
-    "vertexCount": 18,
-    "edgeCount": 112,
-    "coverSize": 14,
-    "coverVertices": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      9,
-      10,
-      11,
-      12,
-      13,
-      14,
-      15,
-      17
-    ],
-    "timeMs": 0.156385,
-    "prepTimeMs": 0.043654,
-    "memoryBytes": 13466,
-    "valid": true,
-    "timestamp": "2026-01-16T20:33:41.848448779Z"
+    "timestamp": "2026-01-16T22:12:28.365392716Z"
   }
 ]

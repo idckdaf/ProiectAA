@@ -1,0 +1,18 @@
+{
+  "testName": "grid_20pct",
+  "algorithm": "backtracking_optimized",
+  "vertexCount": 19,
+  "edgeCount": 64,
+  "iterations": 5,
+  "avgCoverSize": 12.0,
+  "minCoverSize": 12.0,
+  "maxCoverSize": 12.0,
+  "avgTimeMs": 0.2500892,
+  "minTimeMs": 0.128162,
+  "maxTimeMs": 0.392467,
+  "stdDevTimeMs": 0.11526644222044852,
+  "avgPrepTimeMs": 0.14376919999999999,
+  "avgMemoryBytes": 14198.0,
+  "allValid": false,
+  "timestamp": "2026-01-17T15:29:20.922634742Z"
+}

@@ -1,0 +1,18 @@
+{
+  "testName": "random_n50_dense",
+  "algorithm": "backtracking_optimized",
+  "vertexCount": 50,
+  "edgeCount": 625,
+  "iterations": 2,
+  "avgCoverSize": 38.0,
+  "minCoverSize": 38.0,
+  "maxCoverSize": 38.0,
+  "avgTimeMs": 1.2040125,
+  "minTimeMs": 0.971099,
+  "maxTimeMs": 1.436926,
+  "stdDevTimeMs": 0.23291349999999994,
+  "avgPrepTimeMs": 0.2550975,
+  "avgMemoryBytes": 36496.0,
+  "allValid": false,
+  "timestamp": "2026-01-16T22:56:34.192495540Z"
+}

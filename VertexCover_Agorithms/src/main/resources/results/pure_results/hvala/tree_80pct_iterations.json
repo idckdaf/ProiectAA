@@ -16,11 +16,11 @@
       13,
       17
     ],
-    "timeMs": 0.067916,
-    "prepTimeMs": 0.019406,
-    "memoryBytes": 9074,
+    "timeMs": 0.016408,
+    "prepTimeMs": 0.010446,
+    "memoryBytes": 8936,
     "valid": true,
-    "timestamp": "2026-01-16T20:17:43.644677644Z"
+    "timestamp": "2026-01-17T10:02:36.658471421Z"
   },
   {
     "testName": "tree_80pct",
@@ -39,11 +39,11 @@
       13,
       17
     ],
-    "timeMs": 0.063635,
-    "prepTimeMs": 0.02351,
-    "memoryBytes": 9074,
+    "timeMs": 0.042378,
+    "prepTimeMs": 0.010245,
+    "memoryBytes": 8936,
     "valid": true,
-    "timestamp": "2026-01-16T20:17:43.644823089Z"
+    "timestamp": "2026-01-17T10:02:36.658532439Z"
   },
   {
     "testName": "tree_80pct",
@@ -62,10 +62,56 @@
       13,
       17
     ],
-    "timeMs": 0.079989,
-    "prepTimeMs": 0.017173,
-    "memoryBytes": 9074,
+    "timeMs": 0.03973,
+    "prepTimeMs": 0.009312,
+    "memoryBytes": 8936,
     "valid": true,
-    "timestamp": "2026-01-16T20:17:43.644841444Z"
+    "timestamp": "2026-01-17T10:02:36.658537921Z"
+  },
+  {
+    "testName": "tree_80pct",
+    "algorithm": "hvala",
+    "iteration": 4,
+    "vertexCount": 19,
+    "edgeCount": 17,
+    "coverSize": 8,
+    "coverVertices": [
+      1,
+      2,
+      4,
+      6,
+      8,
+      9,
+      13,
+      17
+    ],
+    "timeMs": 0.036932,
+    "prepTimeMs": 0.01203,
+    "memoryBytes": 8936,
+    "valid": true,
+    "timestamp": "2026-01-17T10:02:36.658540834Z"
+  },
+  {
+    "testName": "tree_80pct",
+    "algorithm": "hvala",
+    "iteration": 5,
+    "vertexCount": 19,
+    "edgeCount": 17,
+    "coverSize": 8,
+    "coverVertices": [
+      1,
+      2,
+      4,
+      6,
+      8,
+      9,
+      13,
+      17
+    ],
+    "timeMs": 0.046483,
+    "prepTimeMs": 0.007828,
+    "memoryBytes": 8936,
+    "valid": true,
+    "timestamp": "2026-01-17T10:02:36.658543613Z"
   }
 ]

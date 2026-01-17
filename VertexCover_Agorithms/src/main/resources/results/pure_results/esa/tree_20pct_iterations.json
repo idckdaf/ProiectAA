@@ -1,0 +1,26 @@
+[
+  {
+    "testName": "tree_20pct",
+    "algorithm": "esa",
+    "iteration": 1,
+    "vertexCount": 20,
+    "edgeCount": 18,
+    "coverSize": 9,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      9,
+      13,
+      14,
+      16,
+      17
+    ],
+    "timeMs": 0.089704,
+    "prepTimeMs": 0.016309,
+    "memoryBytes": 9400,
+    "valid": true,
+    "timestamp": "2026-01-16T22:23:18.117452138Z"
+  }
+]

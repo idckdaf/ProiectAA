@@ -1,0 +1,18 @@
+{
+  "testName": "random_10pct",
+  "algorithm": "infvc",
+  "vertexCount": 20,
+  "edgeCount": 19,
+  "iterations": 1,
+  "avgCoverSize": 7.0,
+  "minCoverSize": 7.0,
+  "maxCoverSize": 7.0,
+  "avgTimeMs": 0.35432,
+  "minTimeMs": 0.35432,
+  "maxTimeMs": 0.35432,
+  "stdDevTimeMs": 0.0,
+  "avgPrepTimeMs": 0.012411,
+  "avgMemoryBytes": 10456.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T22:31:32.147781059Z"
+}

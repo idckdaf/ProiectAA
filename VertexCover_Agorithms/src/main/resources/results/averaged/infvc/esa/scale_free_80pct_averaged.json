@@ -1,0 +1,18 @@
+{
+  "testName": "scale_free_80pct",
+  "algorithm": "infvc",
+  "vertexCount": 17,
+  "edgeCount": 54,
+  "iterations": 1,
+  "avgCoverSize": 13.0,
+  "minCoverSize": 13.0,
+  "maxCoverSize": 13.0,
+  "avgTimeMs": 0.130985,
+  "minTimeMs": 0.130985,
+  "maxTimeMs": 0.130985,
+  "stdDevTimeMs": 0.0,
+  "avgPrepTimeMs": 0.051155,
+  "avgMemoryBytes": 9760.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T22:23:02.996610006Z"
+}

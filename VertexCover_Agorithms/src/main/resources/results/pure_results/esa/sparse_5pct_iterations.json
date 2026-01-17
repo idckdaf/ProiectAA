@@ -1,0 +1,27 @@
+[
+  {
+    "testName": "sparse_5pct",
+    "algorithm": "esa",
+    "iteration": 1,
+    "vertexCount": 21,
+    "edgeCount": 19,
+    "coverSize": 10,
+    "coverVertices": [
+      3,
+      4,
+      5,
+      9,
+      10,
+      13,
+      16,
+      18,
+      19,
+      20
+    ],
+    "timeMs": 0.053467,
+    "prepTimeMs": 0.006821,
+    "memoryBytes": 9360,
+    "valid": true,
+    "timestamp": "2026-01-16T22:23:08.045721945Z"
+  }
+]

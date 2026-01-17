@@ -1,0 +1,22 @@
+[
+  {
+    "testName": "random_n120_medium",
+    "algorithm": "infvc",
+    "iteration": 1,
+    "vertexCount": 120,
+    "edgeCount": 2214,
+    "coverSize": 5,
+    "coverVertices": [
+      49,
+      72,
+      110,
+      112,
+      113
+    ],
+    "timeMs": 141.17255,
+    "prepTimeMs": 0.098432,
+    "memoryBytes": 246503504,
+    "valid": false,
+    "timestamp": "2026-01-16T23:32:32.573638370Z"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "testName": "random_n80_dense",
+  "algorithm": "dfs",
+  "vertexCount": 80,
+  "edgeCount": 1600,
+  "iterations": 5,
+  "avgCoverSize": 73.0,
+  "minCoverSize": 73.0,
+  "maxCoverSize": 73.0,
+  "avgTimeMs": 0.47262260000000006,
+  "minTimeMs": 0.259108,
+  "maxTimeMs": 0.628139,
+  "stdDevTimeMs": 0.13735321260545746,
+  "avgPrepTimeMs": 0.1765098,
+  "avgMemoryBytes": 30822.0,
+  "allValid": true,
+  "timestamp": "2026-01-17T09:55:46.043667194Z"
+}

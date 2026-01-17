@@ -22,11 +22,11 @@
       15,
       16
     ],
-    "timeMs": 0.045978,
-    "prepTimeMs": 0.013747,
-    "memoryBytes": 9938,
+    "timeMs": 0.143175,
+    "prepTimeMs": 0.014882,
+    "memoryBytes": 12992,
     "valid": true,
-    "timestamp": "2026-01-16T20:16:46.073498544Z"
+    "timestamp": "2026-01-17T09:59:03.907402004Z"
   },
   {
     "testName": "random_70pct",
@@ -51,11 +51,11 @@
       15,
       16
     ],
-    "timeMs": 0.039497,
-    "prepTimeMs": 0.047568,
-    "memoryBytes": 9938,
+    "timeMs": 0.050728,
+    "prepTimeMs": 0.054228,
+    "memoryBytes": 12992,
     "valid": true,
-    "timestamp": "2026-01-16T20:16:46.073629559Z"
+    "timestamp": "2026-01-17T09:59:03.907432468Z"
   },
   {
     "testName": "random_70pct",
@@ -80,10 +80,68 @@
       15,
       16
     ],
-    "timeMs": 0.131265,
-    "prepTimeMs": 0.031949,
-    "memoryBytes": 9938,
+    "timeMs": 0.165431,
+    "prepTimeMs": 0.034523,
+    "memoryBytes": 12992,
     "valid": true,
-    "timestamp": "2026-01-16T20:16:46.073679217Z"
+    "timestamp": "2026-01-17T09:59:03.907434811Z"
+  },
+  {
+    "testName": "random_70pct",
+    "algorithm": "hvala",
+    "iteration": 4,
+    "vertexCount": 18,
+    "edgeCount": 95,
+    "coverSize": 14,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      15,
+      16
+    ],
+    "timeMs": 0.103328,
+    "prepTimeMs": 0.016601,
+    "memoryBytes": 12992,
+    "valid": true,
+    "timestamp": "2026-01-17T09:59:03.907436020Z"
+  },
+  {
+    "testName": "random_70pct",
+    "algorithm": "hvala",
+    "iteration": 5,
+    "vertexCount": 18,
+    "edgeCount": 95,
+    "coverSize": 14,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      15,
+      16
+    ],
+    "timeMs": 0.056086,
+    "prepTimeMs": 0.007404,
+    "memoryBytes": 12992,
+    "valid": true,
+    "timestamp": "2026-01-17T09:59:03.907437125Z"
   }
 ]

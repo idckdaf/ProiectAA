@@ -1,0 +1,30 @@
+[
+  {
+    "testName": "star_50pct",
+    "algorithm": "esa",
+    "iteration": 1,
+    "vertexCount": 18,
+    "edgeCount": 76,
+    "coverSize": 13,
+    "coverVertices": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      8,
+      9,
+      10,
+      11,
+      14,
+      15,
+      16,
+      17
+    ],
+    "timeMs": 0.118359,
+    "prepTimeMs": 0.021935,
+    "memoryBytes": 10104,
+    "valid": true,
+    "timestamp": "2026-01-16T22:23:13.082780067Z"
+  }
+]

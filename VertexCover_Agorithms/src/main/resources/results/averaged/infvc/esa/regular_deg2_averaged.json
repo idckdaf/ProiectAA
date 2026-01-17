@@ -1,0 +1,18 @@
+{
+  "testName": "regular_deg2",
+  "algorithm": "infvc",
+  "vertexCount": 19,
+  "edgeCount": 18,
+  "iterations": 1,
+  "avgCoverSize": 11.0,
+  "minCoverSize": 11.0,
+  "maxCoverSize": 11.0,
+  "avgTimeMs": 0.089434,
+  "minTimeMs": 0.089434,
+  "maxTimeMs": 0.089434,
+  "stdDevTimeMs": 0.0,
+  "avgPrepTimeMs": 0.0326,
+  "avgMemoryBytes": 9256.0,
+  "allValid": true,
+  "timestamp": "2026-01-16T22:22:50.396794746Z"
+}

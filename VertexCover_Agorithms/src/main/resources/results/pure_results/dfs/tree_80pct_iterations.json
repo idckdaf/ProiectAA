@@ -5,9 +5,8 @@
     "iteration": 1,
     "vertexCount": 19,
     "edgeCount": 17,
-    "coverSize": 11,
+    "coverSize": 8,
     "coverVertices": [
-      1,
       2,
       4,
       6,
@@ -15,15 +14,13 @@
       13,
       14,
       15,
-      16,
-      17,
-      18
+      17
     ],
-    "timeMs": 0.020515,
-    "prepTimeMs": 2.93E-4,
-    "memoryBytes": 9266,
+    "timeMs": 0.028863,
+    "prepTimeMs": 0.009958,
+    "memoryBytes": 9390,
     "valid": true,
-    "timestamp": "2026-01-16T20:15:05.696668291Z"
+    "timestamp": "2026-01-17T09:57:07.279460429Z"
   },
   {
     "testName": "tree_80pct",
@@ -31,9 +28,8 @@
     "iteration": 2,
     "vertexCount": 19,
     "edgeCount": 17,
-    "coverSize": 11,
+    "coverSize": 8,
     "coverVertices": [
-      1,
       2,
       4,
       6,
@@ -41,15 +37,13 @@
       13,
       14,
       15,
-      16,
-      17,
-      18
+      17
     ],
-    "timeMs": 0.034068,
-    "prepTimeMs": 3.36E-4,
-    "memoryBytes": 9266,
+    "timeMs": 0.033281,
+    "prepTimeMs": 0.005712,
+    "memoryBytes": 9390,
     "valid": true,
-    "timestamp": "2026-01-16T20:15:05.696719564Z"
+    "timestamp": "2026-01-17T09:57:07.279498333Z"
   },
   {
     "testName": "tree_80pct",
@@ -57,9 +51,8 @@
     "iteration": 3,
     "vertexCount": 19,
     "edgeCount": 17,
-    "coverSize": 11,
+    "coverSize": 8,
     "coverVertices": [
-      1,
       2,
       4,
       6,
@@ -67,14 +60,58 @@
       13,
       14,
       15,
-      16,
-      17,
-      18
+      17
     ],
-    "timeMs": 0.023115,
-    "prepTimeMs": 5.6E-5,
-    "memoryBytes": 9266,
+    "timeMs": 0.016919,
+    "prepTimeMs": 0.017167,
+    "memoryBytes": 9390,
     "valid": true,
-    "timestamp": "2026-01-16T20:15:05.696732781Z"
+    "timestamp": "2026-01-17T09:57:07.279501576Z"
+  },
+  {
+    "testName": "tree_80pct",
+    "algorithm": "dfs",
+    "iteration": 4,
+    "vertexCount": 19,
+    "edgeCount": 17,
+    "coverSize": 8,
+    "coverVertices": [
+      2,
+      4,
+      6,
+      9,
+      13,
+      14,
+      15,
+      17
+    ],
+    "timeMs": 0.056429,
+    "prepTimeMs": 0.006672,
+    "memoryBytes": 9390,
+    "valid": true,
+    "timestamp": "2026-01-17T09:57:07.279503172Z"
+  },
+  {
+    "testName": "tree_80pct",
+    "algorithm": "dfs",
+    "iteration": 5,
+    "vertexCount": 19,
+    "edgeCount": 17,
+    "coverSize": 8,
+    "coverVertices": [
+      2,
+      4,
+      6,
+      9,
+      13,
+      14,
+      15,
+      17
+    ],
+    "timeMs": 0.019884,
+    "prepTimeMs": 0.004003,
+    "memoryBytes": 9390,
+    "valid": true,
+    "timestamp": "2026-01-17T09:57:07.279504701Z"
   }
 ]

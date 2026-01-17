@@ -22,11 +22,11 @@
       15,
       16
     ],
-    "timeMs": 0.08325,
-    "prepTimeMs": 0.142476,
-    "memoryBytes": 10024,
+    "timeMs": 0.196368,
+    "prepTimeMs": 0.031209,
+    "memoryBytes": 9972,
     "valid": true,
-    "timestamp": "2026-01-16T20:16:03.327716750Z"
+    "timestamp": "2026-01-17T09:58:08.145249779Z"
   },
   {
     "testName": "dense_95pct",
@@ -51,11 +51,11 @@
       15,
       16
     ],
-    "timeMs": 0.302489,
-    "prepTimeMs": 0.048402,
-    "memoryBytes": 10024,
+    "timeMs": 0.103011,
+    "prepTimeMs": 0.054328,
+    "memoryBytes": 9972,
     "valid": true,
-    "timestamp": "2026-01-16T20:16:03.327773981Z"
+    "timestamp": "2026-01-17T09:58:08.145287583Z"
   },
   {
     "testName": "dense_95pct",
@@ -80,10 +80,68 @@
       15,
       16
     ],
-    "timeMs": 0.10656,
-    "prepTimeMs": 0.042756,
-    "memoryBytes": 10024,
+    "timeMs": 0.125289,
+    "prepTimeMs": 0.078437,
+    "memoryBytes": 9972,
     "valid": true,
-    "timestamp": "2026-01-16T20:16:03.327798739Z"
+    "timestamp": "2026-01-17T09:58:08.145290540Z"
+  },
+  {
+    "testName": "dense_95pct",
+    "algorithm": "hvala",
+    "iteration": 4,
+    "vertexCount": 17,
+    "edgeCount": 114,
+    "coverSize": 14,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      14,
+      15,
+      16
+    ],
+    "timeMs": 0.149449,
+    "prepTimeMs": 0.020787,
+    "memoryBytes": 9972,
+    "valid": true,
+    "timestamp": "2026-01-17T09:58:08.145292126Z"
+  },
+  {
+    "testName": "dense_95pct",
+    "algorithm": "hvala",
+    "iteration": 5,
+    "vertexCount": 17,
+    "edgeCount": 114,
+    "coverSize": 14,
+    "coverVertices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      14,
+      15,
+      16
+    ],
+    "timeMs": 0.075323,
+    "prepTimeMs": 0.00995,
+    "memoryBytes": 9972,
+    "valid": true,
+    "timestamp": "2026-01-17T09:58:08.145295292Z"
   }
 ]

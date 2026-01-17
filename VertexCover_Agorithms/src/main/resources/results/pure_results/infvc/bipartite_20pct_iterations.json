@@ -1,0 +1,23 @@
+[
+  {
+    "testName": "bipartite_20pct",
+    "algorithm": "infvc",
+    "iteration": 1,
+    "vertexCount": 17,
+    "edgeCount": 12,
+    "coverSize": 6,
+    "coverVertices": [
+      1,
+      2,
+      11,
+      12,
+      13,
+      16
+    ],
+    "timeMs": 99.369235,
+    "prepTimeMs": 9.5E-5,
+    "memoryBytes": 116601512,
+    "valid": true,
+    "timestamp": "2026-01-17T14:19:21.366548727Z"
+  }
+]

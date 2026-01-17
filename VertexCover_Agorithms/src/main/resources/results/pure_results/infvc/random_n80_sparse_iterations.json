@@ -1,0 +1,28 @@
+[
+  {
+    "testName": "random_n80_sparse",
+    "algorithm": "infvc",
+    "iteration": 1,
+    "vertexCount": 80,
+    "edgeCount": 505,
+    "coverSize": 11,
+    "coverVertices": [
+      0,
+      2,
+      6,
+      10,
+      21,
+      22,
+      30,
+      47,
+      55,
+      69,
+      79
+    ],
+    "timeMs": 38.876799,
+    "prepTimeMs": 0.027315,
+    "memoryBytes": 67325280,
+    "valid": false,
+    "timestamp": "2026-01-16T23:33:36.424425266Z"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "testName": "cycle_50pct",
+  "algorithm": "backtracking_optimized",
+  "vertexCount": 20,
+  "edgeCount": 95,
+  "iterations": 5,
+  "avgCoverSize": 14.0,
+  "minCoverSize": 14.0,
+  "maxCoverSize": 14.0,
+  "avgTimeMs": 0.3732536,
+  "minTimeMs": 0.250293,
+  "maxTimeMs": 0.574292,
+  "stdDevTimeMs": 0.13514782275212578,
+  "avgPrepTimeMs": 0.294145,
+  "avgMemoryBytes": 15214.0,
+  "allValid": true,
+  "timestamp": "2026-01-17T15:29:00.664160776Z"
+}

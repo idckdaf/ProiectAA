@@ -1,0 +1,18 @@
+{
+  "testName": "bipartite_80pct",
+  "algorithm": "infvc",
+  "vertexCount": 20,
+  "edgeCount": 72,
+  "iterations": 1,
+  "avgCoverSize": 9.0,
+  "minCoverSize": 9.0,
+  "maxCoverSize": 9.0,
+  "avgTimeMs": 99.483277,
+  "minTimeMs": 99.483277,
+  "maxTimeMs": 99.483277,
+  "stdDevTimeMs": 0.0,
+  "avgPrepTimeMs": 1.25E-4,
+  "avgMemoryBytes": 8.9167672E7,
+  "allValid": true,
+  "timestamp": "2026-01-17T14:19:27.337534859Z"
+}

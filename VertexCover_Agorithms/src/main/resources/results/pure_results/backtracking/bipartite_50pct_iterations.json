@@ -17,11 +17,11 @@
       17,
       18
     ],
-    "timeMs": 0.154165,
-    "prepTimeMs": 0.098552,
-    "memoryBytes": 13117,
+    "timeMs": 5.465731,
+    "prepTimeMs": 0.059143,
+    "memoryBytes": 8889988,
     "valid": true,
-    "timestamp": "2026-01-16T20:31:38.296784496Z"
+    "timestamp": "2026-01-17T15:36:20.062204301Z"
   },
   {
     "testName": "bipartite_50pct",
@@ -41,34 +41,10 @@
       17,
       18
     ],
-    "timeMs": 0.156929,
-    "prepTimeMs": 0.067332,
-    "memoryBytes": 13117,
+    "timeMs": 6.722272,
+    "prepTimeMs": 0.041698,
+    "memoryBytes": 8889988,
     "valid": true,
-    "timestamp": "2026-01-16T20:31:38.296826765Z"
-  },
-  {
-    "testName": "bipartite_50pct",
-    "algorithm": "backtracking",
-    "iteration": 3,
-    "vertexCount": 19,
-    "edgeCount": 40,
-    "coverSize": 9,
-    "coverVertices": [
-      10,
-      11,
-      12,
-      13,
-      14,
-      15,
-      16,
-      17,
-      18
-    ],
-    "timeMs": 0.10733,
-    "prepTimeMs": 0.04911,
-    "memoryBytes": 13117,
-    "valid": true,
-    "timestamp": "2026-01-16T20:31:38.296845574Z"
+    "timestamp": "2026-01-17T15:36:20.062260015Z"
   }
 ]

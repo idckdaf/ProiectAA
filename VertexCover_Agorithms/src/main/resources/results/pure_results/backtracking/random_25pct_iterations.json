@@ -17,11 +17,11 @@
       15,
       16
     ],
-    "timeMs": 0.106123,
-    "prepTimeMs": 0.058011,
-    "memoryBytes": 12746,
+    "timeMs": 0.792947,
+    "prepTimeMs": 0.011855,
+    "memoryBytes": 3020432,
     "valid": true,
-    "timestamp": "2026-01-16T20:32:45.727844762Z"
+    "timestamp": "2026-01-17T15:37:18.582641829Z"
   },
   {
     "testName": "random_25pct",
@@ -41,34 +41,10 @@
       15,
       16
     ],
-    "timeMs": 0.089407,
-    "prepTimeMs": 0.123346,
-    "memoryBytes": 12746,
+    "timeMs": 0.744459,
+    "prepTimeMs": 0.004932,
+    "memoryBytes": 3020432,
     "valid": true,
-    "timestamp": "2026-01-16T20:32:45.727915144Z"
-  },
-  {
-    "testName": "random_25pct",
-    "algorithm": "backtracking",
-    "iteration": 3,
-    "vertexCount": 18,
-    "edgeCount": 34,
-    "coverSize": 9,
-    "coverVertices": [
-      3,
-      4,
-      8,
-      9,
-      11,
-      12,
-      14,
-      15,
-      16
-    ],
-    "timeMs": 0.19927,
-    "prepTimeMs": 0.046418,
-    "memoryBytes": 12746,
-    "valid": true,
-    "timestamp": "2026-01-16T20:32:45.727943446Z"
+    "timestamp": "2026-01-17T15:37:18.582679116Z"
   }
 ]

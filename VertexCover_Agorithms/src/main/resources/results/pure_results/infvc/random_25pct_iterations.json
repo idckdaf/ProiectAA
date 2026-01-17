@@ -1,0 +1,107 @@
+[
+  {
+    "testName": "random_25pct",
+    "algorithm": "infvc",
+    "iteration": 1,
+    "vertexCount": 18,
+    "edgeCount": 34,
+    "coverSize": 6,
+    "coverVertices": [
+      2,
+      3,
+      4,
+      8,
+      9,
+      12
+    ],
+    "timeMs": 12.498212,
+    "prepTimeMs": 0.089573,
+    "memoryBytes": 18931168,
+    "valid": false,
+    "timestamp": "2026-01-17T12:47:58.571676138Z"
+  },
+  {
+    "testName": "random_25pct",
+    "algorithm": "infvc",
+    "iteration": 2,
+    "vertexCount": 18,
+    "edgeCount": 34,
+    "coverSize": 6,
+    "coverVertices": [
+      2,
+      3,
+      4,
+      8,
+      9,
+      12
+    ],
+    "timeMs": 13.703729,
+    "prepTimeMs": 0.126167,
+    "memoryBytes": 18931168,
+    "valid": false,
+    "timestamp": "2026-01-17T12:47:58.571703516Z"
+  },
+  {
+    "testName": "random_25pct",
+    "algorithm": "infvc",
+    "iteration": 3,
+    "vertexCount": 18,
+    "edgeCount": 34,
+    "coverSize": 6,
+    "coverVertices": [
+      2,
+      3,
+      4,
+      8,
+      9,
+      12
+    ],
+    "timeMs": 13.994269,
+    "prepTimeMs": 0.421925,
+    "memoryBytes": 18931168,
+    "valid": false,
+    "timestamp": "2026-01-17T12:47:58.571705353Z"
+  },
+  {
+    "testName": "random_25pct",
+    "algorithm": "infvc",
+    "iteration": 4,
+    "vertexCount": 18,
+    "edgeCount": 34,
+    "coverSize": 6,
+    "coverVertices": [
+      2,
+      3,
+      4,
+      8,
+      9,
+      12
+    ],
+    "timeMs": 10.150276,
+    "prepTimeMs": 0.103896,
+    "memoryBytes": 18931168,
+    "valid": false,
+    "timestamp": "2026-01-17T12:47:58.571706595Z"
+  },
+  {
+    "testName": "random_25pct",
+    "algorithm": "infvc",
+    "iteration": 5,
+    "vertexCount": 18,
+    "edgeCount": 34,
+    "coverSize": 6,
+    "coverVertices": [
+      2,
+      3,
+      4,
+      8,
+      9,
+      12
+    ],
+    "timeMs": 11.767375,
+    "prepTimeMs": 0.012808,
+    "memoryBytes": 18931168,
+    "valid": false,
+    "timestamp": "2026-01-17T12:47:58.571707403Z"
+  }
+]
